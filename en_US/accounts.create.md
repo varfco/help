@@ -1,3 +1,13 @@
+**Expense accounts**
+
+Only create expense accounts for places where you spend money.
+
+**Revenue accounts**
+
+Only create revenue accounts for places where you get money from.
+
+**Asset accounts**
+
 If you're creating an asset account, you should fill in the "opening balance" and the associated date. Very few people start using Firefly and have a 0.00 balance. Instead, they already have some money in their account. Get out your administration, read the current balance of the account you're adding, and fill it in.
 
 As for the roles that are available:
@@ -5,7 +15,7 @@ As for the roles that are available:
 - Using "default asset account" for your own accounts.
 - Use "shared asset account" for household account. Remember that money transfers _to_ such accounts count as expenses. Transfers _from_ such accounts are treated as deposits (income).
 - Use "savings account" for accounts on which you save money.
-- Use "credit card"
+- Use "credit card" for credit cards. You can add some details later.
 
 
 **Virtual balance**
