@@ -1,0 +1,1 @@
+In the expense accounts list, the balance difference is reversed. A positive balance means this account received money. *You* spend, and they receive it.
