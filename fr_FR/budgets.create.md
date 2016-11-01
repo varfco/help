@@ -1,0 +1,1 @@
+Create a new budget. Seems easy enough.
