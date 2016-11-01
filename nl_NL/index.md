@@ -1,3 +1,3 @@
-This is the index of Firefly. It shows you an overview.
+Dit is de index van Firefly. Je ziet een overzicht.
 
-Most stuff should be fairly obvious.
+De meeste dingen zouden voor de hand moeten liggen.
