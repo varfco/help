@@ -1,1 +1,1 @@
-You can set the title, a description and save some notes for the attachment.
+There is no extra help for this page.
