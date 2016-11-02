@@ -1,1 +1,1 @@
-At the moment, this page is empty. But it should be pretty self-evident.
+There is no extra help for this page.
