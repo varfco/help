@@ -4,14 +4,14 @@ There's something weird with expense accounts. Even though you pay into expense 
 
 There are three types of accounts.
 
-#### Asset accounts
+**Asset accounts**
 
 Accounts that hold your money: your bank accounts.
 
-#### Expense accounts
+**Expense accounts**
 
 These represent the people you pay. Shops are likely.
 
-#### Revenue accounts
+**Revenue accounts**
 
 These represent the people that pay you. Your job for example.
