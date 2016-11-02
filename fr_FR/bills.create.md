@@ -5,3 +5,5 @@ Use this form to create a new bill.
 * Use the amount (min) and (max) to indicate expected limits for the bill. Any higher or lower amounts will not be matched.
 * Automatch indicates whether Firefly will automatically search for matches when you create a new transaction.
 * If you enter a number in the "skip" fields, the bill will be automatically skipped every X times; a bill that arrives every 3 months can be entered by filling in "3".
+
+I'm not sure if the skip function actually works though.
