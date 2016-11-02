@@ -1,1 +1,1 @@
-This form should not give you any difficulties.
+There is no extra help for this page.
