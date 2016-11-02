@@ -1,1 +1,1 @@
-If you delete a piggy bank, nothing special will happen.
+There is no extra help for this page.
