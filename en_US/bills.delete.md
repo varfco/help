@@ -1,1 +1,1 @@
-Deletes the bill. Any related transactions will NOT be removed.
+There is no extra help for this page.

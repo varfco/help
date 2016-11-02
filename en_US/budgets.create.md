@@ -1,1 +1,1 @@
-Create a new budget. Seems easy enough.
+There is no extra help for this page.

@@ -1,1 +1,1 @@
-Use this page to change your password.
+There is no extra help for this page.
