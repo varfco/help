@@ -5,7 +5,11 @@ As for the roles that are available:
 - Using "default asset account" for your own accounts.
 - Use "shared asset account" for household account. Remember that money transfers _to_ such accounts count as expenses. Transfers _from_ such accounts are treated as deposits (income).
 - Use "savings account" for accounts on which you save money.
-- Use "credit card"
+- Use "credit card" for credit cards. If a card has been made a credit card, more options will become available.
+
+**Credit cards**
+
+Firefly only supports credit cards where you pay the card monthly. This information is currently not actively used however. But please fill it in and in the future Firefly may do something useful with this information.
 
 
 **Virtual balance**
