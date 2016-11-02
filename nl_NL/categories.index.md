@@ -1,1 +1,1 @@
-This is a list of all your categories.
+There is no extra help for this page.
