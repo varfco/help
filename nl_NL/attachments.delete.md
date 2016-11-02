@@ -1,1 +1,1 @@
-The attachment will be removed. The transaction will not be touched.
+There is no extra help for this page.
