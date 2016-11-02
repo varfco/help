@@ -1,0 +1,1 @@
+The attachment will be removed. The transaction will not be touched.
