@@ -1,0 +1,1 @@
+The page for individual users shows the same content as the list view does, together with some amusing statistics about the stuff the user has created.
