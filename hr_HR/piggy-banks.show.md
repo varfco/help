@@ -1,0 +1,1 @@
+This page shows you a piggy bank, its current state and if available, a history of what has changed.
