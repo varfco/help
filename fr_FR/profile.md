@@ -1,0 +1,1 @@
+This page shows you your profile page and your user ID, which is useful when importing data using the command line.
