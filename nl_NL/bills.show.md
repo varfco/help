@@ -1,3 +1,3 @@
-This view shows you the transactions related to the bill. You can opt to rescan all transactions to find missing entries.
+Hier zie je de transacties die horen bij het contract. Je kan ook alle transacties opnieuw scannen om missende transacties te vinden.
 
-The chart should be fairly obvious.
+De grafiek zou voor de hand moeten liggen.

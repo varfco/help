@@ -1,1 +1,1 @@
-This view shows the bills you've created.
+Hier zie je de contracten die je hebt gemaakt.
