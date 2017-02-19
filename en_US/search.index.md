@@ -11,6 +11,7 @@ To narrow down your search for specific transactions, you may use the following 
 * Use `budget:bills` to search for transactions with a specific budget.
 * Use `bill:insurance` to search for transactions tied to a specific bill.
 * Use `type:withdrawal` to search for specific types. Supported: transfer, deposit, withdrawal.
+* Use `on:2017-02-19`, `before:2016-12-10` or `after:2015-08-30` to limit the date range of the transactions returned.
 
 
 What you _cannot_ do with modifiers is the following:
@@ -18,6 +19,6 @@ What you _cannot_ do with modifiers is the following:
 * `source:my employer`: you cannot use spaces.
 * `destination:"albert heijn"`: using quotes will not help.
 * `amount:€12,35`: don't use currency denominators, and use the dot as the decimal separator.
-* `date:today` or `date:30/5/17:` the only supported format is `YYYY-MM-DD`. 
+* `on:today` or `before:30/5/17:` the only supported format is `YYYY-MM-DD`. 
 
 These extensions are on the way.
