@@ -19,3 +19,5 @@ What you _cannot_ do with modifiers is the following:
 * `destination:"albert heijn"`: using quotes will not help.
 * `amount:€12,35`: don't use currency denominators, and use the dot as the decimal separator.
 * `date:today` or `date:30/5/17:` the only supported format is `YYYY-MM-DD`. 
+
+These extensions are on the way.
