@@ -1,3 +1,3 @@
-Use this page to delete your account.
+Verwenden Sie diese Seite um Ihr Konto zu löschen.
 
-There is no undelete. It will all be gone.
+Es gibt kein Wiederherstellen. Es wird alles unwiderruflich gelöscht.

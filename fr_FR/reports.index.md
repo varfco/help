@@ -8,6 +8,10 @@ Will tell you how you are doing. Global overview.
 
 Will tell you how you accounts have gotten to their current point. Shows ALL available meta data. Can help you track down errors in your finances.
 
-#### Categories, budgets and bills overview
+#### Category report
 
-Will show you how you've been doing. Over-budgeted? Wrong categories?
+Will tell you what you have spent (and earned) in a (set of) category(ies).
+
+#### Budget report
+
+Will tell you what you have spent in a (set of) budget(s), also compared to the envelopes you created.
