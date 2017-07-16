@@ -1,1 +1,1 @@
-There is no extra help for this page.
+Just remember that you cannot undo this.
