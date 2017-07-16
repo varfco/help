@@ -1,0 +1,1 @@
+Except for the name, you may also set a budget to be "inactive", which removes it from most views and lists.
