@@ -1,3 +1,3 @@
-This page helps you create a piggy bank.
+This page helps you create a piggy bank. Set the target amount and optionally, the target date to match with what it is you wish to save for.
 
-The fields on this page should be obvious.
+You can use the "notes" field to store extra notes.
