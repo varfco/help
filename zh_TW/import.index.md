@@ -9,7 +9,3 @@ As you will discover over the next few pages, this import routine has a lot of s
 **Warning**
 
 The import function of Firefly III is in beta. Many users of Firefly III have tried many different files. Although each individual compontent of this import routine works (really), the combination might break. If your file cannot be imported by Firefly, please read [this wiki page](https://github.com/JC5/firefly-iii/wiki/Submit-issues-with-sensitive-data-in-them) so I can fix the problem you have run into.
-
-**More information**
-
-Right now Firefly III does not "join" the results of a single row. Let's say your import file has three fields. Account name, account IBAN and account number. These three fields point to the same account of course, they are three fields belonging to the same account. But Firefly III cannot handle this. It will try to find a or create an account for each field separately. This is something that needs to be fixed.
