@@ -1,1 +1,1 @@
-There is no extra help for this page.
+Scan this code with your two-factor app.

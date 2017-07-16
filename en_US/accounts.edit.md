@@ -11,7 +11,6 @@ As for the roles that are available:
 
 Firefly only supports credit cards where you pay the card monthly. This information is currently not actively used however. But please fill it in and in the future Firefly may do something useful with this information.
 
-
 **Virtual balance**
 
 Let's say you want to have a minimum balance of $100,- at all times. Enter "-100" and Firefly will treat a balance of $100,- as zero. If you are creating a credit card account, enter the limit of your credit card (for example $1000,-). Firefly will correctly display how far your limit is stretched.
