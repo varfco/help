@@ -1,3 +1,3 @@
-If you delete an account, any associated transactions will be removed as well. If you're deleting an asset account and you've transferred money between the current asset account and other asset accounts, you might see changed balances all around. Remember to correct this, if necessary.
+Si vous supprimez un compte, toutes les transactions associées seront également supprimées. Si vous supprimez un compte d'actif et que vous avez transféré de l'argent entre le compte d'actif actuel et d'autres comptes d'actif, vous allez peut-être voir des soldes modifiés un peu partout. Remember to correct this, if necessary.
 
 You can move the transactions to a new account if you wish to preserve them.
