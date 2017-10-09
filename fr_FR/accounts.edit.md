@@ -1,4 +1,4 @@
-If you're editing an asset account, you should fill in the "opening balance" and the associated date. Very few people start using Firefly and have a 0.00 balance. Instead, they already have some money in their account. Get out your administration, read the current balance of the account you're adding, and fill it in.
+Si vous créez un compte d'actif, vous devriez remplir le «solde d'ouverture» et la date associée. Très peu de gens commencent à utiliser Firefly et ont un solde de 0.00. Au lieu de cela, ils ont déjà un peu d'argent dans leur compte. Get out your administration, read the current balance of the account you're adding, and fill it in.
 
 As for the roles that are available:
 
