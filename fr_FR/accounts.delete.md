@@ -1,3 +1,3 @@
-Si vous supprimez un compte, toutes les transactions associées seront également supprimées. Si vous supprimez un compte d'actif et que vous avez transféré de l'argent entre le compte d'actif actuel et d'autres comptes d'actif, vous allez peut-être voir des soldes modifiés un peu partout. Remember to correct this, if necessary.
+Si vous supprimez un compte, toutes les transactions associées seront également supprimées. Si vous supprimez un compte d'actif et que vous avez transféré de l'argent entre le compte d'actif actuel et d'autres comptes d'actif, vous allez peut-être voir des soldes modifiés un peu partout. N'oubliez pas de corriger cela, si nécessaire.
 
-You can move the transactions to a new account if you wish to preserve them.
+Vous pouvez déplacer les transactions vers un nouveau compte si vous souhaitez les conserver.
