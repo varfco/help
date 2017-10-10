@@ -1,5 +1,5 @@
-This page shows you the preferences you can set. Use the tabs to navigate between them.
+Cette page vous montre les préférences que vous pouvez définir. Utilisez les onglets pour naviguer entre eux.
 
-Firefly III ships with more languages than are visible here. For example, Russian or Spanish. The translation of Firefly III into these languages is not yet complete.
+Firefly III est livré avec plus de langues que ce qui est visible ici. Par exemple, russe ou espagnol. La traduction de Firefly III dans ces langues n'est pas encore complète.
 
-If you wish to use Firely III in such a language, open your `.env` file and find the line that starts with `SHOW_INCOMPLETE_TRANSLATIONS`. Change it to read `SHOW_INCOMPLETE_TRANSLATIONS=true` and the incomplete languages will be made visible.
+Si vous souhaitez utiliser Firely III dans une telle langue, ouvrez votre ` .env ` fichier et trouver la ligne qui commence par ` SHOW_INCOMPLETE_TRANSLATIONS ` . Changez-le pour lire ` SHOW_INCOMPLETE_TRANSLATIONS = true ` et les langues incomplètes seront rendues visibles.
