@@ -1,7 +1,7 @@
-Each rule starts with a basic name and trigger moment: when will the rule fire? Is the rule even active? What is the description of the rule?
+Chaque règle commence par un nom de base et un moment de déclenchement: quand la règle va-t-elle se déclencher? La règle est-elle même active? Quelle est la description de la règle?
 
-Then you may add as many triggers as you want. Every trigger must be hit for a rule to be activated (AND). These triggers can be anything from the name of the source account to the number of attachments. It is completely up to you.
+Ensuite, vous pouvez ajouter autant de déclencheurs que vous le souhaitez. Chaque trigger doit être frappé pour qu'une règle soit activée (AND). Ces déclencheurs peuvent être n'importe quoi, du nom du compte source au nombre de pièces jointes. C'est à vous de décider.
 
-Then, Firefly III responds by executing actions. You can add as many actions as you like, in any order.
+Ensuite, Firefly III répond en exécutant des actions. Vous pouvez ajouter autant d'actions que vous le souhaitez, dans n'importe quel ordre.
 
-Rules are also applied to imported transactions.
+Les règles sont également appliquées aux transactions importées.
