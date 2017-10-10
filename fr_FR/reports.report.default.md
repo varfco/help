@@ -12,10 +12,10 @@ Enfin, une boîte indiquant l'état de toutes les factures pertinentes pour cett
 
 ### Plage de plus d'un mois
 
-Le rapport commence par un graphique montrant les soldes de vos comptes au fil du temps. Le graphique de gauche montre le revenu moyen et les dépenses. Ensuite, deux cases avec des soldes de compte et des revenus vs. dépenses. Below those two boxes, a box that lists all your income (on the left) and a box that lists all your expenses (on the right).
+Le rapport commence par un graphique montrant les soldes de vos comptes au fil du temps. Le graphique de gauche montre le revenu moyen et les dépenses. Ensuite, deux cases avec des soldes de compte et des revenus vs. dépenses. En dessous de ces deux cases, une case qui répertorie tous vos revenus (à gauche) et une case qui liste toutes vos dépenses (à droite).
 
-Then, a chart shows your "net worth", ie. all of your asset accounts combined over time.
+Ensuite, un graphique montre votre "valeur nette", c'est-à-dire. tous vos comptes d'actifs combinés au fil du temps.
 
-Below that a list of your budgets is visible with the expenses per month listed. Click the title and below the list, and a chart will appear below the box. Click the arrow-icon, and you will be taken to the budget page.
+En dessous, une liste de vos budgets est visible avec les dépenses par mois listées. Cliquez sur le titre et en dessous de la liste, et un graphique apparaîtra sous la boîte. Cliquez sur l'icône de la flèche et vous serez dirigé vers la page du budget.
 
-The same goes for the list of categories below the budget chart. There are two boxes (and two charts) for the categories: for income and expenses.
+Il en va de même pour la liste des catégories sous le tableau budgétaire. Il y a deux cases (et deux graphiques) pour les catégories: pour les revenus et les dépenses.
