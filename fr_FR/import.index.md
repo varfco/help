@@ -1,1 +1,1 @@
-Depending on your server configuration and general availability, just one or several import methods are available to you.
+Selon la configuration de votre serveur et la disponibilité générale, vous disposez d'une ou de plusieurs méthodes d'importation.
