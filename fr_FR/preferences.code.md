@@ -1,1 +1,1 @@
-Scan this code with your two-factor app.
+Scannez ce code avec votre application à deux facteurs.
