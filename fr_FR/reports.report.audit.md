@@ -1,6 +1,6 @@
-This is the audit report.
+Ceci est le rapport d'audit.
 
-First at the top, you will see all the available columns as checkboxes for this report. Not all of them have been checked, and it is up to you to enable or disable extra columns.
+Tout d'abord en haut, vous verrez toutes les colonnes disponibles comme cases à cocher pour ce rapport. Tous n'ont pas été cochées, et c'est à vous d'activer ou de désactiver des colonnes supplémentaires.
 
 Below those checkboxes, you will see set of boxes with information about the selected asset accounts. Each box starts with the balance at the end of the reporting period, and then lists all transactions and how they influenced that balance. Each box concludes with the balance at the start of the reporting period.
 
