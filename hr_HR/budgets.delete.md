@@ -1,1 +1,0 @@
-When you delete a budget, any transactions associated with the budget as well as any monetary limits will be removed as well.

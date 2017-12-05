@@ -1,1 +1,1 @@
-Es gibt keine zusätzliche Hilfe zu dieser Seite.
+There is no extra help for this page.

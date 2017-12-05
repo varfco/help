@@ -1,1 +1,1 @@
-Dies ist eine Liste Ihrer Transaktionen. Abhängig von Ihrer Auswahl, sehen Sie entweder ihre Ausgaben, Auszahlungen oder Überweisungen. Sie sind nach Datum sortiert.
+This is a list of all your transactions. Depending on your selection, you'll either see your expenses, withdrawals or transfers. They are sorted by date.

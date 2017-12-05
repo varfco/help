@@ -1,1 +1,1 @@
-Diese Seite zeigt Ihnen alle Eigenschaften einer Transaktion.
+This page will show you all the properties of a transaction.

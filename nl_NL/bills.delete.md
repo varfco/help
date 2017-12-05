@@ -1,1 +1,1 @@
-Er is geen hulptekst voor deze pagina.
+There is no extra help for this page.

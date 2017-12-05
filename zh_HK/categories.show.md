@@ -1,1 +1,0 @@
-This page shows you an overview of what you've spent in the current category.

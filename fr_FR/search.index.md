@@ -1,6 +1,6 @@
-La recherche permet de trouver des opérations, comptes, budgets, etc.
+The search can be used to find transactions, accounts, budgets, etc.
 
-Pour affiner votre recherche pour des transactions spécifiques, vous pouvez utiliser les « filtres » ci-dessous. These are limited to transactions and work together: if you search for transactions with a specific date AND of a specific type, both conditions must be met.
+To narrow down your search for specific transactions, you may use the following "modifiers". These are limited to transactions and work together: if you search for transactions with a specific date AND of a specific type, both conditions must be met.
 
 * Use `amount:12.34` to find transactions with *exactly* this amount. You must use dots (.) as decimal separator.
 * You can use `amount_less:100.00` and `amount_more:15.02` in the same fashion.

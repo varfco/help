@@ -1,1 +1,1 @@
-Hier zie je de transacties die horen bij het contract. Je kan ook alle transacties opnieuw scannen om missende transacties te vinden.
+This view shows you the transactions related to the bill. You can opt to rescan all transactions to find missing entries.

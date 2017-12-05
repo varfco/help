@@ -1,1 +1,0 @@
-Editing a piggy bank should be fairly obvious. If you change the amount to below the amount currently saved, the piggy bank will be updated to reflect this.
