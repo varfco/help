@@ -3,7 +3,7 @@
 #
 "api_key_env": CROWDIN_API_KEY_HELP
 "project_identifier_env": CROWDIN_PROJECT_ID_HELP
-"base_path_env": CROWDIN_BASE_PATH
+"base_path_env": CROWDIN_BASE_PATH_HELP
 #"base_url" : ""
 
 #
