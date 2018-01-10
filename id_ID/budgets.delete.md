@@ -1,0 +1,1 @@
+Bila Anda menghapus anggaran, transaksi yang ditautkan tidak akan dihapus. Namun, setiap sejarah keuangan (jumlah dll) akan dihapus juga.

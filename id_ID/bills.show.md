@@ -1,0 +1,1 @@
+Tampilan ini menunjukkan transaksi yang terkait dengan tagihan. Anda dapat memilih untuk menelusuri ulang semua transaksi untuk menemukan entri yang hilang.

@@ -1,0 +1,1 @@
+Ini adalah daftar semua transaksi Anda. Bergantung pada pilihan Anda, Anda akan melihat pengeluaran, penarikan atau transfer Anda. Mereka diurutkan menurut tanggal.

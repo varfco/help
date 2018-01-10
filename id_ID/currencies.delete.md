@@ -1,0 +1,1 @@
+Anda hanya bisa menghapus mata uang bila tidak ada transaksi yang menggunakannya. Sebagian besar mata uang dapat dihapus dengan aman bila Anda tidak menggunakannya.

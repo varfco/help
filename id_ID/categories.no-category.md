@@ -1,0 +1,1 @@
+Transaksi ini tidak memiliki kategori yang menyertainya.

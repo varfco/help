@@ -1,0 +1,1 @@
+Ini adalah ikhtisar dari semua transaksi yang belum diberi anggaran.

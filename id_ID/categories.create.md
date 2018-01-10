@@ -1,0 +1,1 @@
+Sebuah kategori dapat digunakan untuk mengelompokkan pengeluaran dan mengawasi keuangan Anda. Halaman ini memungkinkan Anda membuat kategori baru.

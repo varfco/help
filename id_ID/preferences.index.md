@@ -1,0 +1,1 @@
+Halaman ini menunjukkan preferensi yang dapat Anda atur. Gunakan tab untuk menavigasi di antara keduanya.

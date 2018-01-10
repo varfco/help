@@ -1,0 +1,1 @@
+Sebuah kelompok aturan tidak lebih dari pemegang beberapa peraturan. Ini bisa memiliki nama dan deskripsi.
