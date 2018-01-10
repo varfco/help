@@ -1,0 +1,1 @@
+Bu, bütçeye atanmamış tüm hareketlere genel bir bakıştır.

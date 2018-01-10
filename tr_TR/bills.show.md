@@ -1,0 +1,1 @@
+Bu görüntü size fatura ile ilişkili hareketleri gösterir. Tüm hareketlerdeki kayıp girişleri yeniden taramayı seçebilirsiniz.

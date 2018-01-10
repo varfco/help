@@ -1,0 +1,1 @@
+Bir bütçeyi sildiğinizde, bütçeyle alakalı hareketler silinmeyecektir. Ancak, herhangi mali geçmiş (miktarlar vb.) silinecektir.

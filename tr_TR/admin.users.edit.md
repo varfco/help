@@ -1,0 +1,1 @@
+Tüm kullanıcıların bütün görünümlerini değiştirebilirsiniz. Lütfen dikkatli olun, kendinizi (ya da başkalarını) sistem dışında bırakmak çok kolaydır.
