@@ -1,1 +1,1 @@
-This is a list of all your transactions. Depending on your selection, you'll either see your expenses, withdrawals or transfers. They are sorted by date.
+Il s’agit d’une liste de toutes vos opérations. En fonction de votre sélection, vous pourrez afficher ou masquer vos dépenses, retraits ou transferts. Ils sont triés par date.

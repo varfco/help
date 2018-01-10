@@ -1,1 +1,1 @@
-A rule group is nothing more than the holder for several rules. It can have a name and a description.
+Un groupe de règles n'est rien de plus que le conteneur de plusieurs règles. Il peut avoir un nom et une description.
