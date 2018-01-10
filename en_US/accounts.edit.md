@@ -3,7 +3,7 @@ If you're editing an asset account, you should fill in the "opening balance" and
 As for the roles that are available:
 
 - Using "default asset account" for your own accounts.
-- Use "shared asset account" for household account. Remember that money transfers _to_ such accounts count as expenses. Transfers _from_ such accounts are treated as deposits (income).
+- Use "shared asset account" for household account. Remember that money transfers *to* such accounts count as expenses. Transfers *from* such accounts are treated as deposits (income).
 - Use "savings account" for accounts on which you save money.
 - Use "credit card" for credit cards. If a card has been made a credit card, more options will become available.
 
