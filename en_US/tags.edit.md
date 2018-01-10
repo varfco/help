@@ -1,1 +1,1 @@
-There is no extra help for this page.
+Edit a tag to change the tag itself, the date or the location.

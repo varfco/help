@@ -13,7 +13,6 @@ To narrow down your search for specific transactions, you may use the following 
 * Use `type:withdrawal` to search for specific types. Supported: transfer, deposit, withdrawal.
 * Use `on:2017-02-19`, `before:2016-12-10` or `after:2015-08-30` to limit the date range of the transactions returned.
 
-
 What you _cannot_ do with modifiers is the following:
 
 * `source:my employer`: you cannot use spaces.
@@ -21,4 +20,3 @@ What you _cannot_ do with modifiers is the following:
 * `amount:€12,35`: don't use currency denominators, and use the dot as the decimal separator.
 * `on:today` or `before:30/5/17:` the only supported format is `YYYY-MM-DD`. 
 
-These extensions are on the way.

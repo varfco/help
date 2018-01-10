@@ -1,1 +1,1 @@
-There is no extra help for this page.
+You can mass edit transactions using this form.

@@ -1,1 +1,1 @@
-There is no extra help for this page.
+Here you can edit a rule group.

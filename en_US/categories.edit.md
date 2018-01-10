@@ -1,1 +1,1 @@
-There is no extra help for this page.
+You can change the name of a category.

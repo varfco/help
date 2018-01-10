@@ -1,1 +1,1 @@
-There is no extra help for this page.
+When you delete a rule, the triggers and actions will no longer work.

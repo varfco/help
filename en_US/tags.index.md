@@ -1,1 +1,1 @@
-There is no extra help for this page.
+This shows an overview of all your tags. They are grouped by year. The larger a tag is, the more money is linked to it.

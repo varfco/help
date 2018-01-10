@@ -1,1 +1,1 @@
-There is no extra help for this page.
+When you delete a tag, it will be removed from all associated transactions.

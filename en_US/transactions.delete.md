@@ -1,1 +1,1 @@
-There is no extra help for this page.
+When you delete a transaction all related entries such as attachments will also be deleted.

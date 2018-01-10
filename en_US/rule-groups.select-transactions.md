@@ -1,1 +1,1 @@
-There is no extra help for this page.
+You can run a rule group on your transactions, matching any old or new rules in the rule group.

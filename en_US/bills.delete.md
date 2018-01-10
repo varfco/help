@@ -1,1 +1,1 @@
-There is no extra help for this page.
+When you delete the bill, transactions associated with the bill will lose this association.

@@ -1,4 +1,4 @@
-This page is the same as the "create a new bill"-page.
+You can edit a bill.
 
 * The name is descriptive only and is not used internally.
 * Use the "matches on" field to save words that will trigger a connection between new transactions and this bill. The "matches on"-field will also trigger on the expense account name. The match is a "AND"-field, meaning every word must be matched for the transaction to match.

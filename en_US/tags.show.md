@@ -1,1 +1,1 @@
-There is no extra help for this page.
+This shows an overview of the tag: the date, place and all transactions associated with it.

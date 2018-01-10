@@ -1,1 +1,1 @@
-There is no extra help for this page.
+Use this form to change your password. I suggest you verify your password as well.
