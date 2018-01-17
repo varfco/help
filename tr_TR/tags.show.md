@@ -1,0 +1,1 @@
+Bu etikete genel bir bakışı gösterir: tarih, yer ve etiketle ilişkili tüm faaliyetler.

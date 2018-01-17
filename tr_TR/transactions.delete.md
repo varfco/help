@@ -1,0 +1,1 @@
+Bir faaliyeti sildiğinizde bununla ilgili tüm girişler mesela ekler de silinecektir.

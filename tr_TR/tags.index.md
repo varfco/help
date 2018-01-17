@@ -1,0 +1,1 @@
+Bu tüm etiketlerinize genel bakışı gösterir. Onlar yıllara gruplandırılırlar. Geniş bir etiket daha fazla para ile bağlantılıdır.

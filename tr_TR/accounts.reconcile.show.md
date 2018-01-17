@@ -1,0 +1,1 @@
+Bu görüntü bir mutabakat hareketini gösterir. Bakiyenizi, alakalı varlık hesabından para çıkararak veya bu hesaba para ekleyerek düzeltir.

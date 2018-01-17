@@ -1,0 +1,1 @@
+Bu formu kullanarak tüm faaliyetleri toplu düzenleyebilirsiniz.

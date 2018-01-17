@@ -1,0 +1,1 @@
+Bir kuralı sildiğinizde tetikleyiciler ve eylemler artık çalışmaz.

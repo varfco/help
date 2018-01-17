@@ -8,7 +8,7 @@ Only create revenue accounts for places where you get money from.
 
 **Asset accounts**
 
-If you're creating an asset account, you should fill in the "opening balance" and the associated date. Very few people start using Firefly and have a 0.00 balance. Instead, they already have some money in their account. Get out your administration, read the current balance of the account you're adding, and fill it in.
+If you're creating an asset account, you should fill in the "opening balance" and the associated date. Very few people start using Firefly III and have a 0.00 balance. Instead, they already have some money in their account. Get out your administration, read the current balance of the account you're adding, and fill it in.
 
 As for the roles that are available:
 
@@ -19,4 +19,4 @@ As for the roles that are available:
 
 **Virtual balance**
 
-Let's say you want to have a minimum balance of $100,- at all times. Enter "-100" and Firefly will treat a balance of $100,- as zero. If you are creating a credit card account, enter the limit of your credit card (for example $1000,-). Firefly will correctly display how far your limit is stretched.
+Let's say you want to have a minimum balance of $100,- at all times. Enter "-100" and Firefly III will treat a balance of $100,- as zero. If you are creating a credit card account, enter the limit of your credit card (for example $1000,-). Firefly III will correctly display how far your limit is stretched.

@@ -1,8 +1,8 @@
 Firefly III supports "rules": Small building blocks of actions that are triggered when a transaction is created or updated.
 
-If your transaction has certain properties (called "triggers") Firefly will execute the "actions". Combined, you can make Firefly respond in a certain way to transactions.
+If your transaction has certain properties (called "triggers") Firefly III will execute the "actions". Combined, you can make Firefly III respond in a certain way to transactions.
 
-On this page you see your rule groups, and the rules they contain. If you have no rules or rule groups, Firefly will create a default rule and rule group, as an example.
+On this page you see your rule groups, and the rules they contain. If you have no rules or rule groups, Firefly III will create a default rule and rule group, as an example.
 
 You can sort the rule triggers, and the rule actions. If you create a rule, the help page will show you what's possible.
 

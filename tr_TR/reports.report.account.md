@@ -1,0 +1,1 @@
+Bu rapor size belirli hesap türlerinin nasıl yapılacağını gösterir.

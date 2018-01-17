@@ -1,0 +1,1 @@
+Nakit para çekme veya nakit para yatırma oluşturduğunuzda, gelir/gider hesabı alanını boş bırakabilirsiniz.

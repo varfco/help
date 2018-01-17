@@ -1,0 +1,1 @@
+Bu sayfa size aktarıcının ne yaptığını gösterir. Eğer uzun zaman alırsa, otomatik olarak zaman aşımı olacaktır ve hata verecektir.

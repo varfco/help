@@ -1,0 +1,1 @@
+Ayrıca ismin dışında bir bütçeyi "pasif" olarak ayarlayabilirsiniz, bu bütçe sık görüntülenenlerden ve listelerden kaldırılır. Artık hareketleri ona da atayamazsınız.

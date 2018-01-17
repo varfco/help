@@ -1,0 +1,1 @@
+Etiketin, kendisini, tarihini veya konumunu değiştirmek için etiketi düzenleyin.

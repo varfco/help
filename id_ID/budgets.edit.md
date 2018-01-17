@@ -1,0 +1,1 @@
+Kecualai untuk bagian nama, anda juga bisa mengatur anggaran agar ''tidak aktif'', yang akan menghilangkannya dari kebanyakan tampilan dan daftar. Anda juga tidak bisa lagi melakukn transaksi di bagian tersebut.

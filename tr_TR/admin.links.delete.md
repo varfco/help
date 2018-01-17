@@ -1,0 +1,1 @@
+Oluşturduğunuz bağlantılar silinebilir. Bu hareketler arasındaki bağlantıyı kaybetmek istemiyorsanız, bu hareketleri farkı türde bir hareket bağlantısına taşıyabilirsiniz.

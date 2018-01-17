@@ -1,0 +1,1 @@
+İşlemlerinizde, kural grubundaki eski veya yeni kurallarla eşleşen bir kural grubu çalıştırabilirsiniz.

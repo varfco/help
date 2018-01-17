@@ -1,0 +1,1 @@
+Bu formu kullanarak tüm faaliyetleri toplu silebilirsiniz. Silmek istemediğiniz faaliyetlerin seçimini kaldırın.

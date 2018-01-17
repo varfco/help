@@ -1,0 +1,1 @@
+Burada hareket bağlantısının finansal yönetiminizde nasıl kullanıldığını görebilirsiniz. Hareketler arasındaki bağlantıyı silebileceğinizi ve onların yerlerini değiştirebileceğinizi not edin.

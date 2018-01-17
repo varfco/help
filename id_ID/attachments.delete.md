@@ -1,0 +1,1 @@
+Halaman ini mengizinkan anda untuk menghapus sebuah lampiran. Ingatlah bahwa anda tidak bisa mengembalikannya. File yang sudah di enkripsi akan dihapus dari disket.

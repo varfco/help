@@ -1,0 +1,1 @@
+Link yang sudah anda buat sendiri bisa dihapus. Jika anda tidak mau kehilangan koneksi diantara transaksi-transaksi tersebut, anda bisa memigrasikan transaksi ke jenis link transaksi yang berbeda.

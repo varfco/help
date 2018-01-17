@@ -1,0 +1,1 @@
+Bu faaliyetler onlara bağlı kategoriye sahip değildir.

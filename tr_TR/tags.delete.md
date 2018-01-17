@@ -1,0 +1,1 @@
+Bir etiketi sildiğinizde, tüm ilgili işlemlerden kaldırılacaktır.

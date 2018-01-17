@@ -1,0 +1,1 @@
+Bir kural grubunu sildiğinizde, tüm kurallar da silinir.

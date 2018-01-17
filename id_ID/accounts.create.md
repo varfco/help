@@ -8,7 +8,7 @@ Buat saja akun pendapatan untuk tempat mendapatkan uang dari Anda.
 
 **Akun aset**
 
-Jika Anda membuat akun aset, Anda harus mengisi "saldo awal" dan tanggal yang terkait. Sangat sedikit orang yang mulai menggunakan Firefly dan memiliki keseimbangan 0.00. Sebagai gantinya, mereka sudah memiliki sejumlah uang di rekening mereka. Keluar dari administrasi Anda, baca saldo akun yang sedang Anda tambahkan, dan isi.
+Jika Anda membuat akun aset, Anda harus mengisi "saldo awal" dan tanggal yang terkait. Very few people start using Firefly III and have a 0.00 balance. Sebagai gantinya, mereka sudah memiliki sejumlah uang di rekening mereka. Keluar dari administrasi Anda, baca saldo akun yang sedang Anda tambahkan, dan isi.
 
 Adapun peran yang tersedia:
 
@@ -19,4 +19,4 @@ Adapun peran yang tersedia:
 
 **Saldo virtual**
 
-Misalkan Anda ingin memiliki saldo minimal $ 100, - setiap saat. Masukkan "-100" dan Firefly akan memperlakukan saldo $ 100, - sebagai nol. Jika Anda membuat akun kartu kredit, masukkan batas kartu kredit Anda (misalnya $ 1000, -). Firefly benar akan menampilkan seberapa jauh batas Anda diregangkan.
+Misalkan Anda ingin memiliki saldo minimal $ 100, - setiap saat. Enter "-100" and Firefly III will treat a balance of $100,- as zero. Jika Anda membuat akun kartu kredit, masukkan batas kartu kredit Anda (misalnya $ 1000, -). Firefly III will correctly display how far your limit is stretched.

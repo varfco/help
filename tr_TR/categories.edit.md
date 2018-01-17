@@ -1,0 +1,1 @@
+Bir kategorinin adını değiştirebilirsiniz.

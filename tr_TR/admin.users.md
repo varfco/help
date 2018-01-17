@@ -1,3 +1,3 @@
-Bu sayfa kurulumunuzdaki tüm kullanıcılara genel bir bakışı gösterir. Genellike bu sadece bir kullanıcı (siz) olur.
+Bu sayfa kurulumunuzdaki tüm kullanıcılara genel bir bakışı gösterir. Genellikle bu sadece bir kullanıcı (siz) olur.
 
-Every field should be obvious. The "block code" will never be filled in for your own account, but always for others. They may be filled in when the user is deleted (by you) or when the user has changed their email address.
+Her alan açık olmalıdır. Blok kodu kendi hesabınız için asla doldurulmamalıdır, fakat her zaman başkaları için doldurulacaktır. Onlar, kullanıcı sizin tarafından silindiğinde veya e-posta adresleri değiştirildiğinde doldurulabilir.

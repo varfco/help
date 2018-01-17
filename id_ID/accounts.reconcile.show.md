@@ -1,0 +1,1 @@
+Tampilan ini menunjukkan transaksi rekonsiliasi. Transaksi tersebut memperbaiki saldo anda, baik untuk memindahkan uang dari aset akun terkait, atau dengan menambahkan uang kedalam akun tersebut.

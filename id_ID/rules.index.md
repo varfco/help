@@ -1,8 +1,8 @@
 Firefly III mendukung "peraturan": Blok tindakan kecil yang dipicu saat transaksi dibuat atau diperbarui.
 
-Jika transaksi Anda memiliki properti tertentu (disebut "pemicu") Firefly akan mengeksekusi "tindakan". Gabungan, Anda bisa membuat Firefly merespons dengan cara tertentu terhadap transaksi.
+If your transaction has certain properties (called "triggers") Firefly III will execute the "actions". Combined, you can make Firefly III respond in a certain way to transactions.
 
-Di halaman ini Anda melihat grup aturan Anda, dan aturan yang dikandungnya. Jika Anda tidak memiliki aturan atau kelompok aturan, Firefly akan membuat aturan default dan grup aturan, sebagai contoh.
+On this page you see your rule groups, and the rules they contain. If you have no rules or rule groups, Firefly III will create a default rule and rule group, as an example.
 
 Anda dapat mengurutkan pemicu aturan, dan tindakan aturan. Jika Anda membuat aturan, halaman bantuan akan menunjukkan kepada Anda apa yang mungkin terjadi.
 

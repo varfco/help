@@ -1,4 +1,4 @@
-Jika Anda mengedit akun aset, Anda harus mengisi "saldo awal" dan tanggal yang terkait. Sangat sedikit orang yang mulai menggunakan Firefly dan memiliki keseimbangan 0,00. Sebagai gantinya, mereka sudah memiliki sejumlah uang di rekening mereka. Keluar dari administrasi Anda, baca saldo akun yang sedang Anda tambahkan, dan isi.
+Jika Anda mengedit akun aset, Anda harus mengisi "saldo awal" dan tanggal yang terkait. Very few people start using Firefly III and have a 0.00 balance. Sebagai gantinya, mereka sudah memiliki sejumlah uang di rekening mereka. Keluar dari administrasi Anda, baca saldo akun yang sedang Anda tambahkan, dan isi.
 
 Adapun peran yang tersedia:
 
@@ -9,8 +9,8 @@ Adapun peran yang tersedia:
 
 **Kartu kredit**
 
-Firefly hanya mendukung kartu kredit dimana Anda membayar kartu bulanan. Informasi ini saat ini belum digunakan secara aktif. Tapi tolong isi di dan di masa depan Firefly dapat melakukan sesuatu yang berguna dengan informasi ini.
+Firefly III only supports credit cards where you pay the card monthly. Informasi ini saat ini belum digunakan secara aktif. But please fill it in and in the future Firefly III may do something useful with this information.
 
 **Saldo virtual**
 
-Misalkan Anda ingin memiliki saldo minimal $ 100, - setiap saat. Masukkan "-100" dan Firefly akan memperlakukan saldo $ 100, - sebagai nol. Jika Anda membuat akun kartu kredit, masukkan batas kartu kredit Anda (misalnya $ 1000, -). Firefly benar akan menampilkan seberapa jauh batas Anda diregangkan.
+Misalkan Anda ingin memiliki saldo minimal $ 100, - setiap saat. Enter "-100" and Firefly III will treat a balance of $100,- as zero. Jika Anda membuat akun kartu kredit, masukkan batas kartu kredit Anda (misalnya $ 1000, -). Firefly III will correctly display how far your limit is stretched.
