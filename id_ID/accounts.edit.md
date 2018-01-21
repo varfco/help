@@ -3,9 +3,9 @@ Jika Anda mengedit akun aset, Anda harus mengisi "saldo awal" dan tanggal yang t
 Adapun peran yang tersedia:
 
 - Menggunakan "akun aset default" untuk akun Anda sendiri.
-- Gunakan "akun aset bersama" untuk akun rumah tangga. Ingat bahwa transfer uang * ke * akun tersebut dihitung sebagai biaya. Transfer * dari * akun tersebut diperlakukan sebagai deposito (pendapatan).
+- Use "shared asset account" for household account.
 - Gunakan "rekening tabungan" untuk akun tempat Anda menyimpan uang.
-- Gunakan "kartu kredit" untuk kartu kredit. Jika kartu telah dibuat dengan kartu kredit, lebih banyak pilihan akan tersedia.
+- Use "credit card" for credit cards. If an account has been made a credit card, more options will become available.
 
 **Kartu kredit**
 

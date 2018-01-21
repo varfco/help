@@ -3,9 +3,9 @@ Bir varlık hesabı düzenliyorsanız, "açılış bakiyesini" ve alakalı tarih
 Kullanılabilen rollere gelince:
 
 - Hesabınız için "varsayılan varlık hesabını" kullanma.
-- Hanehalkı hesabı için "paylaşılan varlık hesabını" kullanın. Şunu unutmayın ki bu tür hesaplara yapılan para transferleri *masraflar* olarak sayılır. Bu tür hesaplardan transferler *mevduat (gelir)* olarak değerlendirilir.
+- Use "shared asset account" for household account.
 - Tasarruf hesaplarınız için "tasarruf hesabını" kullanın.
-- Kredi kartları için "kredi kartını" kullanın. Eğer bir kart kredi kartı ile yapılmışsa, daha fazla seçenek kullanılabilecek.
+- Use "credit card" for credit cards. If an account has been made a credit card, more options will become available.
 
 **Kredi kartları**
 
