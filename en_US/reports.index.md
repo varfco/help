@@ -10,7 +10,7 @@ This report will give you a global overview of your finances and it is most used
 
 #### Transaction history overview (audit)
 
-This report will tell you how you accounts have gotten to their current point. It shows ALL transactions, and ALL available meta data. This can help you track down errors in your finances. Imagine this report as the "Account overview" but on steroids. This report has no extra options.
+This report will tell you how your accounts have gotten to their current point. It shows ALL transactions, and ALL available metadata. This can help you track down errors in your finances. Imagine this report as the "Account overview" but on steroids. This report has no extra options.
 
 #### Budget report
 
