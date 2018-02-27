@@ -2,4 +2,4 @@ The export page allows you to export basic information about your transactions s
 
 The export will contain all basic fields and amounts, some meta-information and currency data.
 
-Remember that such an export is NOT enough to restore your Firefly III installation! The data exported does not include budgeted amounts, links to bills or other meta data. If you wish to make a backup, please just export the database and your attachments.
+Remember that such an export is NOT enough to restore your Firefly III installation! The data exported does not include budgeted amounts, links to bills or other metadata. If you wish to make a backup, please just export the database and your attachments.
