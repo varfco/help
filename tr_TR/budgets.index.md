@@ -2,7 +2,7 @@ Bu sayfada bütçeleri ayarlayabilirsiniz. Her bütçe sadece şuan ki dönem i�
 
 **Fifrefly III'de bütçe ayarlama**
 
-Önce "*Kullanılabilir ~~~*"in yanındaki kurşun kalem simgesine tıklayarak size uygun miktarı ayarlayın. Varsayılan için bu sıfırdır. Gelecek ay harcayabileceğiniz miktarı görebilmek için (i) simgesine tıklayın. Bu örnekte, 1000'i kullanacağım.
+Önce "*Kullanılabilir ~~~*"in yanındaki kurşun kalem simgesine tıklayarak size uygun miktarı ayarlayın. By default, this is zero. Gelecek ay harcayabileceğiniz miktarı görebilmek için (i) simgesine tıklayın. Bu örnekte, 1000'i kullanacağım.
 
 Sonra, sağ üstteki "bir bütçe oluştur" butonuyla bazı bütçeler oluşturun. Tüm ihtiyacınız olan bütçeniz için bir isimdir.
 

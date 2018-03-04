@@ -1,0 +1,1 @@
+Usted solo puede borrar una moneda cuando ninguna transacción la usa. La mayoría de las monedas pueden borrarse de manera segura cuando usted no las usa.

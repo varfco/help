@@ -1,0 +1,1 @@
+Excepto por el nombre, también puede establecer un presupuesto como "inactivo", que lo elimina de la mayoría de las vistas y listas. Ya no le puede asignar transacciones.

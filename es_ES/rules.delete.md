@@ -1,0 +1,1 @@
+Cuando usted elimina la regla, los disparadores y las acciones ya no funcionaran.

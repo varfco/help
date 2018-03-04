@@ -1,0 +1,1 @@
+Esta es una descripción de todas las transacciones que no han sido asignadas al presupuesto.

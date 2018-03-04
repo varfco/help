@@ -1,0 +1,1 @@
+Este reporte le muestra a usted como cierto tipo de cuentas están funcionando.

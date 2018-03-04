@@ -10,7 +10,7 @@ Laporan ini akan memberi Anda ikhtisar global tentang keuangan Anda dan ini pali
 
 #### Ikhtisar riwayat transaksi (audit)
 
-Laporan ini akan menjelaskan bagaimana akun Anda sampai pada titik saat ini. Ini menunjukkan SEMUA transaksi, dan SEMUA data meta yang tersedia. Ini bisa membantu Anda melacak kesalahan dalam keuangan Anda. Bayangkan laporan ini sebagai "Ikhtisar akun" namun tentang steroid. Laporan ini tidak memiliki pilihan tambahan.
+This report will tell you how your accounts have gotten to their current point. It shows ALL transactions, and ALL available metadata. Ini bisa membantu Anda melacak kesalahan dalam keuangan Anda. Bayangkan laporan ini sebagai "Ikhtisar akun" namun tentang steroid. Laporan ini tidak memiliki pilihan tambahan.
 
 #### Laporan anggaran
 

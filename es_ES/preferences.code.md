@@ -1,0 +1,1 @@
+Escanee este código con su aplicación de dos factores.

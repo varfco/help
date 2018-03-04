@@ -1,0 +1,1 @@
+Cuando usted elimina una etiqueta, se eliminara de todas las transacciones asociadas.

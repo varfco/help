@@ -1,0 +1,1 @@
+Cuando usted elimina una transacción todas las entradas relacionadas como los archivos adjuntos también se eliminaran.

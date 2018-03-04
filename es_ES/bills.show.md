@@ -1,0 +1,1 @@
+Esta vista le muestra las transacciones relacionadas con la factura. Puede optar por volver a revisar todas las transacciones para buscar entradas faltantes.

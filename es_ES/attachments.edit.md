@@ -1,0 +1,1 @@
+Los archivos adjuntos tienen algunos campos que puede editar aquí, para que parezcan un poco más amigables en su resumen de transacciones.

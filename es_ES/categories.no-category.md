@@ -1,0 +1,1 @@
+Esta categoría no tiene ninguna categoría adjuntada.

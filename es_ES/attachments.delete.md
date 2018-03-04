@@ -1,0 +1,1 @@
+Esta página le permite eliminar un archivo adjunto. Solo recuerde que no puede revertir esto. El archivo encriptado se eliminará del disco.

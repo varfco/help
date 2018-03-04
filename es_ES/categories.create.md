@@ -1,0 +1,1 @@
+Una categoría se puede usar para agrupar gastos y mantener un ojo en sus finanzas. Esta pagina le permite usted crear una nueva categoría.

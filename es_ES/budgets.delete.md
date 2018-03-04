@@ -1,0 +1,1 @@
+Cuando elimina un presupuesto, las transacciones relacionadas no serán eliminadas. Sin embargo, cualquier historial financiero (cantidades, etc.) será eliminado también.

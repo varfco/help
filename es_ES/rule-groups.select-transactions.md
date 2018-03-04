@@ -1,0 +1,1 @@
+Usted puede ejecutar un grupo de reglas en sus transacciones, coincidiendo cualquier regla anterior o nueva en el grupo de reglas.

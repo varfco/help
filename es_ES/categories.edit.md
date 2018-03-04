@@ -1,0 +1,1 @@
+Usted puede cambiar el nombre de una categoria.

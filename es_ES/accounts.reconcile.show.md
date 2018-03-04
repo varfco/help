@@ -1,0 +1,1 @@
+Esta vista exhibe una transacción de reconciliación. Ajusta su saldo, extrayendo dinero de la cuenta de activos asociada o añadiendo dinero a ella.

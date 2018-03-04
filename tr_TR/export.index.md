@@ -2,4 +2,4 @@ Dışa aktarım sayfası size, faaliyetleriniz hakkında temel bilgileri dışa 
 
 Dışa aktarım tüm temel alanları ve miktarları, meta-bilgileri ve şuan ki döviz birimi verisini içerecektir.
 
-Böyle bir aktarımın Firefly III kurulumunuzu geri yüklemek için yeterli olmadığını unutmayın! Dışa aktarılmış veri bütçelenmiş miktarları, fatura bağlantılarını veya diğer meta verileri içermez. Yedekleme yapmak isterseniz, lütfen sadece veritabanını ve eklerinizi dışa aktarın.
+Böyle bir aktarımın Firefly III kurulumunuzu geri yüklemek için yeterli olmadığını unutmayın! The data exported does not include budgeted amounts, links to bills or other metadata. Yedekleme yapmak isterseniz, lütfen sadece veritabanını ve eklerinizi dışa aktarın.

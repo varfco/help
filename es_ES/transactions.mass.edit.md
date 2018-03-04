@@ -1,0 +1,1 @@
+Usted puede editar transacciones en masa usando este form.

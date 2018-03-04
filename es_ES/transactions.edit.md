@@ -1,0 +1,1 @@
+Cuando usted crea un retiro de efectivo o un deposito en efectivo, usted puede dejar vacío el campo de cuenta de gastos/ingresos.

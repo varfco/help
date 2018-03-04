@@ -1,0 +1,1 @@
+Esta pagina le muestra lo que el exportador esta haciendo. Si toma mucho tiempo, automáticamente sera tiempo de espera y dará error.

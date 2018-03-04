@@ -1,0 +1,1 @@
+Usted puede eliminar transacciones en masa usando este formulario. Deseleccione cualquier transacción que usted no quiere eliminar después de todo.

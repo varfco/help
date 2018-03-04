@@ -1,0 +1,1 @@
+Esto le muestra a usted una lista de todas las categorías y cuando fue utilizada por ultima vez. Usted puede crear nuevas categorías tanto manualmente o cuando entre a una nueva transacción. También hay un botón especial para transacciones sin categoría.

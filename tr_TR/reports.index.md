@@ -10,7 +10,7 @@ Bu rapor size hesabınızın genel durumunu verecektir ve çoğunlukla (hem geç
 
 #### İşlem geçmişine genel bakış (denetim)
 
-Bu rapor size hesapların şimdiki noktalarına nasıl ulaştığını söyleyecektir. Tüm faaliyetleri ve tüm kullanılabilir meta verileri gösterir. Bu ekonominizin hatalarını izlemenize yardımcı olabilir. Bu raporu abartılı "hesap genel bakışı olarak" düşünün. Bu rapor ekstra seçeneklere sahip değildir.
+This report will tell you how your accounts have gotten to their current point. It shows ALL transactions, and ALL available metadata. Bu ekonominizin hatalarını izlemenize yardımcı olabilir. Bu raporu abartılı "hesap genel bakışı olarak" düşünün. Bu rapor ekstra seçeneklere sahip değildir.
 
 #### Bütçe raporu
 
