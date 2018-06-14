@@ -1,1 +1,0 @@
-Bu kodu iki faktörlü uygulamanız ile tarayın.

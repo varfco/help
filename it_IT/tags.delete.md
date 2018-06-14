@@ -1,0 +1,1 @@
+Quando elimini un'etichetta, questa verrà rimossa da tutte le transazioni associate.

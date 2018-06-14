@@ -1,0 +1,1 @@
+Quando elimini un gruppo di regole, verranno eliminate anche tutte le regole.

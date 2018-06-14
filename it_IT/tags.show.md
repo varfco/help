@@ -1,0 +1,1 @@
+Questo mostra una panoramica dell'etichetta: la data, il luogo e tutte le transazioni ad essa associate.

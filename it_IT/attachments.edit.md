@@ -1,0 +1,1 @@
+Gli allegati hanno alcuni campi che puoi modificare qui, così che possano apparire in maniera più elegante nella panoramica della transazione.

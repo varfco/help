@@ -1,0 +1,1 @@
+Quando si crea un prelievo in contanti o un deposito in contanti, è possibile lasciare vuoto il campo del conto spesa/entrata.

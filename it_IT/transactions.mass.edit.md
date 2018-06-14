@@ -1,0 +1,1 @@
+È possibile modificare le transazioni in blocco utilizzando questo modulo.

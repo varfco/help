@@ -1,0 +1,1 @@
+Una categoria può essere utilizzata per raggruppare le spese e tenere d'occhio le tue finanze. Questa pagina ti consente di creare una nuova categoria.

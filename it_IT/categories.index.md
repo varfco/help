@@ -1,0 +1,1 @@
+Questa pagina ti mostra un elenco di tutte le categorie presenti nel tuo sistema e l'ultima volta che sono state utilizzate. Puoi creare nuove categorie sia manualmente sia quando inserisci una nuova transazione. C'è anche un pulsante speciale per le transazioni senza categoria.

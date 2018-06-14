@@ -1,0 +1,1 @@
+A queste transazioni non è associata alcuna categoria.

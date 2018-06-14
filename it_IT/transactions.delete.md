@@ -1,0 +1,1 @@
+Quando si elimina una transazione, verranno eliminate anche tutte le voci correlate come gli allegati.

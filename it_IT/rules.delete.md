@@ -1,0 +1,1 @@
+Quando elimini una regola, i trigger e le azioni non funzioneranno più.

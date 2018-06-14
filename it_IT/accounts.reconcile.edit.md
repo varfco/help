@@ -1,0 +1,1 @@
+Può succedere che dopo una riconciliazione tu voglia modificare l'importo che è stato corretto. Oppure desideri aggiungere un'etichetta o una categoria. Puoi fare ciò in questa pagina.

@@ -1,0 +1,1 @@
+Quando elimini un budget, le transazioni collegate non verranno eliminate. Tuttavia, qualsiasi storia finanziaria (importi ecc.) verrà eliminata.

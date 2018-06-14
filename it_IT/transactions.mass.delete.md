@@ -1,0 +1,1 @@
+È possibile eliminare le transazioni in blocco utilizzando questo modulo. Deseleziona tutte le transazioni che non vuoi cancellare.

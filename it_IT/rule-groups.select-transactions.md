@@ -1,0 +1,1 @@
+È possibile eseguire un gruppo di regole sulle transazioni, facendo abbinare le regole vecchie o nuove nel gruppo di regole.

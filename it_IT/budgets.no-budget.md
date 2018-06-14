@@ -1,0 +1,1 @@
+Questa è una panoramica di tutte le transazioni a cui non è stato assegnato un budget.

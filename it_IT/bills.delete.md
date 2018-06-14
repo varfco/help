@@ -1,0 +1,1 @@
+Quando elimini la bolletta, le transazioni associate alla bolletta perderanno questa associazione.

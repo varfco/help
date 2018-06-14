@@ -1,0 +1,1 @@
+Questa schermata mostra una transazione di riconciliazione. Corregge il tuo saldo rimuovendo o aggiungendo del denaro nel conto patrimoniale associato.

@@ -1,0 +1,1 @@
+Modifica un'etichetta per modificare l'etichetta stessa, la data o la posizione.

@@ -1,0 +1,1 @@
+Questa pagina ti permette di eliminare un allegato. Ricordati solamente che non puoi annullare questa operazione. Il file criptato verrà rimosso dalle memoria.

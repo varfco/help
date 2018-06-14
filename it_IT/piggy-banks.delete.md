@@ -1,0 +1,1 @@
+Quando elimini il salvadanaio, non puoi più tracciarne lo stato, tuttavia i soldi saranno disponibili per altri salvadanai.
