@@ -1,0 +1,1 @@
+This allows you to delete a recurring transaction.
