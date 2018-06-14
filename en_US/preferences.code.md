@@ -1,1 +1,0 @@
-Scan this code with your two-factor app.
