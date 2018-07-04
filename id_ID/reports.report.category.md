@@ -3,3 +3,5 @@ Laporan ini menunjukkan kepada Anda pengaruh kategori yang dipilih terhadap akun
 Ini dimulai dengan beberapa grafik yang menunjukkan kepada Anda bagaimana uang di kategori telah mengalir. Kemudian, bagan "pendapatan dan pengeluaran" yang rumit menunjukkan kepada Anda seperti apa bentuknya dari waktu ke waktu.
 
 Akhirnya, beberapa statistik tentang periode pelaporan dipresentasikan. Semua daftar bisa disesuaikan untuk kenyamanan Anda.
+
+Read more about reports in [the official documentation](https://firefly-iii.readthedocs.io/en/latest/advanced/reports.html).

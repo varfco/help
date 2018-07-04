@@ -1,7 +1,9 @@
 Gunakan formulir ini untuk membuat tagihan baru.
 
 * Nama deskriptif saja dan tidak digunakan secara internal.
-* Gunakan bidang "kecocokan" untuk menyimpan kata-kata yang akan memicu hubungan antara transaksi baru dan tagihan ini. "Pertandingan di" -field juga akan memicu nama akun pengeluaran. Pertandingan itu adalah "AND" -field, artinya setiap kata harus disesuaikan dengan transaksi yang akan dicocokkan.
-* Gunakan jumlah (min) dan (maks) untuk menunjukkan batas yang diharapkan untuk tagihan. Jumlah yang lebih tinggi atau lebih rendah tidak akan sesuai.
-* Otomatisasi mengindikasikan apakah Firefly III akan secara otomatis mencari kecocokan ketika anda membuat transaksi baru.
-* Jika Anda memasukkan nomor di kolom "lewati", tagihan akan dilewati secara otomatis setiap kali X; tagihan yang tiba setiap 3 bulan bisa dimasukkan dengan mengisi "3".
+* Use the amount (min) and (max) to indicate expected limits for the bill. These amounts are used to give you an idea of the amount of bills you have to pay each period.
+* If you enter a number in the "skip" fields, the bill will be automatically skipped every X times; a bill that arrives every 3 months can be entered by filling in "3".
+
+To match each bill to a transaction, you will be guided towards the page that allows you to create a bill. On this page you can enter the details of the kind of transaction you would want to match the bill.
+
+If you want to read more about bills, check out the [official documentation on transaction links](https://firefly-iii.readthedocs.io/en/latest/advanced/links.html).

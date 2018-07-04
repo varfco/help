@@ -27,3 +27,5 @@ Bu rapor size seçilen varlık hesapları üzerinde seçilen etiketlerden ne har
 #### Gider/Gelir hesabı raporu
 
 Bu rapor gelir kaynağı olan hesaplar ve de paranızı harcadığınız yerler için kullanılır. Walmart gibi bir süpermarkette çalışıyorsanız, böyle bir durum olabilir. Bu rapor size böyle hesapları birleştirmenize ve bakiyenizi görmenize izin verir.
+
+Read more about reports in [the official documentation](https://firefly-iii.readthedocs.io/en/latest/advanced/reports.html).

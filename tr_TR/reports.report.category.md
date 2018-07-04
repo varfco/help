@@ -3,3 +3,5 @@ Bu rapor seçilen varlık hesaplarında seçilen kategorilerin etkisini gösteri
 Kategorilerdeki paranın nasıl dolaştığını gösteren bazı grafiklerle başlar. Sonrasında, karmaşık bir "gelir ve giderler" grafiği bunun zaman içerisinde neye benzediğini gösterir.
 
 Sonunda, bazı raporlama dönemi hakkında istatistikler sunulmuştur. Tüm listeler size kolaylık sağlamak için sıralanabilir.
+
+Read more about reports in [the official documentation](https://firefly-iii.readthedocs.io/en/latest/advanced/reports.html).

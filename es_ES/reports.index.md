@@ -27,3 +27,5 @@ Este reporte le dirá a usted lo que ha gastado y ganado en las etiquetas selecc
 #### Reporte de la cuenta de gastos/ingresos
 
 Este reporte esta disponible para cuentas que son tanto fuentes de ingresos, como lugares donde gasto dinero. Si usted trabaja en un supermercado como Walmart, este podría ser el caso. Este reporte le permite a usted combinar tales cuentas y ver cual es el balance.
+
+Read more about reports in [the official documentation](https://firefly-iii.readthedocs.io/en/latest/advanced/reports.html).

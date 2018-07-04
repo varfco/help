@@ -5,3 +5,5 @@ Questa pagina mostra tutti i modi con i quali puoi collegare le transazioni. I c
 * Descrizione verso l'esterno. Questa descrive come la transazione A influenza B. Come per il precedente esempio ma al contrario.
 
 Puoi creare quanti collegamenti tra transazioni vuoi ma devono essere unici. Puoi modificare e eliminare i collegamenti che hai creato tu stesso.
+
+If you want to read more about transaction links, check out the [official documentation on transaction links](https://firefly-iii.readthedocs.io/en/latest/advanced/links.html).

@@ -5,3 +5,5 @@ Ardından, istediğiniz sayıda tetikleyici ekleyebilirsiniz. Bir kuralın etkin
 Sonra, Firefly III eylemler yürüterek cevap verir. Herhangi bir sırada istediğiniz kadar eylem ekleyebilirsiniz.
 
 İsterseniz, alınan işlemlerde kurallar da uygulanır.
+
+Read more about rules in [the official documentation](https://firefly-iii.readthedocs.io/en/latest/advanced/rules.html).

@@ -19,3 +19,5 @@ Kemudian, bagan menunjukkan "kekayaan bersih" Anda, yaitu. semua akun aset Anda 
 Di bawah ini daftar anggaran Anda terlihat dengan biaya per bulan yang tercantum. Klik judul dan di bawah daftar, dan grafik akan muncul di bawah kotak. Klik ikon panah, dan Anda akan dibawa ke halaman anggaran.
 
 Hal yang sama berlaku untuk daftar kategori di bawah bagan anggaran. Ada dua kotak (dan dua grafik) untuk kategori: untuk pendapatan dan pengeluaran.
+
+Read more about reports in [the official documentation](https://firefly-iii.readthedocs.io/en/latest/advanced/reports.html).

@@ -12,3 +12,5 @@
 3. 4000 руб. на отпуск, а 1000 руб. пока никуда не откладывать.
 
 Такой подход поможет вам упорядочить свои сбережения.
+
+Read more about piggy banks in [the official documentation](https://firefly-iii.readthedocs.io/en/latest/advanced/piggies.html).

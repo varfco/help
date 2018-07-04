@@ -1,4 +1,4 @@
-Questa pagina ti mostra un elenco di tutti i tuoi salvadanai. I salvadanai possono essere utilizzati per dividere il denaro in un conto patrimoniale in diversi "salvadanai". Questo rende facile risparmiare denaro.
+Questa pagina ti mostra un elenco di tutti i tuoi salvadanai. I salvadanai possono essere utilizzati per dividere il denaro in un conto attività in diversi "salvadanai". Questo rende facile risparmiare denaro.
 
 Ad esempio, potresti avere due salvadanai, entrambi collegati al tuo conto di risparmio:
 
@@ -12,3 +12,5 @@ Supponendo che tu abbia 900,00 nel tuo conto di risparmio, puoi dividere questo 
 3. 500,00 per la TV e niente per il nuovo PC, lasciando 400,00 da dividere.
 
 Questo può aiutarti ad organizzare i tuoi risparmi.
+
+Read more about piggy banks in [the official documentation](https://firefly-iii.readthedocs.io/en/latest/advanced/piggies.html).

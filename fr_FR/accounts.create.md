@@ -20,3 +20,5 @@ En ce qui concerne les rôles disponibles:
 **Solde virtuel**
 
 Admettons que vous voulez avoir un solde minimum de 100 €, en permanence. Enter "-100" and Firefly III will treat a balance of $100,- as zero. Si vous créez un compte de carte de crédit, entrez la limite de votre carte de crédit (par exemple, 1000 €, -). Firefly III will correctly display how far your limit is stretched.
+
+If you want to read more about accounts, check out the [official documentation on accounts](https://firefly-iii.readthedocs.io/en/latest/concepts/accounts.html).

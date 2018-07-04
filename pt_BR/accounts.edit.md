@@ -14,3 +14,5 @@ Firefly III only supports credit cards where you pay the card monthly. Atualment
 **Balanço virtual**
 
 Digamos que você deseja ter um saldo mínimo de US $ 100, - em todos os momentos. Enter "-100" and Firefly III will treat a balance of $100,- as zero. Se você estiver criando uma conta de cartão de crédito, insira o limite do seu cartão de crédito (por exemplo, $ 1000, -). Firefly III will correctly display how far your limit is stretched.
+
+If you want to read more about accounts, check out the [official documentation on accounts](https://firefly-iii.readthedocs.io/en/latest/concepts/accounts.html).

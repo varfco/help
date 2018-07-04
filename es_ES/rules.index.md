@@ -9,3 +9,5 @@ Usted puede ordenar los disparadores de regla y las acciones de regla. Si usted 
 Cada regla y cada grupo de reglas puede ser ejecutada en sus transacciones parta ver si funcionan y como funcionan.
 
 Para ver como funciona una regla, presione **Nueva regla**.
+
+Read more about rules in [the official documentation](https://firefly-iii.readthedocs.io/en/latest/advanced/rules.html).

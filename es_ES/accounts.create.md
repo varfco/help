@@ -20,3 +20,5 @@ Los roles que están disponibles:
 **Balance virtual**
 
 Digamos que usted quiere tener un mínimo de $100,- bajo cualquier circunstancia. Ingrese "-100" y Firefly III tomara un cuenta su saldo de $100,- como cero. Si desea crear una cuenta de tarjeta de crédito, registre el limite de su tarjeta de crédito (como por ejemplo $1000,-). Firefly III le mostrara correctamente que tanto su limite se extendió.
+
+If you want to read more about accounts, check out the [official documentation on accounts](https://firefly-iii.readthedocs.io/en/latest/concepts/accounts.html).

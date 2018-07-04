@@ -9,3 +9,5 @@ Puoi ordinare i trigger e le azioni di una regola. Se crei una regola, la pagina
 Ogni regola e ogni gruppo di regole possono essere eseguite sulle transazioni per vedere se funzionano e come funzionano.
 
 Per vedere come funziona una regola, premi **Nuova regola**.
+
+Read more about rules in [the official documentation](https://firefly-iii.readthedocs.io/en/latest/advanced/rules.html).

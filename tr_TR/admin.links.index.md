@@ -5,3 +5,5 @@ Bu sayfa faaliyetleri birbirine bağlayabileceğiniz tüm yolları gösterir. Ba
 * Dış açıklama. Bu B faaliyetinin A faaliyetinden nasıl etkilendiğini açıklar. Tıpkı bir önceki örnektekinin tersi gibi.
 
 Benzersiz olarak istediğiniz kadar çevirme bağlantısı oluşturabilirsiniz. sadece kendi oluşturduğunuz bağlantı açıklamalarını düzenleyebilir ya da silebilirsiniz.
+
+If you want to read more about transaction links, check out the [official documentation on transaction links](https://firefly-iii.readthedocs.io/en/latest/advanced/links.html).

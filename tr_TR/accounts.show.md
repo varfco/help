@@ -11,3 +11,5 @@ Gider hesapları para harcama gerçeğine rağmen "kazanılan" miktarlardan söz
 **Gelir hesapları**
 
 Tıpkı gider hesaplarının kazanılan hesaplardan söz ettiği gibi, gelir hesapları "harcadığınız" miktarlardan söz eder, çünkü teknik olarak aldığınız para gelir hesabı tarafından harcanır.
+
+If you want to read more about accounts, check out the [official documentation on accounts](https://firefly-iii.readthedocs.io/en/latest/concepts/accounts.html).

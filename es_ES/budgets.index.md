@@ -11,3 +11,5 @@ Cuando haya creado algunos presupuestos puede establecer el monto del presupuest
 Tanto la cantidad disponible como la cantidad presupuestada son para un período específico: si retrocede un mes o más de mes, ambas cantidades se restablecen. Firefly III por supuesto le recodordara que usted ha colocado cantidades, pero cada periodo tiene sus propios montos.
 
 En sus preferencias, puede cambiar este rango para que sea semanal, o incluso anual.
+
+If you want to read more about budgets, check out the [official documentation on budgets](https://firefly-iii.readthedocs.io/en/latest/concepts/budgets.html).

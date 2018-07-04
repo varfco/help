@@ -5,3 +5,5 @@ Entonces puede agregar tantos disparadores como quiera. Se debe presionar cada d
 Entonces, Firefly III responde ejecutando acciones. usted puede agregar tantas acciones como desee, en cualquier orden.
 
 Las reglas también se aplican a las transacciones importadas, si usted así lo desea.
+
+Read more about rules in [the official documentation](https://firefly-iii.readthedocs.io/en/latest/advanced/rules.html).

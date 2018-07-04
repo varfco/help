@@ -11,3 +11,5 @@ Dopo aver creato alcuni budget, puoi impostare l'importo del budget utilizzando 
 Sia l'importo disponibile sia l'importo in budget sono per uno specifico periodo: se si torna indietro di un mese o si va avanti di un mese, entrambi questi importi vengono reimpostati. Firefly III naturalmente si ricorderà gli importi che hai impostato ma ogni periodo ha i propri importi.
 
 Nelle tue preferenze, puoi modificare questo intervallo in modo che sia settimanale o addirittura annuale.
+
+If you want to read more about budgets, check out the [official documentation on budgets](https://firefly-iii.readthedocs.io/en/latest/concepts/budgets.html).

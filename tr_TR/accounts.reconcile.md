@@ -10,3 +10,5 @@ Faaliyetleri seçmeyi bitirdiğinizde, "Mutabakat seçeneklerinin" altındaki mi
 * Miktar sıfırın üstünde olduğunda, Firefly III varlık hesabınızdaki para, bankanızın söylediği sahip olmanız gereken miktardan daha fazladır.
 
 Her iki şekilde de, sonucu saklamak için "Mutabakatı sakla" tuşuna basın. Faaliyetler "temizlemiş" olarak işaretlenecektir ve isterseniz Firefly III varlık hesabınızın(mutabakat) bakiyesini düzeltecek bir faaliyet oluşturabilirsiniz.
+
+If you want to read more about reconciliations, check out the [official documentation on reconciliations](https://firefly-iii.readthedocs.io/en/latest/advanced/reconcile.html).

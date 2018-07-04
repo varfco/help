@@ -10,3 +10,5 @@ Cuando termine de escoger transacciones, el monto sobre "Opciones de reconciliac
 * Cuando el monto es mayor que cero, su cuenta de activos de Firefly III tiene mas dinero en ella que el que su banco dice que debería tener.
 
 En todo caso, presione "Guardar reconciliación" para guardar el resultado. Las transacciones serán marcadas como "autorizadas" y puede crear adicionalmente una transacción que pueda corregir el saldo de su cuenta de activos de Firefly III (una reconciliación).
+
+If you want to read more about reconciliations, check out the [official documentation on reconciliations](https://firefly-iii.readthedocs.io/en/latest/advanced/reconcile.html).

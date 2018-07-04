@@ -5,3 +5,5 @@ Oluşturduğunuz faaliyet bağlantılarını düzenleyebilirsiniz. Bağlantılar
 * Dış açıklama. Bu B faaliyetinin A faaliyetinden nasıl etkilendiğini açıklar. Tıpkı bir önceki örnektekinin tersi gibi.
 
 Benzersiz olarak, gördüğünüz her çevirme bağlantısını düzenleyebilirsiniz.
+
+If you want to read more about transaction links, check out the [official documentation on transaction links](https://firefly-iii.readthedocs.io/en/latest/advanced/links.html).

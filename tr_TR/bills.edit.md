@@ -1,7 +1,11 @@
 Bir faturayı düzenleyebilirsiniz.
 
 * İsim sadece tanımlayıcıdır ve dahili olarak kullanılmaz.
-* Bu fatura ve yeni hareketler arasında bir ilişki başlatmak için "eşleşenler" alanını kullanın. "Eşleşenler" alanı gider hesabı adına da başlatılacaktır. Eşleşme bir "İLE" alanıdır, yani her kelime eşleşen hareketler ile eşleştirilmelidir.
-* Faturada beklenen limitleri göstermek için en düşük ve en yüksek miktarları kullanın. Daha düşük veya daha yüksek miktarlar eşleştirilmeyecektir.
-* Automatch indicates whether Firefly III will automatically search for matches when you create a new transaction.
-* Eğer "atla" alanlarına bir sayı girerseniz, fatura otomatik olarak X kere atlanacaktır; üç ayda bir ulaşan fatura "3" doldurularak girilebilir.
+* Use the amount (min) and (max) to indicate expected limits for the bill. These amounts are used to give you an idea of the amount of bills you have to pay each period.
+* If you enter a number in the "skip" fields, the bill will be automatically skipped every X times; a bill that arrives every 3 months can be entered by filling in "3".
+
+To match each bill to a transaction, you will be guided towards the page that allows you to create a bill. On this page you can enter the details of the kind of transaction you would want to match the bill.
+
+If you edit a bill and change the amount, the rule will not be automatically updated to match.
+
+If you want to read more about bills, check out the [official documentation on bills](https://firefly-iii.readthedocs.io/en/latest/advanced/bills.html).

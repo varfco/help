@@ -15,3 +15,5 @@ Ini mewakili orang yang Anda bayar. Toko mungkin.
 **Akun pendapatan**
 
 Ini mewakili orang-orang yang membayar Anda. Tugas anda misalnya.
+
+If you want to read more about accounts, check out the [official documentation on accounts](https://firefly-iii.readthedocs.io/en/latest/concepts/accounts.html).

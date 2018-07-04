@@ -5,3 +5,5 @@ Firefly III memiliki beberapa link default, tetapi anda bisa selalu menambahnya 
 * Diskripsi luar. Diskripsi ini menjelaskan bagaimana transaksi B mempengaruhi transaksi A. Seperti contoh sebelumnya, tetapi secara terbalik.
 
 Anda bisa membuat link terjemahan sebanyak yang anda inginkan, tetapi masing-masing harus terlihat unik.
+
+If you want to read more about transaction links, check out the [official documentation on transaction links](https://firefly-iii.readthedocs.io/en/latest/advanced/links.html).

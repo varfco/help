@@ -5,3 +5,5 @@ Esta página muestra todas las maneras en que puede vincular las transacciones. 
 * Descripción exterior. Describe como la transacción B influye sobre la A. Como en el ejemplo anterior, pero al revés.
 
 Puede crear enlaces de traslado como quiera, pero deben ser únicos. Solo podrá editar y eliminar las descripciones de enlaces que usted haya creado.
+
+If you want to read more about transaction links, check out the [official documentation on transaction links](https://firefly-iii.readthedocs.io/en/latest/advanced/links.html).

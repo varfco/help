@@ -5,3 +5,5 @@ Maka Anda bisa menambahkan sebanyak mungkin pemicu yang Anda inginkan. Setiap pe
 Kemudian, Firefly III merespon dengan melakukan tindakan. Anda dapat menambahkan sebanyak mungkin tindakan yang Anda inginkan, dalam urutan apapun.
 
 Rules are also applied to imported transactions, if you want to.
+
+Read more about rules in [the official documentation](https://firefly-iii.readthedocs.io/en/latest/advanced/rules.html).

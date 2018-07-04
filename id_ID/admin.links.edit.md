@@ -5,3 +5,5 @@ Anda bisa mengedit link transaksi yang sudah anda buat sendiri. Link-link terseb
 * Diskripsi keluar. Diskripsi ini menjelaskan bagaimana transaksi B mempengaruhi transaksi A. Sebagaimana contoh sebelumnya, tetapi kebalikannya.
 
 Anda bisa mengedit setiap link transaksi yang menurut anda cocok, tetapi masing-masing link harus terlihat unik.
+
+If you want to read more about transaction links, check out the [official documentation on transaction links](https://firefly-iii.readthedocs.io/en/latest/advanced/links.html).

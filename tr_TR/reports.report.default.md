@@ -19,3 +19,5 @@ Daha sonra, bir grafik, "net değer" inizi gösterir, yani. tüm varlık hesapla
 Aşağıda, bütçelerinizin bir listesi, aylık giderlerin listesinde görülebilir. Başlığı ve listenin altında tıklarsanız, kutunun altında bir grafik görünecektir. Ok simgesini tıklayın; bütçe sayfasına yönlendirilirsiniz.
 
 Aynı şey, bütçe grafiğinin altındaki kategorilerin listesi için de geçerlidir. Kategoriler için iki kutu (ve iki çizelge) bulunur: gelir ve harcamalar.
+
+Read more about reports in [the official documentation](https://firefly-iii.readthedocs.io/en/latest/advanced/reports.html).

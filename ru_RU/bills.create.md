@@ -1,7 +1,9 @@
 Используйте эту форму для создания новых счетов к оплате.
 
 * Название счёта является чисто описательным и не используется при поиске и других внутренних операциях.
-* В поле "Ключи для связи" вы можете вписать ключевые слова, которые будут использоваться для связи этого счёта к оплате с новыми транзакциями. Поле "Ключи для связи" также будет использоваться вашими правилами как название счёт расходов. Помните, что поле "Ключи для связи" - это "AND"-поле, т. е. транзакции будут сопоставлены только, если совпадут все перечисленные ключи.
-* Обязательно укажите ожидаемые лимиты для данного счёта (минимальную и максимальную суммы). Любые транзакции, суммы по которым выходят за указанные лимиты, не будут сопоставляться с данным счётом к оплате.
-* Флаг "Автоматическое сопоставление" указывает, будет ли Firefly III пытаться сопоставить данный счёт со вновь создаваемыми транзакциями.
-* Если вы вводите число в поле "Пропустить", счёт будет автоматически пропускаться каждые X временных отрезков. Например, счёт выставляется вам раз в 3 месяца, укажите в этом поле цифру "3".
+* Use the amount (min) and (max) to indicate expected limits for the bill. These amounts are used to give you an idea of the amount of bills you have to pay each period.
+* If you enter a number in the "skip" fields, the bill will be automatically skipped every X times; a bill that arrives every 3 months can be entered by filling in "3".
+
+To match each bill to a transaction, you will be guided towards the page that allows you to create a bill. On this page you can enter the details of the kind of transaction you would want to match the bill.
+
+If you want to read more about bills, check out the [official documentation on transaction links](https://firefly-iii.readthedocs.io/en/latest/advanced/links.html).

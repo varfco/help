@@ -11,3 +11,5 @@ Akun pengeluaran menyebutkan jumlah yang "diterima" meskipun Anda menghabiskan u
 **Akun pendapatan**
 
 Sama seperti bagaimana akun pengeluaran menyebutkan akun yang diterima, akun pendapatan menyebutkan jumlah yang "dikeluarkan" karena secara teknis, uang yang Anda terima dari akun pendapatan dibelanjakan oleh mereka.
+
+If you want to read more about accounts, check out the [official documentation on accounts](https://firefly-iii.readthedocs.io/en/latest/concepts/accounts.html).

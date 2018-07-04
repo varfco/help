@@ -27,3 +27,5 @@ Laporan ini akan memberi tahu Anda apa yang telah Anda belanjakan dan dapatkan d
 #### Expense/revenue account report
 
 This report is available for accounts that are both sources of income, and places where you spent money. If you work at a super market like Walmart, this could be the case. This report allows you to combine such accounts and see what the balance is.
+
+Read more about reports in [the official documentation](https://firefly-iii.readthedocs.io/en/latest/advanced/reports.html).

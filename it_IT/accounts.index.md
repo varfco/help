@@ -4,7 +4,7 @@ C'è qualcosa di strano con i conti spese. Nonostante questi conti vengono usati
 
 Ci sono tre tipi di conto.
 
-**Conti patrimoniali**
+**Conti attività**
 
 Sono conti che mantengono il tuo denaro: i tuoi conti bancari.
 
@@ -15,3 +15,5 @@ Questi rappresentano le persone che paghi. Con molto probabilità sono dei negoz
 **Conti entrate**
 
 Questi rappresentano le persone che pagano te. Il tuo lavoro ne è un esempio.
+
+If you want to read more about accounts, check out the [official documentation on accounts](https://firefly-iii.readthedocs.io/en/latest/concepts/accounts.html).

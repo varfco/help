@@ -14,3 +14,5 @@ Firefly III only supports credit cards where you pay the card monthly. Ancak bu 
 **Sanal bakiye**
 
 Diyelim ki, her zaman minimum bakiyeniz 100$. Enter "-100" and Firefly III will treat a balance of $100,- as zero. Eğer bir kredi kartı hesabı oluşturuyorsanız, kredi kartınızın limitini girin ( örneğin 1000$,-). Firefly III will correctly display how far your limit is stretched.
+
+If you want to read more about accounts, check out the [official documentation on accounts](https://firefly-iii.readthedocs.io/en/latest/concepts/accounts.html).

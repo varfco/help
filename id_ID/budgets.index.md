@@ -11,3 +11,5 @@ Saat anda sudah membuat beberapa anggaran anda bisa menetapkan jumlah anggaran m
 Kedua jumlah yang tersedia dan jumlah anggaran merupakan untuk masa waktu tertentu: jika anda mundur sebulan atau maju sebulan, kedua jumlah tersebut akan terset ulang. Firefly III will remember what you've set the amounts to of course, but every period has their own amounts.
 
 Sesuai dengan pilihan anda, anda bisa merubah rentangnya menjadi mingguan, atau bahkan tahunan.
+
+If you want to read more about budgets, check out the [official documentation on budgets](https://firefly-iii.readthedocs.io/en/latest/concepts/budgets.html).

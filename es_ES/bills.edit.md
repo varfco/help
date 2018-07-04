@@ -1,7 +1,11 @@
 Puede editar una factura.
 
 * El nombre es solo descriptivo y no se usa internamente.
-* Utilice el campo "coincidencias en" para guardar palabras que activaran una conexión entre las nuevas transacciones y esta factura. El campo de "coincidencias en" también se activara en el nombre de la cuenta de gastos. La coincidencia es un campo "AND", significa que cada palabra debe coincidir para que la transacción coincida.
-* Use la cantidad (mínima) y (máxima) para indicar limites esperados de la factura. Cualquier monto alto o bajo no coincidirán.
-* Auto coincidir indica si Firefly III buscara automáticamente por coincidencias cuando usted crea una nueva transacción.
-* Si usted ingresa un número en el campo "omitir", la factura se omitirá automáticamente cada X tiempos; la factura que llega cada 3 meses puede ingresarse rellenando "3".
+* Use the amount (min) and (max) to indicate expected limits for the bill. These amounts are used to give you an idea of the amount of bills you have to pay each period.
+* If you enter a number in the "skip" fields, the bill will be automatically skipped every X times; a bill that arrives every 3 months can be entered by filling in "3".
+
+To match each bill to a transaction, you will be guided towards the page that allows you to create a bill. On this page you can enter the details of the kind of transaction you would want to match the bill.
+
+If you edit a bill and change the amount, the rule will not be automatically updated to match.
+
+If you want to read more about bills, check out the [official documentation on bills](https://firefly-iii.readthedocs.io/en/latest/advanced/bills.html).

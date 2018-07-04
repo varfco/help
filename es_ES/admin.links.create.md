@@ -5,3 +5,5 @@ Firefly III tiene algunos enlaces predeterminados, pero siempre puede añadir m�
 * Descripción exterior. Describe como la transacción B influye sobre la A. Como en el ejemplo anterior, pero al revés.
 
 Puede crear enlaces de traslado como quiera, pero deben ser únicos.
+
+If you want to read more about transaction links, check out the [official documentation on transaction links](https://firefly-iii.readthedocs.io/en/latest/advanced/links.html).

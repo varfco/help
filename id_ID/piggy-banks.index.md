@@ -12,3 +12,5 @@ Dengan asumsi Anda memiliki 900, - di rekening tabungan Anda, Anda bisa membagi 
 3. 500, - untuk TV dan tidak ada lagi untuk PC baru, meninggalkan 400, - untuk dibagi.
 
 Ini bisa membantu Anda mengatur tabungan Anda.
+
+Read more about piggy banks in [the official documentation](https://firefly-iii.readthedocs.io/en/latest/advanced/piggies.html).

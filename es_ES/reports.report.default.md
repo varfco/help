@@ -19,3 +19,5 @@ Luego, un gráfico muestra su "valor neto", es decir. todas sus cuentas de activ
 Bajo esto una lista de presupuestos es visible con los gastos enumerados por mes. Haga clic en el titulo y bajo de la lista, y un gráfico debajo del recuadro. Haga clic en el icono de flecha, y accederá a la pagina de presupuesto.
 
 Lo mismo aplica para la lista de categorías bajo el recuadro de presupuesto, Hay dos recuadros (y dos gráficos); para las categorías; para ingresos y gastos.
+
+Read more about reports in [the official documentation](https://firefly-iii.readthedocs.io/en/latest/advanced/reports.html).

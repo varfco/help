@@ -5,3 +5,5 @@ Firefly III possiede alcuni collegamenti predefiniti ma è sempre possibile aggi
 * Descrizione verso l'esterno. Questa descrive come la transazione A influenza B. Come per il precedente esempio ma al contrario.
 
 Puoi creare quanti collegamenti rietini opportuni, ma questi devono essere unici.
+
+If you want to read more about transaction links, check out the [official documentation on transaction links](https://firefly-iii.readthedocs.io/en/latest/advanced/links.html).

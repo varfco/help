@@ -5,3 +5,5 @@ Puoi modificare i collegamenti delle transazioni creati da te stesso. I collegam
 * Descrizione verso l'esterno. Questa descrive come la transazione A influenza B. Come per il precedente esempio ma al contrario.
 
 Puoi modificare ogni collegamento come ritieni opportuno, ma questi devono essere unici.
+
+If you want to read more about transaction links, check out the [official documentation on transaction links](https://firefly-iii.readthedocs.io/en/latest/advanced/links.html).

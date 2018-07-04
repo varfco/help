@@ -5,3 +5,5 @@ Halaman ini menunjukkan semua cara yang dapat anda lakukan untuk menghubungkan t
 * Diskrip keluar. Diskripsi ini menjelaskan bagaimana transaksi B mempengaruhi transaksi A. Sebagaimana contoh sebelumnya, tetapi kebalikannya.
 
 Anda bisa membuat terjemahan sebanyak yang anda inginkan, tetapi masing-masing nya harus unik. Anda hanya bisa mengedit dan menghapus diskripsi link yang anda buat sendiri.
+
+If you want to read more about transaction links, check out the [official documentation on transaction links](https://firefly-iii.readthedocs.io/en/latest/advanced/links.html).

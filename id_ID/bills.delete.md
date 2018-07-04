@@ -1,1 +1,0 @@
-Bila anda menghapus tagihan, transaksi yang terkait dengan tagihan akan kehilangan keterkaitannya.
