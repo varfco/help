@@ -11,3 +11,5 @@ Expense accounts mention "earned" amounts despite the fact that you spend money 
 **Revenue accounts**
 
 Just like how expense accounts mention earned accounts, revenue accounts mention "spent" amounts because technically, money you receive by a revenue account is spent by them.
+
+If you want to read more about accounts, check out the [official documentation on accounts](https://firefly-iii.readthedocs.io/en/latest/concepts/accounts.html).

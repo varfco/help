@@ -12,3 +12,5 @@ Assuming you have 900,- in your savings account, you can divide this money betwe
 3. 500,- for the TV and nothing for the new PC, leaving 400,- to be divided.
 
 This can help you organise your savings.
+
+Read more about piggy banks in [the official documentation](https://firefly-iii.readthedocs.io/en/latest/advanced/piggies.html).

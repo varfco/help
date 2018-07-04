@@ -5,3 +5,5 @@ First at the top, you will see all the available columns as checkboxes for this 
 Below those checkboxes, you will see set of boxes with information about the selected asset accounts. Each box starts with the balance at the end of the reporting period, and then lists all transactions and how they influenced that balance. Each box concludes with the balance at the start of the reporting period.
 
 If no activity was recorded for the reporting period, it will be said so as well.
+
+Read more about reports in [the official documentation](https://firefly-iii.readthedocs.io/en/latest/advanced/reports.html).

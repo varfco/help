@@ -5,3 +5,5 @@ You can edit the transaction links you have created yourself. Links are describe
 * Outward description. This describes how transaction B is influencing A. Like the previous example, but in reverse.
 
 You can edit each transaction link as you see fit, but they must be unique.
+
+If you want to read more about transaction links, check out the [official documentation on transaction links](https://firefly-iii.readthedocs.io/en/latest/advanced/links.html).

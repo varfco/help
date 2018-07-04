@@ -5,3 +5,5 @@ Then you may add as many triggers as you want. Every trigger must be hit for a r
 Then, Firefly III responds by executing actions. You can add as many actions as you like, in any order.
 
 Rules are also applied to imported transactions, if you want to.
+
+Read more about rules in [the official documentation](https://firefly-iii.readthedocs.io/en/latest/advanced/rules.html).

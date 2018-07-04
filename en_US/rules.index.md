@@ -9,3 +9,5 @@ You can sort the rule triggers, and the rule actions. If you create a rule, the 
 Each rule and each rule group can be executed on your transactions to see if they work and how they work.
 
 To see how a rule works, press **New rule**.
+
+Read more about rules in [the official documentation](https://firefly-iii.readthedocs.io/en/latest/advanced/rules.html).

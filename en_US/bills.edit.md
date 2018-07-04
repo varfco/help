@@ -1,7 +1,11 @@
 You can edit a bill.
 
 * The name is descriptive only and is not used internally.
-* Use the "matches on" field to save words that will trigger a connection between new transactions and this bill. The "matches on"-field will also trigger on the expense account name. The match is a "AND"-field, meaning every word must be matched for the transaction to match.
-* Use the amount (min) and (max) to indicate expected limits for the bill. Any higher or lower amounts will not be matched.
-* Automatch indicates whether Firefly III will automatically search for matches when you create a new transaction.
+* Use the amount (min) and (max) to indicate expected limits for the bill. These amounts are used to give you an idea of the amount of bills you have to pay each period.
 * If you enter a number in the "skip" fields, the bill will be automatically skipped every X times; a bill that arrives every 3 months can be entered by filling in "3".
+
+To match each bill to a transaction, you will be guided towards the page that allows you to create a bill. On this page you can enter the details of the kind of transaction you would want to match the bill.
+
+If you edit a bill and change the amount, the rule will not be automatically updated to match.
+
+If you want to read more about bills, check out the [official documentation on bills](https://firefly-iii.readthedocs.io/en/latest/advanced/bills.html).
