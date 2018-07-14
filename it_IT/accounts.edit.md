@@ -15,4 +15,4 @@ Firefly III supporta le carte di credito con pagamento mensile. Tuttavia questa 
 
 Supponiamo che tu voglia avere sempre un saldo minimo di 100,00€. Inserisci "-100" e Firefly III considererà un saldo di 100,00€ come zero. Se stai creando un conto per una carta di credito, inserisci il massimale della tua carta di credito (ad esempio, 1000,00€). Firefly III mostrerà correttamente quanto disti dal limite.
 
-If you want to read more about accounts, check out the [official documentation on accounts](https://firefly-iii.readthedocs.io/en/latest/concepts/accounts.html).
+Se vuoi saperne di più sui conti, consulta la [documentazione ufficiale sui conti](https://firefly-iii.readthedocs.io/en/latest/concepts/accounts.html).

@@ -13,4 +13,4 @@ Supponendo che tu abbia 900,00 nel tuo conto di risparmio, puoi dividere questo 
 
 Questo può aiutarti ad organizzare i tuoi risparmi.
 
-Read more about piggy banks in [the official documentation](https://firefly-iii.readthedocs.io/en/latest/advanced/piggies.html).
+Leggi di più sui salvadanai nella [documentazione ufficiale](https://firefly-iii.readthedocs.io/en/latest/advanced/piggies.html).

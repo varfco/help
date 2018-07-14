@@ -4,4 +4,4 @@ L'esportazione conterrà tutti i campi e gli importi basilari, alcune meta-infor
 
 Ricordati che una tale esportazione NON è sufficiente per ripristinare la tua installazione di Firefly III! I dati esportati non includono gli importi dei budget, i collegamenti alle bollette e altri metadati. Se desideri effettuare un backup, ti basta esporta il database e i tuoi allegati.
 
-If you want to read more about exporting data, check out the [official documentation on exporting data](https://firefly-iii.readthedocs.io/en/latest/import/export.html).
+Se vuoi saperne di più sull'esportazione dei dati, consulta la [documentazione ufficiale sull'esportazione dei dati](https://firefly-iii.readthedocs.io/en/latest/import/export.html).

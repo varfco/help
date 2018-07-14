@@ -11,4 +11,4 @@ Al termine della selezione delle transazioni, l'importo sotto "Opzioni riconcili
 
 In entrambi i casi, premi "Memorizza riconciliazione" per memorizzare il risultato. Le transazioni verranno marcate come "conciliate" e puoi opzionalmente creare una transazione che corregga il saldo del conto attività in Firefly III (una riconciliazione).
 
-If you want to read more about reconciliations, check out the [official documentation on reconciliations](https://firefly-iii.readthedocs.io/en/latest/advanced/reconcile.html).
+Se vuoi saperne di più sulle riconciliazioni, consulta la [documentazione ufficiale sulle riconciliazioni](https://firefly-iii.readthedocs.io/en/latest/advanced/reconcile.html).

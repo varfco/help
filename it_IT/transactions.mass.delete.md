@@ -1,3 +1,3 @@
 È possibile eliminare le transazioni in blocco utilizzando questo modulo. Deseleziona tutte le transazioni che non vuoi cancellare.
 
-You can read more about transactions in [the official documentation](https://firefly-iii.readthedocs.io/en/latest/concepts/transactions.html).
+Puoi leggere di più sulle transazioni nella [documentazione ufficiale](https://firefly-iii.readthedocs.io/en/latest/concepts/transactions.html).

@@ -1,3 +1,3 @@
 Quando si elimina una transazione, verranno eliminate anche tutte le voci correlate come gli allegati.
 
-You can read more about transactions in [the official documentation](https://firefly-iii.readthedocs.io/en/latest/concepts/transactions.html).
+Puoi leggere di più sulle transazioni nella [documentazione ufficiale](https://firefly-iii.readthedocs.io/en/latest/concepts/transactions.html).

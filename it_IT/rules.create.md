@@ -6,4 +6,4 @@ A seguire, Firefly III risponde eseguendo le azioni. Puoi aggiungere tutte le az
 
 Le regole vengono applicate anche alle transazioni importate, se lo si desidera.
 
-Read more about rules in [the official documentation](https://firefly-iii.readthedocs.io/en/latest/advanced/rules.html).
+Leggi di più sulle regole nella [documentazione ufficiale](https://firefly-iii.readthedocs.io/en/latest/advanced/rules.html).

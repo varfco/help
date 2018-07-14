@@ -6,4 +6,4 @@ Questa pagina mostra tutti i modi con i quali puoi collegare le transazioni. I c
 
 Puoi creare quanti collegamenti tra transazioni vuoi ma devono essere unici. Puoi modificare e eliminare i collegamenti che hai creato tu stesso.
 
-If you want to read more about transaction links, check out the [official documentation on transaction links](https://firefly-iii.readthedocs.io/en/latest/advanced/links.html).
+Se vuoi saperne di più sui collegamenti tra transazioni, consulta la [guida ufficiale sui collegamenti tra transazioni](https://firefly-iii.readthedocs.io/en/latest/advanced/links.html).

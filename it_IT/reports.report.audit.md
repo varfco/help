@@ -6,4 +6,4 @@ Sotto queste caselle di controllo vedrai un insieme di riquadri con informazioni
 
 Se non è stata registrata alcuna attività per il periodo di riferimento, anche questo verrà indicato.
 
-Read more about reports in [the official documentation](https://firefly-iii.readthedocs.io/en/latest/advanced/reports.html).
+Leggi di più sui rapporti nella [documentazione ufficiale](https://firefly-iii.readthedocs.io/en/latest/advanced/reports.html).

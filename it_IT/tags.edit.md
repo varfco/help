@@ -1,5 +1,5 @@
 Modifica un'etichetta per modificare l'etichetta stessa, la data o la posizione.
 
-If you want tags to have a location, add a Mapbox API key to your `.env` file.
+Se desideri che le etichette abbiano una posizione, aggiungi una chiave API Mapbox al tuo file `.env`.
 
-You can read more about tags in [the official documentation](https://firefly-iii.readthedocs.io/en/latest/concepts/tags.html).
+Leggi di più sulle etichette nella [documentazione ufficiale](https://firefly-iii.readthedocs.io/en/latest/concepts/tags.html).

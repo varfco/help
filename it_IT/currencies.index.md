@@ -8,4 +8,4 @@ Puoi liberamente aggiungere nuove valute, esistenti o inventate. Nota che ogni v
 - Un codice, come EUR o USD o uno di tua invenzione.
 - Un nome, ovviamente.
 
-If you want to read more about currencies, check out the [official documentation on currencies](https://firefly-iii.readthedocs.io/en/latest/concepts/currencies.html).
+Se vuoi saperne di più sulle valute, controlla la [documentazione ufficiale sulle valute](https://firefly-iii.readthedocs.io/en/latest/concepts/currencies.html).

@@ -20,4 +20,4 @@ Di seguito una lista dei tuoi budget è visibile con le spese elencate per mese.
 
 Lo stesso vale per l'elenco delle categorie sotto la tabella del budget. Ci sono due riquadri (e due grafici) per le categorie: uno per le entrate e uno per le spese.
 
-Read more about reports in [the official documentation](https://firefly-iii.readthedocs.io/en/latest/advanced/reports.html).
+Leggi di più sui rapporti nella [documentazione ufficiale](https://firefly-iii.readthedocs.io/en/latest/advanced/reports.html).

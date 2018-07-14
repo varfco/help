@@ -1,3 +1,3 @@
 È possibile modificare le transazioni in blocco utilizzando questo modulo.
 
-You can read more about transactions in [the official documentation](https://firefly-iii.readthedocs.io/en/latest/concepts/transactions.html).
+Puoi leggere di più sulle transazioni nella [documentazione ufficiale](https://firefly-iii.readthedocs.io/en/latest/concepts/transactions.html).

@@ -28,4 +28,4 @@ Questo rapporto ti indicherà ciò che hai speso e guadagnato nelle etichette se
 
 Questo rapporto è disponibile per i conti che rappresentano sia le fonti di reddito, sia i luoghi in cui hai speso denaro. Se lavori in un supermercato come Walmart, questo potrebbe essere il caso. Questo rapporto consente di combinare tali conti e vedere qual è il saldo.
 
-Read more about reports in [the official documentation](https://firefly-iii.readthedocs.io/en/latest/advanced/reports.html).
+Leggi di più sui rapporti nella [documentazione ufficiale](https://firefly-iii.readthedocs.io/en/latest/advanced/reports.html).
