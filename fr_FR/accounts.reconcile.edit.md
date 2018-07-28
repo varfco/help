@@ -1,0 +1,1 @@
+Il se peut qu'après un rapprochement vous souhaitiez éditer le montant qui a été corrigé. Ou peut être souhaitez-vous ajouter un tag ou une catégorie. Vous pouvez le faire sur cette page.

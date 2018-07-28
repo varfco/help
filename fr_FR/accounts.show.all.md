@@ -1,0 +1,1 @@
+Montrer toutes les transactions pour ce compte. Cette vue n'est pas filtrée sur un mois ou une date donné.

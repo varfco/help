@@ -1,0 +1,3 @@
+Ceci est la liste de toutes les catégories de votre système et quand est-ce qu'elles ont été utilisées la dernière fois. Vous pouvez créer de nouvelles catégories soit manuellement soit lors de l'ajout d'une nouvelle transaction. Il y a également un bouton spécial pour les transactions sans catégorie.
+
+Si vous voulez plus d'informations sur les catégories, consultez [la documentation officielle sur les catégories](https://firefly-iii.readthedocs.io/en/latest/concepts/categories.html).

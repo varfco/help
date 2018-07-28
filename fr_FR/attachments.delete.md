@@ -1,0 +1,1 @@
+Cette page vous permet de supprimer une pièce jointe. Rappelez-vous que vous ne pouvez pas annuler une telle opération, le fichier chiffré sera effacé du disque.

@@ -2,4 +2,4 @@ Si vous supprimez un compte, toutes les transactions associées seront égalemen
 
 Vous pouvez déplacer les transactions vers un nouveau compte si vous souhaitez les conserver.
 
-If you want to read more about accounts, check out the [official documentation on accounts](https://firefly-iii.readthedocs.io/en/latest/concepts/accounts.html).
+Si vous voulez plus d'informations sur les comptes, consultez [la documentation officielle sur les comptes](https://firefly-iii.readthedocs.io/en/latest/concepts/accounts.html).

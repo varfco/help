@@ -1,7 +1,7 @@
 Ce rapport vous montre l'influence du ou des tags sélectionnés sur les comptes d'actifs sélectionnés.
 
-Cela commence par des graphiques vous montrant comment l'argent dans le ou les tags a circulé. Ensuite, un tableau compliqué «revenus et dépenses» vous montre à quoi cela ressemblait au fil du temps.
+Il commence avec des graphiques vous montrant comment l'argent a circulé dans le ou les tags. Ensuite, un tableau un peu complexe, «revenus et dépenses», vous montre à quoi cela a ressemblé au fil du temps.
 
-Enfin, certaines statistiques sur la période de déclaration sont présentées. Toutes les listes sont triables pour s'adapter à votre besoin.
+Enfin, certaines statistiques sur la période analysée sont présentées. Toutes les listes sont triables pour s'adapter à votre besoin.
 
-Read more about reports in [the official documentation](https://firefly-iii.readthedocs.io/en/latest/advanced/reports.html).
+Plus d'informations sur les rapports dans [la documentation officielle](https://firefly-iii.readthedocs.io/en/latest/advanced/reports.html).

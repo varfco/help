@@ -8,7 +8,7 @@ Créer uniquement des comptes de revenus pour les endroits d'où vous recevez de
 
 **Comptes d’actif**
 
-Si vous créez un compte d'actif, vous devriez remplir le «solde d'ouverture» et la date associée. Very few people start using Firefly III and have a 0.00 balance. Au lieu de cela, ils ont déjà un peu d'argent dans leur compte. Prenez votre relevé de compte, lisez le solde actuel du compte que vous ajoutez et remplissez-le.
+Si vous créez un compte d'actif, vous devriez remplir le «solde d'ouverture» et la date associée. Très peu de gens commencent à utiliser Firefly III et ont un solde de 0.00. Au lieu de cela, ils ont déjà un peu d'argent dans leur compte. Prenez votre relevé de compte, lisez le solde actuel du compte que vous ajoutez et remplissez-le.
 
 En ce qui concerne les rôles disponibles:
 
@@ -19,6 +19,6 @@ En ce qui concerne les rôles disponibles:
 
 **Solde virtuel**
 
-Admettons que vous voulez avoir un solde minimum de 100 €, en permanence. Enter "-100" and Firefly III will treat a balance of $100,- as zero. Si vous créez un compte de carte de crédit, entrez la limite de votre carte de crédit (par exemple, 1000 €, -). Firefly III will correctly display how far your limit is stretched.
+Admettons que vous voulez avoir un solde minimum de 100 €, en permanence. Entrez "-100" et Firefly III traitera un solde de 100 €, - comme zéro. Si vous créez un compte de carte de crédit, entrez la limite de votre carte de crédit (par exemple, 1000 €, -). Firefly III affichera correctement jusqu'à quel point votre limite est utilisée.
 
-If you want to read more about accounts, check out the [official documentation on accounts](https://firefly-iii.readthedocs.io/en/latest/concepts/accounts.html).
+Si vous voulez plus d'informations sur les comptes, consultez [la documentation officielle sur les comptes](https://firefly-iii.readthedocs.io/en/latest/concepts/accounts.html).

@@ -1,0 +1,1 @@
+Ce formulaire vous permet de supprimer des utilisateurs. Faites attention de ne pas vous supprimer vous-même.

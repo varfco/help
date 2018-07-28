@@ -1,5 +1,5 @@
 Cette page vous montrera toutes les propriétés d’une opération.
 
-It will also show attachments and links when present.
+Vous verrez également toutes les pièces jointes et les liens quand il en existe.
 
-You can read more about transactions in [the official documentation](https://firefly-iii.readthedocs.io/en/latest/concepts/transactions.html).
+Plus d'informations sur les transactions dans [la documentation officielle](https://firefly-iii.readthedocs.io/en/latest/concepts/transactions.html).
