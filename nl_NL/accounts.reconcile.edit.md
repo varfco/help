@@ -1,0 +1,1 @@
+Wellicht wil je het bedrag toch nog wijzigen na het afstemmen van je rekening. Of je wilt er een tag of een categorie aan toevoegen. Dat kan vanaf dit scherm.

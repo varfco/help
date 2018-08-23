@@ -18,4 +18,4 @@ Lo que usted * no puede * hacer con modificadores es lo siguiente:
 * `source:mi empleador`: usted no puede usar espacios.
 * `destination:"albert heijn"`: no ayudara el uso de comillas.
 * `amount:€12,35`: no use denominaciones de moneras, y use el punto como el separador decimal.
-* `on:today` o `before:30/5/17:` el único formato de apoyo es `YYYY-MM-DD`.
+* `on:today` or `before:30/5/17`: the only supported format is `YYYY-MM-DD`.

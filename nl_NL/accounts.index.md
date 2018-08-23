@@ -1,19 +1,19 @@
 Deze pagina laat je een overzicht zien van de rekeningen die je hebt. Je ziet de huidige balans en de datum van de laatste activiteit.
 
-There's something weird with expense accounts. Even though you pay into expense accounts, they tend to have a positive saldo. Likewise, revenue accounts have a negative balance. At first glance this should be reversed. But remember that when you pay McDonalds, they *earn* money. Likewise, when your employer pays you, they *lose* money. For you personally it's the exact opposite but this list is from their perspective. A store makes money off you, an employer loses money to you.
+Er is iets geks aan de hand met je crediteuren. Even though you pay into expense accounts, they tend to have a positive balance. Zo hebben debiteuren een negatief saldo. Je zou denken dat dat andersom moet zijn. Maar denk er ook aan dat als je McDonalds betaatl, zij geld *verdienen*. Zo *verliest* jouw werkgever geld als ze je betalen. Voor jouw persoonlijk is het andersom, maar deze lijst is vanuit hun perspectief gezien. Een winkel verdient geld aan jou, een werkgever verliest geld aan jou.
 
-There are three types of accounts.
+Er zijn drie soorten rekeningen.
 
 **Betaalrekeningen**
 
-Accounts that hold your money: your bank accounts.
+Rekeningen waar jouw geld op staat: bankrekeningen.
 
 **Crediteuren**
 
-These represent the people you pay. Shops are likely.
+Deze vertegenwoordigen de mensen die jij betaalt. Winkels enzo.
 
 **Debiteuren**
 
-These represent the people that pay you. Your job for example.
+Deze vertegenwoordigen de mensen die jou betalen. Je werk bijvoorbeeld.
 
-If you want to read more about accounts, check out the [official documentation on accounts](https://firefly-iii.readthedocs.io/en/latest/concepts/accounts.html).
+Als je meer over rekeningen wilt lezen, bekijk dan de [documentatie hierover](https://firefly-iii.readthedocs.io/en/latest/concepts/accounts.html).

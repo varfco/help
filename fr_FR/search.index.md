@@ -18,4 +18,4 @@ Ce que vous *ne pouvez pas* faire avec des modificateurs :
 * `source: mon employeur` : Vous ne pouvez pas utiliser d'espaces.
 * `destination: "albert heijn"` : Utiliser des guillemets n'aidera pas.
 * `amount:12,35€`: N'incluez pas les symboles de devise et utilisez le point comme séparateur décimal.
-* `on:today` ou `before:30/5/17` : le seul format pris en charge est `AAAA-MM-JJ` .
+* `on:today` ou `before:30/5/17`: le seul format pris en charge est `AAAA-MM-JJ`.

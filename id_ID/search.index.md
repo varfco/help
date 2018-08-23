@@ -18,4 +18,4 @@ Apa yang tidak bisa kamu lakukan? </em> lakukan dengan pengubah adalah sebagai b
 * `source:my employer`: Anda tidak bisa menggunakan spasi.
 * `destination:"albert heijn"`: menggunakan tanda kutip tidak akan membantu.
 * `amount:€ 12,35`: jangan gunakan penyebut mata uang, dan gunakan titik sebagai pemisah desimal.
-* `on:today` atau `before:30/5/17`: Format yang didukung hanya `YYYY-MM-DD`.
+* `on:today` or `before:30/5/17`: the only supported format is `YYYY-MM-DD`.

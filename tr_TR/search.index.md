@@ -18,4 +18,4 @@ Değiştiriciler ile aşağıdakileri *yapamazsınız*:
 * `source:my employer`: boşluk kullanamazsınız.
 * `destination:"albert heijn"`: çift tırnak işaretlerini kullanmak yardımcı olmayacaktır.
 * `amount:€12,35`: para birimi payları kullanmayın ve ondalık ayırıcı olarak nokta kullanın.
-* `on:today` veya `before:30/5/17:` desteklenen tek format şu biçimdedir `YYYY-MM-DD`.
+* `on:today` or `before:30/5/17`: the only supported format is `YYYY-MM-DD`.

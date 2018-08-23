@@ -1,6 +1,6 @@
 Esta página mostra as contas que você possui. Ela lista o saldo atual e a data de última atividade.
 
-Há algo peculiar com contas de despesas. Contas de despesa tendem a ter um saldo positivo. Da mesma forma, contas de receita tem saldo negativo. Muito embora contraintuitivo, lembre-se que quando você paga seu lanche no McDonald's, eles *ganham* dinheiro. Analogamente, quando seu patrão paga o seu salário, ele *perde* dinheiro. Para você, o que ocorre é exatamente o contrário. Mas lembre-se: essa lista mostra dados na perspectiva deles. Uma loja faz dinheiro através de você, enquanto um empregador perde dinheiro através de você.
+Há algo peculiar com contas de despesas. Even though you pay into expense accounts, they tend to have a positive balance. Da mesma forma, contas de receita tem saldo negativo. Muito embora contraintuitivo, lembre-se que quando você paga seu lanche no McDonald's, eles *ganham* dinheiro. Analogamente, quando seu patrão paga o seu salário, ele *perde* dinheiro. Para você, o que ocorre é exatamente o contrário. Mas lembre-se: essa lista mostra dados na perspectiva deles. Uma loja faz dinheiro através de você, enquanto um empregador perde dinheiro através de você.
 
 Existem três tipos de contas.
 
