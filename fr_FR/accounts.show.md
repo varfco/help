@@ -12,4 +12,8 @@ Les comptes de dépenses mentionnent des montants «gagnés» bien que vous y d�
 
 Suivant la même logique que les comptes de dépenses qui mentionnent des gains, les comptes de revenus mentionnent eux des montants "dépensés", car, techniquement, l'argent que vous recevez d'un compte de revenu est, de son point de vue, une dépense.
 
-Si vous voulez plus d'informations sur les comptes, consultez [la documentation officielle sur les comptes](https://firefly-iii.readthedocs.io/en/latest/concepts/accounts.html).
+**Liabilities**
+
+This overview shows the state of your liabilities.
+
+If you want to read more about accounts, check out the [official documentation on accounts](https://firefly-iii.readthedocs.io/en/latest/concepts/accounts.html).

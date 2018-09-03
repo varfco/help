@@ -1,8 +1,10 @@
 Setiap aturan dimulai dengan nama dasar dan momen pemicu: kapan peraturan akan menyala? Apakah aturannya bahkan aktif? Apa uraian aturannya?
 
-Maka Anda bisa menambahkan sebanyak mungkin pemicu yang Anda inginkan. Setiap pemicu harus dipukul agar peraturan diaktifkan (AND). Pemicu ini bisa berupa apapun dari nama akun sumber hingga jumlah lampiran. Ini benar-benar terserah pada Anda.
+Then you may add as many triggers as you want. These triggers can be anything from the name of the source account to the number of attachments. It is completely up to you.
 
-Kemudian, Firefly III merespon dengan melakukan tindakan. Anda dapat menambahkan sebanyak mungkin tindakan yang Anda inginkan, dalam urutan apapun.
+If a rule is strict, then every trigger must be hit for a rule to be activated. If you make it non-strict (by deselecting the checkbox) it is enough for one trigger to be hit.
+
+In either case Firefly III responds by executing the actions. You can add as many actions as you like, in any order. They will ALL be executed.
 
 Rules are also applied to imported transactions, if you want to.
 

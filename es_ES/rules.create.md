@@ -1,9 +1,11 @@
 Cada regla comienza con un nombre básico y momento de activación:¿cuando se lanzara la regla? ¿esta activa la regla? ¿que es la descripción de la regla?
 
-Entonces puede agregar tantos disparadores como quiera. Se debe presionar cada disparador para que se active una regla (Y). Estos disparadores pueden ser cualquier cosa desde el nombre de la cuenta de origen hasta el numero de archivos adjuntos. Depende completamente de usted.
+Then you may add as many triggers as you want. These triggers can be anything from the name of the source account to the number of attachments. It is completely up to you.
 
-Entonces, Firefly III responde ejecutando acciones. usted puede agregar tantas acciones como desee, en cualquier orden.
+If a rule is strict, then every trigger must be hit for a rule to be activated. If you make it non-strict (by deselecting the checkbox) it is enough for one trigger to be hit.
 
-Las reglas también se aplican a las transacciones importadas, si usted así lo desea.
+In either case Firefly III responds by executing the actions. You can add as many actions as you like, in any order. They will ALL be executed.
+
+Rules are also applied to imported transactions, if you want to.
 
 Read more about rules in [the official documentation](https://firefly-iii.readthedocs.io/en/latest/advanced/rules.html).

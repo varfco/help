@@ -11,7 +11,11 @@ De rollen die je kan kiezen:
 
 Firefly III ondersteunt alleen creditcards waarbij je de uitgaven maandelijks afbetaalt. Deze informatie wordt momenteel nog niet actief gebruikt. Maar vul het in en in de toekomst kan Firefly III er iets nuttigs mee doen.
 
-**Virtueel saldo**
+**Passiva**
+
+Firefly III ondersteunt passiva. Je kan schulden en leningen enzo bijhouden als "passiva". Voor elk van hen, geef je het bedrag dat op dat je verschuldigd bent en de rente die je er over betaalt.
+
+*Virtueel saldo*
 
 Stel dat je altijd een minimumsaldo van 100,- op je rekening wilt hebben staan. Vul dan "-100" in en Firefly III zal een saldo van 100,- beschouwen als nul. Als je een creditcard aanmaakt, vul dan de limiet van je kaart in (bijvoorbeeld 1000,-). Firefly III zal dan weergeven hoe het gesteld is met je creditcardlimiet.
 

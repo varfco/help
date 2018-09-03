@@ -4,6 +4,6 @@ Les opérations périodiques peuvent être utilisez dans Firefly III pour créer
 
 Plus d'informations sur les opérations périodiques dans [la documentation officielle](https://firefly-iii.readthedocs.io/en/latest/advanced/recurring.html).
 
-**Cron job**
+**Tâche cron**
 
-In order to actually create the transactions automatically, you need to set up a cron job. You can read about that on the [page in the official documentation about cron jobs](https://firefly-iii.readthedocs.io/en/latest/installation/cronjob.html).
+Vous devez définir une tâche cron pour que les transactions se créent automatiquement. Vous trouverez plus d'informations dans [la documentation officielle sur les tâches cron](https://firefly-iii.readthedocs.io/en/latest/installation/cronjob.html).

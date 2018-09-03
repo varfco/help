@@ -11,8 +11,12 @@ Per quanto riguarda i ruoli disponibili:
 
 Firefly III supporta le carte di credito con pagamento mensile. Tuttavia questa informazione non è attualmente utilizzata. Inserisci comunque questa informazione e in futuro Firefly III potrebbe utilizzarla per qualcosa di utile.
 
-**Saldo virtuale**
+**Liabilities**
 
-Supponiamo che tu voglia avere sempre un saldo minimo di 100,00€. Inserisci "-100" e Firefly III considererà un saldo di 100,00€ come zero. Se stai creando un conto per una carta di credito, inserisci il massimale della tua carta di credito (ad esempio, 1000,00€). Firefly III mostrerà correttamente quanto disti dal limite.
+Firefly III supports liabilities. You can add debts, loans and other liabilities as a means to track these. For each of them, you can enter the amount that you owe and the interest you pay over it.
 
-Se vuoi saperne di più sui conti, consulta la [documentazione ufficiale sui conti](https://firefly-iii.readthedocs.io/en/latest/concepts/accounts.html).
+*Virtual balance*
+
+Let's say you want to have a minimum balance of $100,- at all times. Enter "-100" and Firefly III will treat a balance of $100,- as zero. If you are creating a credit card account, enter the limit of your credit card (for example $1000,-). Firefly III will correctly display how far your limit is stretched.
+
+If you want to read more about accounts, check out the [official documentation on accounts](https://firefly-iii.readthedocs.io/en/latest/concepts/accounts.html).

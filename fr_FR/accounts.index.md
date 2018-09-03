@@ -16,4 +16,8 @@ Ceux-ci représentent les personnes que vous payez. Des magasins le plus souvent
 
 Ceux-ci représentent les personnes qui vous paient. Votre employeur, par exemple.
 
-Si vous voulez plus d'informations sur les comptes, consultez [la documentation officielle sur les comptes](https://firefly-iii.readthedocs.io/en/latest/concepts/accounts.html).
+**Liabilities**
+
+These are your debts, loan, mortgage(s).
+
+If you want to read more about accounts, check out the [official documentation on accounts](https://firefly-iii.readthedocs.io/en/latest/concepts/accounts.html).

@@ -16,4 +16,8 @@ Estas contas representam as pessoas que você paga. Lojas em que você tenha pag
 
 Estas contas representam pessoas que pagam você. Seu trabalho, por exemplo.
 
+**Liabilities**
+
+These are your debts, loan, mortgage(s).
+
 If you want to read more about accounts, check out the [official documentation on accounts](https://firefly-iii.readthedocs.io/en/latest/concepts/accounts.html).

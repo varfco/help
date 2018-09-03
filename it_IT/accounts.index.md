@@ -16,4 +16,8 @@ Questi rappresentano le persone che paghi. Con molto probabilità sono dei negoz
 
 Questi rappresentano le persone che pagano te. Il tuo lavoro ne è un esempio.
 
-Se vuoi saperne di più sui conti, consulta la [documentazione ufficiale sui conti](https://firefly-iii.readthedocs.io/en/latest/concepts/accounts.html).
+**Liabilities**
+
+These are your debts, loan, mortgage(s).
+
+If you want to read more about accounts, check out the [official documentation on accounts](https://firefly-iii.readthedocs.io/en/latest/concepts/accounts.html).

@@ -16,4 +16,8 @@ These represent the people you pay. Shops are likely.
 
 These represent the people that pay you. Your job for example.
 
+**Liabilities**
+
+These are your debts, loan, mortgage(s).
+
 If you want to read more about accounts, check out the [official documentation on accounts](https://firefly-iii.readthedocs.io/en/latest/concepts/accounts.html).

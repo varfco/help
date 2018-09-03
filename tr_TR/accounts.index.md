@@ -16,4 +16,8 @@ Bunlar ödediğiniz kişileri temsil ediyor. Muhtemelen mağazalar.
 
 Bunlar sana ödeme yapan kişileri ifade eder. Örneğin işverenin.
 
+**Liabilities**
+
+These are your debts, loan, mortgage(s).
+
 If you want to read more about accounts, check out the [official documentation on accounts](https://firefly-iii.readthedocs.io/en/latest/concepts/accounts.html).

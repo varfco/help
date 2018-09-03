@@ -16,4 +16,8 @@ Ini mewakili orang yang Anda bayar. Toko mungkin.
 
 Ini mewakili orang-orang yang membayar Anda. Tugas anda misalnya.
 
+**Liabilities**
+
+These are your debts, loan, mortgage(s).
+
 If you want to read more about accounts, check out the [official documentation on accounts](https://firefly-iii.readthedocs.io/en/latest/concepts/accounts.html).
