@@ -1,3 +1,3 @@
-You can run a rule group on your transactions, matching any old or new rules in the rule group. This allows you to quickly apply a group of rules to all your transactions.
+Puoi eseguire un gruppo di regole sulle tue transazioni, abbinando qualsiasi regola vecchia e nuova del gruppo di regole. Questo ti permette di applicare velocemente un gruppo di regole a tutte le tue transazioni.
 
 Leggi di più sulle regole nella [documentazione ufficiale](https://firefly-iii.readthedocs.io/en/latest/advanced/rules.html).

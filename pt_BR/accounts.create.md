@@ -8,7 +8,7 @@ Apenas crie contas de despesas para lugares onde você gasta dinheiro.
 
 **Contas de ativo**
 
-Se você estiver criando uma conta de ativo, você deverá preencher o "balanço de abertura" e a data associada. Very few people start using Firefly III and have a 0.00 balance. Em vez disso, eles já têm algum dinheiro em sua conta. Sair de sua administração, ler o saldo atual da conta que você está adicionando, e preenchê-lo.
+Se você estiver criando uma conta de ativo, você deverá preencher o "balanço de abertura" e a data associada. Muito poucas pessoas começam a usar o Firefly e têm um balanço de 0.00. Em vez disso, eles já têm algum dinheiro em sua conta. Sair de sua administração, ler o saldo atual da conta que você está adicionando, e preenchê-lo.
 
 Quanto as funções que estão disponíveis:
 
@@ -17,12 +17,12 @@ Quanto as funções que estão disponíveis:
 - Use "conta poupança" para as contas que você economizar dinheiro.
 - Use o "cartão de crédito" cartões de crédito. Você pode adicionar alguns detalhes mais tarde.
 
-**Liabilities**
+**Passivos**
 
-Firefly III supports liabilities. You can add debts, loans and other liabilities as a means to track these. For each of them, you can enter the amount that you owe and the interest you pay over it.
+Vaga-lume III suporta passivos. Você pode adicionar as dívidas, empréstimos e outras responsabilidades como um meio para controlar estas. Para cada um deles, você pode inserir a quantidade que você deve e os juros que você paga por isso.
 
-*Virtual balance*
+*Balanço virtual*
 
-Let's say you want to have a minimum balance of $100,- at all times. Enter "-100" and Firefly III will treat a balance of $100,- as zero. If you are creating a credit card account, enter the limit of your credit card (for example $1000,-). Firefly III will correctly display how far your limit is stretched.
+Digamos que você deseja ter um saldo mínimo de R$100,00 - em todos os momentos. Digite "-100" e Firefly tratará um saldo de R$ 100,00, - como zero. Se você estiver criando uma conta de cartão de crédito, insira o limite do seu cartão de crédito (por exemplo, $ 1000, -). O Firefly exibirá corretamente até que ponto seu limite está esticado.
 
-If you want to read more about accounts, check out the [official documentation on accounts](https://firefly-iii.readthedocs.io/en/latest/concepts/accounts.html).
+Para ler mais sobre contas, confira a [documentação oficial sobre contas](https://firefly-iii.readthedocs.io/en/latest/concepts/accounts.html).

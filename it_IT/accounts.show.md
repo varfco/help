@@ -12,8 +12,8 @@ I conti spese parlano di somme "guadagnate" nonostante siano usati per le tue sp
 
 Proprio come i conti spese parlano di guadagni, i conti entrate parlano di somme "spese" perché, tecnicamente, i soldi che tu ricevi da un conto entrata è per loro una spesa.
 
-**Liabilities**
+**Passività**
 
-This overview shows the state of your liabilities.
+Questa panoramica mostra lo stato delle tue passività.
 
-If you want to read more about accounts, check out the [official documentation on accounts](https://firefly-iii.readthedocs.io/en/latest/concepts/accounts.html).
+Se vuoi saperne di più sui conti, consulta la [documentazione ufficiale sui conti](https://firefly-iii.readthedocs.io/en/latest/concepts/accounts.html).

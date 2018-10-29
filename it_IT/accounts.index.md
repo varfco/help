@@ -16,8 +16,8 @@ Questi rappresentano le persone che paghi. Con molto probabilità sono dei negoz
 
 Questi rappresentano le persone che pagano te. Il tuo lavoro ne è un esempio.
 
-**Liabilities**
+**Passività**
 
-These are your debts, loan, mortgage(s).
+Queste sono i tuoi debiti, i tuoi prestiti e i tuoi mutui.
 
-If you want to read more about accounts, check out the [official documentation on accounts](https://firefly-iii.readthedocs.io/en/latest/concepts/accounts.html).
+Se vuoi saperne di più sui conti, consulta la [documentazione ufficiale sui conti](https://firefly-iii.readthedocs.io/en/latest/concepts/accounts.html).

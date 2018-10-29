@@ -1,11 +1,11 @@
 Chaque règle commence par un nom de base et un moment de déclenchement : Quand la règle va-t-elle se déclencher ? La règle est-elle même active ? Quelle est la description de la règle ?
 
-Then you may add as many triggers as you want. These triggers can be anything from the name of the source account to the number of attachments. It is completely up to you.
+Vous devez ensuite ajouter des déclencheurs, autant que vous le voulez. Ces déclencheurs peuvent être n'importe quoi, du nom du compte source au nombre de pièces jointes. C'est à vous de voir.
 
-If a rule is strict, then every trigger must be hit for a rule to be activated. If you make it non-strict (by deselecting the checkbox) it is enough for one trigger to be hit.
+Si une règle est stricte, chaque déclencheur doit être activé pour que la règle soit appliquée. Si elle n'est pas stricte (en décochant l'option) l'activation d'un seul des déclencheurs suffit à appliquer la règle.
 
-In either case Firefly III responds by executing the actions. You can add as many actions as you like, in any order. They will ALL be executed.
+Dans les deux cas Firefly III répond en exécutant des actions. Vous pouvez ajouter autant d'actions que vous le souhaitez, dans n'importe quel ordre. Elles seront TOUTES exécutées.
 
-Rules are also applied to imported transactions, if you want to.
+Les règles sont également appliquées aux transactions importées, si vous le souhaitez.
 
-Read more about rules in [the official documentation](https://firefly-iii.readthedocs.io/en/latest/advanced/rules.html).
+Plus d'informations sur les règles dans [la documentation officielle](https://firefly-iii.readthedocs.io/en/latest/advanced/rules.html).

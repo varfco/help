@@ -1,1 +1,1 @@
-É possível que, após a reconciliação, você deseje editar o valor que tenha sido corrigido. Ou talvez você deseja adicionar uma etiqueta ou categoria. Você pode fazer tudo isso nesta página.
+É possível que, após a reconciliação, você queira editar o valor que tenha sido corrigido. Ou talvez você queira adicionar uma etiqueta ou categoria. Você pode fazer tudo isso nesta página.

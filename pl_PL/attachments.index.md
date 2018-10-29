@@ -1,0 +1,1 @@
+Lista wszystkich załączników. Ten widok został utworzony, abyś miał podgląd swoich załączników. Nie jest on promowany ani podlinkowany nigdzie indziej.
