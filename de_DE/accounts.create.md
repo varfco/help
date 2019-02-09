@@ -1,28 +1,28 @@
-**Expense accounts**
+**Aufwandskonten**
 
-Only create expense accounts for places where you spend money.
+Erstellen Sie Aufwandskonten nur für Dinge, für die Sie Geld ausgeben.
 
-**Revenue accounts**
+**Ertragskonten**
 
-Only create revenue accounts for places where you get money from.
+Erstellen Sie Ertragskonten nur für Dinge, durch die Sie Geld einnehmen.
 
-**Asset accounts**
+**Anlagenkonten**
 
-If you're creating an asset account, you should fill in the "opening balance" and the associated date. Very few people start using Firefly III and have a 0.00 balance. Instead, they already have some money in their account. Get out your administration, read the current balance of the account you're adding, and fill it in.
+Wenn Sie ein Anlagenkonto erstellen, sollten Sie etwas bei "Anfangsbestand" und ein zugehöriges Datum eintragen. Die wenigsten Leute fangen an Firefly III zu benutzen und haben einen Kontostand von 0.00. Stattdessen haben sie bereits etwas Geld auf ihrem Konto. Also holen Sie Ihre Akten heraus und tragen Ihren aktuellen Kontostand ein.
 
-As for the roles that are available:
+In Bezug auf die Rollen, die verfügbar sind:
 
-- Using "default asset account" for your own accounts.
-- Use "shared asset account" for household accounts.
-- Use "savings account" for accounts on which you save money.
-- Use "credit card" for credit cards. You can add some details later.
+- Verwenden Sie "Standard-Anlagekonto" für Ihre eigenen Konten.
+- Verwenden Sie "Gemeinsames Bestandskonto" für Haushaltskonten.
+- Verwenden Sie "Sparkonto" für Konten, auf denen Sie Geld sparen.
+- Verwenden Sie "Kreditkarte" für Kreditkarten. Sie können einige Details später hinzufügen.
 
-**Liabilities**
+**Verbindlichkeiten**
 
-Firefly III supports liabilities. You can add debts, loans and other liabilities as a means to track these. For each of them, you can enter the amount that you owe and the interest you pay over it.
+Firefly III unterstützt Verbindlichkeiten. Sie können Schulden, Kredite und sonstige Verbindlichkeiten hinzufügen, um diese zu verfolgen. Für jede dieser Verbindlichkeiten können Sie den Betrag und die Verzinsung angeben.
 
-*Virtual balance*
+*Virtueller Kontostand*
 
-Let's say you want to have a minimum balance of $100,- at all times. Enter "-100" and Firefly III will treat a balance of $100,- as zero. If you are creating a credit card account, enter the limit of your credit card (for example $1000,-). Firefly III will correctly display how far your limit is stretched.
+Angenommen, Sie möchten immer ein Mindestguthaben von 100,- haben. Geben Sie "-100" ein und Firefly III wird einen Kontostand von 100,- als Null behandeln. Wenn Sie ein Kreditkarten-Konto erstellen, geben Sie das Limit Ihrer Kreditkarte (z. B. 1000,-) ein. Firefly III wird korrekt anzeigen, wie weit Ihr Limit ausgereizt ist.
 
-If you want to read more about accounts, check out the [official documentation on accounts](https://firefly-iii.readthedocs.io/en/latest/concepts/accounts.html).
+Wenn Sie mehr über Konten erfahren möchten, schauen Sie sich die [offizielle Dokumentation dazu an](https://firefly-iii.readthedocs.io/en/latest/concepts/accounts.html).

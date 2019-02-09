@@ -1,7 +1,7 @@
-Hier wird Ihre Profilseite angezeigt.
+Diese Seite zeigt Ihr Benutzerprofil.
 
 Hier finden Sie unter anderem Ihre Benutzerkennung (ID) und Kommandozeilen-Authentifizierungsschlüssel, welche gebraucht werden um Daten über die Kommandozeile zu importieren.
 
-This is also the place where you would create clients to consume the API.
+Auch Clients welche über die API zugreifen können Sie hier erstellen bzw. authorisieren.
 
-Read more about the API in the [official documentation](https://firefly-iii.readthedocs.io/en/latest/api/start.html)
+Lesen Sie mehr über die API in [der offiziellen Dokumentation](https://firefly-iii.readthedocs.io/en/latest/api/start.html)

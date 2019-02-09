@@ -1,1 +1,1 @@
-Hier kann das Passwort geändert werden. Ich schlage vor, dass dieses ebenfalls überprüft wird.
+Hier können Sie das Passwort ändern. Es wird empfohlen das Passwort auf Sicherheit zu überprüfen.

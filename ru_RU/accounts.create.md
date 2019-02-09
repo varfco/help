@@ -1,12 +1,12 @@
-**Expense accounts**
+**Счета расходов**
 
-Only create expense accounts for places where you spend money.
+Создание отдельных счетов для ваших затрат (по организациям).
 
-**Revenue accounts**
+**Счета доходов**
 
-Only create revenue accounts for places where you get money from.
+Создание отдельных счетов для ваших доходов (по организациям).
 
-**Asset accounts**
+**Основные счета**
 
 If you're creating an asset account, you should fill in the "opening balance" and the associated date. Very few people start using Firefly III and have a 0.00 balance. Instead, they already have some money in their account. Get out your administration, read the current balance of the account you're adding, and fill it in.
 

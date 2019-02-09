@@ -1,0 +1,1 @@
+Diese Seite zeigt Ihnen die Einstellungen, die Sie ändern können. Benutzen Sie die Reiter um zwischen verschiedenen Einstellungen zu navigieren.

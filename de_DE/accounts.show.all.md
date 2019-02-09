@@ -1,0 +1,1 @@
+Alle Transaktionen anzeigen. Diese Ansicht ist nicht auf Monate oder Datumseinstellungen limitiert.

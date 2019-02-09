@@ -19,7 +19,7 @@ De rollen die je kan kiezen:
 
 **Passiva**
 
-Firefly III ondersteunt passiva. Je kan schulden en leningen enzo bijhouden als "passiva". Voor elk van hen, geef je het bedrag dat op dat je verschuldigd bent en de rente die je er over betaalt.
+Firefly III ondersteunt passiva. Je kan schulden, leningen en overige verplichtingen bijhouden als "passiva". Voor elk van hen, geef je het bedrag op dat je verschuldigd bent en de rente die je er over betaalt.
 
 *Virtueel saldo*
 

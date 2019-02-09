@@ -1,0 +1,1 @@
+Anhänge haben einige Felder, welche Sie hier bearbeiten können, damit sie besser in der Transaktionsüberischt dargestellt werden.
