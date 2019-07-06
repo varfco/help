@@ -10,7 +10,7 @@ Les comptes de dépenses mentionnent des montants «gagnés» bien que vous y d�
 
 **Comptes de recettes**
 
-Suivant la même logique que les comptes de dépenses qui mentionnent des gains, les comptes de revenus mentionnent eux des montants "dépensés", car, techniquement, l'argent que vous recevez d'un compte de revenu est, de son point de vue, une dépense.
+Just like how expense accounts mention earned amounts, revenue accounts mention "spent" amounts because technically, money you receive by a revenue account is spent by them.
 
 **Passifs**
 

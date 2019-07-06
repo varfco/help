@@ -1,0 +1,1 @@
+Gebruik deze pagina om uw account te verwijderen. Dit is niet ongedaan te maken. Het zal allemaal verdwenen zijn.

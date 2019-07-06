@@ -8,7 +8,7 @@ Sadece paranızı aldığınız yerler için gelir hesabı oluşturun.
 
 **Varlık hesapları**
 
-Bir varlık hesabı oluşturuyorsanız, "açılış bakiyesini" ve alakalı tarihi doldurmalısınız. Very few people start using Firefly III and have a 0.00 balance. Bunun yerine, onların hesaplarında zaten bir miktar para var. Yönetiminizden çıkın, eklediğiniz hesabınızın şuan ki bakiyesini okuyun ve onu doldurun.
+Bir varlık hesabı oluşturuyorsanız, "açılış bakiyesini" ve alakalı tarihi doldurmalısınız. Çok az kişi 0 hesap bakiyesi ile Firefly III'ü kullanmaya başlar. Bunun yerine, onların hesaplarında zaten bir miktar para var. Yönetiminizden çıkın, eklediğiniz hesabınızın şuan ki bakiyesini okuyun ve onu doldurun.
 
 Kullanılabilen rollere gelince:
 
@@ -20,6 +20,12 @@ Kullanılabilen rollere gelince:
 **Liabilities**
 
 Firefly III supports liabilities. You can add debts, loans and other liabilities as a means to track these. For each of them, you can enter the amount that you owe and the interest you pay over it.
+
+*Liabilities and amounts*
+
+Let's say for the example you owe 1000,-. The best way to track the amount is by storing a new Debt in Firefly III in the amount of "-1000". This way, your net worth is influenced and you can move money into the liability to pay it off. Once it reaches zero, you can mark the account as inactive and be proud of paying it.
+
+The other way around would be that somebody owes you 1000,-. In such a case, it's **also** a good idea to store the debt as a negative amount. After all, you don't have the money right now and when that person pays you, it will positively influence your net worth.
 
 *Virtual balance*
 

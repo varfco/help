@@ -21,8 +21,14 @@ De rollen die je kan kiezen:
 
 Firefly III ondersteunt passiva. Je kan schulden, leningen en overige verplichtingen bijhouden als "passiva". Voor elk van hen, geef je het bedrag op dat je verschuldigd bent en de rente die je er over betaalt.
 
-*Virtueel saldo*
+*Liabilities and amounts*
 
-Stel dat je altijd een minimumsaldo van 100,- op je rekening wilt hebben staan. Vul dan "-100" in en Firefly III zal een saldo van 100,- beschouwen als nul. Als je een creditcard aanmaakt, vul dan de limiet van je kaart in (bijvoorbeeld 1000,-). Firefly III zal dan weergeven hoe het gesteld is met je creditcardlimiet.
+Let's say for the example you owe 1000,-. The best way to track the amount is by storing a new Debt in Firefly III in the amount of "-1000". This way, your net worth is influenced and you can move money into the liability to pay it off. Once it reaches zero, you can mark the account as inactive and be proud of paying it.
 
-Als je meer over rekeningen wilt lezen, bekijk dan de [documentatie hierover](https://firefly-iii.readthedocs.io/en/latest/concepts/accounts.html).
+The other way around would be that somebody owes you 1000,-. In such a case, it's **also** a good idea to store the debt as a negative amount. After all, you don't have the money right now and when that person pays you, it will positively influence your net worth.
+
+*Virtual balance*
+
+Let's say you want to have a minimum balance of $100,- at all times. Enter "-100" and Firefly III will treat a balance of $100,- as zero. If you are creating a credit card account, enter the limit of your credit card (for example $1000,-). Firefly III will correctly display how far your limit is stretched.
+
+If you want to read more about accounts, check out the [official documentation on accounts](https://firefly-iii.readthedocs.io/en/latest/concepts/accounts.html).

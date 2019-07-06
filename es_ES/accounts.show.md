@@ -10,7 +10,7 @@ Las cuentas de gastos indican montos "ganados" quitando el hecho que usted gast√
 
 **Cuentas de ingresos**
 
-De igual forma que las cuentas de gastos mencionan las cuentas ganadas, las cuentas de ingresos mencionan "gastos" porque, t√©cnicamente, el dinero recibido por una cuenta de ingresos es gastado por ellas.
+Just like how expense accounts mention earned amounts, revenue accounts mention "spent" amounts because technically, money you receive by a revenue account is spent by them.
 
 **Liabilities**
 

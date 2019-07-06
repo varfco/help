@@ -10,7 +10,7 @@ Gider hesapları para harcama gerçeğine rağmen "kazanılan" miktarlardan söz
 
 **Gelir hesapları**
 
-Tıpkı gider hesaplarının kazanılan hesaplardan söz ettiği gibi, gelir hesapları "harcadığınız" miktarlardan söz eder, çünkü teknik olarak aldığınız para gelir hesabı tarafından harcanır.
+Just like how expense accounts mention earned amounts, revenue accounts mention "spent" amounts because technically, money you receive by a revenue account is spent by them.
 
 **Liabilities**
 

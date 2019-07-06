@@ -2,7 +2,7 @@ Firefly III çeşiti rapor türleri sunar. Her rapor kolay erişim için işaret
 
 Tüm raporlar için, rapora hangi varlık hesaplarının dahil olacağını belirtmeniz gerekir. Belirli varlık hesaplarını dahil etmezseniz, yok sayılan bu hesaplar gelir ve gider olarak hesaplanacaktır.
 
-Her rapor için bir tarih aralığı seçmeniz gerekir. Tarih aralığını seçmenizde limit yoktur.
+You must select a date range for each report. There are no limits to the date range you select. You can also use **magic words**, read more about them in [the official documentation](https://firefly-iii.readthedocs.io/en/latest/advanced/reports.html).
 
 #### Varsayılan finansal rapor
 

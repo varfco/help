@@ -2,7 +2,7 @@ Firefly III ofrece un numero de tipos de informes. Cada reporte puede ser marcad
 
 Para TODOS los reportes, usted debe indicar que cuentas de activos se incluirán en el reporte. Si usted no incluye ciertas cuentas de activos, las transferencias desde y hacia esas cuentas ignoradas serán como gastos e ingresos.
 
-Usted debe seleccionar un rango de fechas para cada informe. No hay limites en el rango de fechas que seleccione.
+You must select a date range for each report. There are no limits to the date range you select. You can also use **magic words**, read more about them in [the official documentation](https://firefly-iii.readthedocs.io/en/latest/advanced/reports.html).
 
 #### Reporte financiero por mora
 

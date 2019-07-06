@@ -16,7 +16,7 @@ Il rapporto inizia con un grafico che mostra i saldi dei tuoi conti nel tempo. I
 
 Di seguito, un grafico mostra il tuo "patrimonio netto", vale a dire tutti i conti attività combinati sul periodo.
 
-Di seguito una lista dei tuoi budget è visibile con le spese elencate per mese. Fai clic sul titolo e sotto l'elenco e un grafico apparirà sotto il riquadro. Fai clic sull'icona a forma di freccia e verrai reindirizzato alla pagina del budget.
+Di seguito una lista dei tuoi budget è visibile con le spese elencate per mese. Click the title and below the list, and a chart will appear. Fai clic sull'icona a forma di freccia e verrai reindirizzato alla pagina del budget.
 
 Lo stesso vale per l'elenco delle categorie sotto la tabella del budget. Ci sono due riquadri (e due grafici) per le categorie: uno per le entrate e uno per le spese.
 

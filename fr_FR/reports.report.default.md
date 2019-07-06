@@ -16,7 +16,7 @@ Le rapport commence par un graphique montrant les soldes de vos comptes au fil d
 
 Ensuite, un graphique montre votre "valeur nette", c'est-à-dire tous vos comptes d'actifs combinés au fil du temps.
 
-En dessous, une liste de vos budgets est visible avec les dépenses listées par mois. Cliquez sur le titre et en dessous de la liste, et un graphique apparaîtra sous la boîte. Cliquez sur l'icône représentant une flèche et vous serez dirigé vers la page du budget.
+En dessous, une liste de vos budgets est visible avec les dépenses listées par mois. Click the title and below the list, and a chart will appear. Cliquez sur l'icône représentant une flèche et vous serez dirigé vers la page du budget.
 
 Il en va de même pour la liste des catégories sous le tableau budgétaire. Il y a deux cases (et deux graphiques) pour les catégories : une pour les revenus et une pour les dépenses.
 

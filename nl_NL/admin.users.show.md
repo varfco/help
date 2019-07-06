@@ -1,0 +1,1 @@
+De pagina voor individuele gebruikers toont dezelfde inhoud als de lijstweergave, samen met enkele amusante statistieken over de dingen die de gebruiker heeft gemaakt.

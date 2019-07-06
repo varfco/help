@@ -8,9 +8,9 @@
 
 **Основные счета**
 
-If you're creating an asset account, you should fill in the "opening balance" and the associated date. Very few people start using Firefly III and have a 0.00 balance. Instead, they already have some money in their account. Get out your administration, read the current balance of the account you're adding, and fill it in.
+Если вы создаете основной счет, вы должны указать «начальный баланс» и соответствующую дату. Очень немногие люди начинают использовать Firefly III с нулевым балансом. Обычно они уже имеют некоторую сумму денег на своем счете. Get out your administration, read the current balance of the account you're adding, and fill it in.
 
-As for the roles that are available:
+Что касается доступных ролей:
 
 - Using "default asset account" for your own accounts.
 - Use "shared asset account" for household accounts.
@@ -20,6 +20,12 @@ As for the roles that are available:
 **Liabilities**
 
 Firefly III supports liabilities. You can add debts, loans and other liabilities as a means to track these. For each of them, you can enter the amount that you owe and the interest you pay over it.
+
+*Liabilities and amounts*
+
+Let's say for the example you owe 1000,-. The best way to track the amount is by storing a new Debt in Firefly III in the amount of "-1000". This way, your net worth is influenced and you can move money into the liability to pay it off. Once it reaches zero, you can mark the account as inactive and be proud of paying it.
+
+The other way around would be that somebody owes you 1000,-. In such a case, it's **also** a good idea to store the debt as a negative amount. After all, you don't have the money right now and when that person pays you, it will positively influence your net worth.
 
 *Virtual balance*
 

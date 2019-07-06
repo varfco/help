@@ -1,6 +1,6 @@
 De nouvelles devises peuvent toujours être ajoutées à Firefly III si la vôtre n'est pas présente par défaut. Assurez-vous que le code de la devise est conforme à la norme ISO 4217.
 
-Les devises tendent à avoir deux décimales. N'hésitez-pas à consulter Wikipedia pour plus d'informations sur votre devise de choix si vous n'en êtes pas sûr. Si vous voulez connaitre les valeurs de votre devises, consultez [la liste des devises](https://github.com/xsolla/currency-format/blob/master/currency-format.json) sur Github. New currencies are enabled by default.
+Les devises tendent à avoir deux décimales. N'hésitez-pas à consulter Wikipedia pour plus d'informations sur votre devise de choix si vous n'en êtes pas sûr. Si vous voulez connaitre les valeurs de votre devises, consultez [la liste des devises](https://github.com/xsolla/currency-format/blob/master/currency-format.json) sur Github. Les nouvelles devises sont activées par défaut.
 
 Prenez en compte que chaque devise a besoin :
 

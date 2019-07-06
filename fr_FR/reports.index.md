@@ -2,7 +2,7 @@ Firefly III propose de nombreux rapports. Chaque rapport peut être mis en favor
 
 Pour TOUS les rapports, vous devez indiquer quels comptes d'actifs seront inclus dans le rapport. Si vous n'incluez pas certains comptes d'actifs, les transferts de et vers ces comptes ignorés seront considérés comme des dépenses et des revenus.
 
-Vous devez sélectionner une plage de dates pour chaque rapport. Il n'y a pas de limite à la plage de dates que vous sélectionnez.
+You must select a date range for each report. There are no limits to the date range you select. You can also use **magic words**, read more about them in [the official documentation](https://firefly-iii.readthedocs.io/en/latest/advanced/reports.html).
 
 #### Rapport financier par défaut
 

@@ -1,0 +1,1 @@
+Bijlagen hebben een aantal velden die je hier kunt bewerken, om ze wat vriendelijker te laten zien in uw transactieoverzicht.

@@ -1,9 +1,9 @@
-Firefly III heeft een aantal standaard koppelingen, maar u kunt altijd meer toe voegen. Links worden beschreven met drie eigenschappen:
+Firefly III heeft een aantal standaard koppelingen, maar u kunt er altijd meer toevoegen. Koppelingen worden beschreven met drie eigenschappen:
 
-* De beschrijving. Dit is duidelijk.
-* Inward description. This describes how transaction A is influenced by B. Imagine transaction B "flying in" and changing transaction A somehow.
-* Outward description. This describes how transaction B is influencing A. Like the previous example, but in reverse.
+* De beschrijving. Dit spreekt voor zich.
+* Inwaartse beschrijving. Dit beschrijft hoe transactie A wordt beïnvloed door B. Stel je voor dat transactie B "binnenvliegt" en transactie A op de een of andere manier verandert.
+* Uitwaartse beschrijving. Dit beschrijft hoe transactie B A beïnvloedt. Net als het vorige voorbeeld, maar omgekeerd.
 
-U kunt zoveel transacties maken als u wilt, maar ze moet uniek zijn.
+Je kan zoveel transactiekoppelingen maken als je wilt, maar ze moeten uniek zijn.
 
-Als je meer wilt lezen over het afstemmen van je rekening, check dan de [officiële documentatie](https://firefly-iii.readthedocs.io/en/latest/advanced/links.html).
+Als je meer wilt lezen over transactiekoppelingen, bekijk dan de [officiële documentatie over transactiekoppelingen](https://firefly-iii.readthedocs.io/en/latest/advanced/links.html).

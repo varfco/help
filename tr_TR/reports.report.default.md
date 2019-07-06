@@ -16,7 +16,7 @@ Rapor, hesaplarınızın zaman içindeki bakiyelerini gösteren bir grafikle ba�
 
 Daha sonra, bir grafik, "net değer" inizi gösterir, yani. tüm varlık hesaplarınız zamanla birleştirildi.
 
-Aşağıda, bütçelerinizin bir listesi, aylık giderlerin listesinde görülebilir. Başlığı ve listenin altında tıklarsanız, kutunun altında bir grafik görünecektir. Ok simgesini tıklayın; bütçe sayfasına yönlendirilirsiniz.
+Aşağıda, bütçelerinizin bir listesi, aylık giderlerin listesinde görülebilir. Click the title and below the list, and a chart will appear. Ok simgesini tıklayın; bütçe sayfasına yönlendirilirsiniz.
 
 Aynı şey, bütçe grafiğinin altındaki kategorilerin listesi için de geçerlidir. Kategoriler için iki kutu (ve iki çizelge) bulunur: gelir ve harcamalar.
 

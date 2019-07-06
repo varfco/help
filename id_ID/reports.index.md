@@ -2,7 +2,7 @@ Firefly III offers a number types of reports. Each report can be bookmarked for 
 
 Untuk SEMUA laporan, Anda harus menunjukkan akun aset mana yang akan disertakan dalam laporan. Jika Anda tidak menyertakan akun aset tertentu, transfer dari dan ke akun yang diabaikan tersebut akan dihitung sebagai biaya dan pendapatan.
 
-Anda harus memilih rentang tanggal untuk setiap laporan. Tidak ada batasan pada rentang tanggal yang Anda pilih.
+You must select a date range for each report. There are no limits to the date range you select. You can also use **magic words**, read more about them in [the official documentation](https://firefly-iii.readthedocs.io/en/latest/advanced/reports.html).
 
 #### Laporan keuangan standar
 

@@ -2,14 +2,14 @@ Dies sind die Währungen, die Ihre Installation derzeit unterstützt.
 
 Firefly III kann mehrere Währungen verwalten. Sie können problemlos Dollar und Euro gleichzeitig benutzen.
 
-You can freely add new currencies, existing ones or custom ones. You can also enable them and disable them.
+Sie können jederzeit neue, bestehende oder benutzerdefiniert Währungen erstellen. Sie können Währungen außerdem deaktivieren, bzw. aktivieren.
 
-Please note that each currency needs:
+Beachten Sie, dass jede Währung folgende Werte benötigt:
 
 - Ein Symbol, wie $ oder €.
 - Einen Code, z. B. EUR oder USD.
 - Einen Namen.
 
-The Euro cannot be disabled or removed.
+Der Euro kann nicht deaktiviert oder entfernt werden.
 
-If you want to read more about currencies, check out the [official documentation on currencies](https://firefly-iii.readthedocs.io/en/latest/concepts/currencies.html).
+Falls Sie mehr über Währungen in Firefly III erfahren möchten, schauen Sie sich die [offizielle Dokumentation dazu an](https://firefly-iii.readthedocs.io/en/latest/concepts/currencies.html).

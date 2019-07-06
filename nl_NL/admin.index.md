@@ -1,7 +1,7 @@
-De configuratie-opties laten enkele geavanceerde instellingen zien voor Firefly III.
+De configuratie opties tonen u enkele geavanceerde instellingen voor Firefly III.
 
-* Er zijn enkele algemene instellingen die u kunt wijzigen.
-* You can manage out the translation links that are available.
-* U kunt instellen hoe Firefly III controleert op updates.
+* Er zijn enkele algemene instellingen die je kunt wijzigen.
+* Je kunt de beschikbare vertaallinks beheren.
+* Je kunt instellen hoe Firefly III controleert op updates.
 * Je kunt Firefly III een testbericht laten sturen.
-* Met de gebruikersadministratie kunt u de gebruikers in uw Firefly III-installatie beheren, als meer mensen dan alleen uzelf deze installatie gebruiken.
+* Met de gebruikersadministratie kan je de gebruikers in je Firefly III-installatie beheren, als meer mensen dan alleen jijzelf deze installatie gebruiken.

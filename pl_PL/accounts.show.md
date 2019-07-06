@@ -10,7 +10,7 @@ Konta wydatków mówią o "zarobionych" kwotach, pomimo faktu, że wydajesz na n
 
 **Konta przychodów**
 
-Podobnie jak konta wydatków wspominały o zarobionych kontach, konta przychodów mówią o "wydanych" kwotach, bo technicznie pieniądze, otrzymywane przez konto przychodów są przez nie wydawane.
+Just like how expense accounts mention earned amounts, revenue accounts mention "spent" amounts because technically, money you receive by a revenue account is spent by them.
 
 **Zobowiązania**
 

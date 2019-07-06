@@ -10,7 +10,7 @@ Akun pengeluaran menyebutkan jumlah yang "diterima" meskipun Anda menghabiskan u
 
 **Akun pendapatan**
 
-Sama seperti bagaimana akun pengeluaran menyebutkan akun yang diterima, akun pendapatan menyebutkan jumlah yang "dikeluarkan" karena secara teknis, uang yang Anda terima dari akun pendapatan dibelanjakan oleh mereka.
+Just like how expense accounts mention earned amounts, revenue accounts mention "spent" amounts because technically, money you receive by a revenue account is spent by them.
 
 **Liabilities**
 

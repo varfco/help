@@ -2,7 +2,7 @@ Firefly III bietet einige Berichte an. Jeder Bericht kann für einen schnellen Z
 
 Für alle Berichte muss angegeben werden, welche Bestandskonten im Bericht aufgenommen werden. Falls bestimmte Bestandskonten nicht ausgewählt sind, werden Transaktionen auf und von diesem Konto als Ausgaben bzw. Einnahmen gewertet.
 
-Für einen Bericht muss immer ein Zeitraum ausgewählt werden. Dieser Zeitraum ist dabei nicht limitiert.
+You must select a date range for each report. There are no limits to the date range you select. You can also use **magic words**, read more about them in [the official documentation](https://firefly-iii.readthedocs.io/en/latest/advanced/reports.html).
 
 #### Standardfinanzbericht
 
