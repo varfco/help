@@ -10,7 +10,7 @@ Expense accounts mention "earned" amounts despite the fact that you spend money 
 
 **Revenue accounts**
 
-Just like how expense accounts mention earned accounts, revenue accounts mention "spent" amounts because technically, money you receive by a revenue account is spent by them.
+Just like how expense accounts mention earned amounts, revenue accounts mention "spent" amounts because technically, money you receive by a revenue account is spent by them.
 
 **Liabilities**
 

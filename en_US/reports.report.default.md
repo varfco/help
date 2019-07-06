@@ -16,7 +16,7 @@ The report starts with a chart showing the balances of your accounts over time. 
 
 Then, a chart shows your "net worth", ie. all of your asset accounts combined over time. 
 
-Below that a list of your budgets is visible with the expenses per month listed. Click the title and below the list, and a chart will appear below the box. Click the arrow-icon, and you will be taken to the budget page.
+Below that a list of your budgets is visible with the expenses per month listed. Click the title and below the list, and a chart will appear. Click the arrow-icon, and you will be taken to the budget page.
 
 The same goes for the list of categories below the budget chart. There are two boxes (and two charts) for the categories: for income and expenses.
 
