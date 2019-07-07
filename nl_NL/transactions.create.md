@@ -1,5 +1,5 @@
-Wanneer u een transactie maakt, kunt u meerdere velden instellen. Wanneer deze velden niet volstaan, controleer dan uw voorkeuren om meer velden in te schakelen.
+Wanneer je een nieuwe transactie maakt, kan je meerdere velden gebruiken. Wanneer deze velden niet volstaan, kijk dan bij je instellingen om meer velden in te schakelen.
 
-Wanneer u een opname van contant geld of een storting van contant geld maakt, kunt u het kosten / inkomstenrekening veld leeg laten.
+Wanneer je een opname van contant geld of een storting van contant geld maakt, kan het debiteur/crediteur veld leeg laten.
 
-U kunt meer lezen over transacties in [de officiële documentatie](https://firefly-iii.readthedocs.io/en/latest/concepts/transactions.html).
+Je kan meer lezen over transacties in [de officiële documentatie](https://firefly-iii.readthedocs.io/en/latest/concepts/transactions.html).

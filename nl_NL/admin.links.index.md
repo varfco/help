@@ -6,4 +6,4 @@ Deze pagina toont alle manieren waarop u transacties kunt koppelen. Koppelingen 
 
 You can create as many transaction links as you want, but they must be unique. You can only edit and delete the link descriptions you have created yourself.
 
-Als u meer wilt lezen over transactiekoppelingen, bekijk dan de [officiële documentatie over transactiekoppelingen](https://firefly-iii.readthedocs.io/en/latest/advanced/links.html).
+Als je meer wilt lezen over transactiekoppelingen, bekijk dan de [officiële documentatie over transactiekoppelingen](https://firefly-iii.readthedocs.io/en/latest/advanced/links.html).

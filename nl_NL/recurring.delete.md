@@ -1,3 +1,3 @@
-Dit stelt u in staat een periodieke transactie te verwijderen. Alle transacties die al zijn aangemaakt door de periodieke transactie zullen worden opgeslagen.
+Dit stelt je in staat een periodieke transactie te verwijderen. Alle transacties die al zijn aangemaakt door de periodieke transactie zullen worden bewaard.
 
-Lees meer over terugkerende transacties in [de officiële documentatie](https://firefly-iii.readthedocs.io/en/latest/advanced/recurring.html).
+Lees meer over periodieke transacties in [de officiële documentatie](https://firefly-iii.readthedocs.io/en/latest/advanced/recurring.html).

@@ -1,1 +1,1 @@
-Deze pagina stelt u in staat een bijlage te verwijderen. Vergeet niet dat u dit niet kunt ongedaan maken. Het versleutelde bestand zal worden verwijderd van de schijf.
+Deze pagina stelt je in staat een bijlage te verwijderen. Vergeet niet dat je dit niet kunt ongedaan maken. Het versleutelde bestand zal worden verwijderd van de schijf.

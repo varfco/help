@@ -1,3 +1,3 @@
-Deze transacties hebben geen categorie aan hen verbonden.
+Deze transacties hebben geen categorie.
 
-Als u meer wilt lezen over categorieën, bekijk dan de [officiële documentatie over categorieën](https://firefly-iii.readthedocs.io/en/latest/concepts/categories.html).
+Als je meer wilt lezen over categorieën, bekijk dan de [officiële documentatie over categorieën](https://firefly-iii.readthedocs.io/en/latest/concepts/categories.html).

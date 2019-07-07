@@ -1,1 +1,1 @@
-U kunt alle aspecten van alle gebruikers hier wijzigen. Wees voorzichtig, het is gemakkelijk om jezelf (of anderen) uit het systeem buiten te sluiten.
+Je kan hier alle aspecten van alle gebruikers wijzigen. Wees voorzichtig, het is gemakkelijk om jezelf (of anderen) uit het systeem buiten te sluiten.

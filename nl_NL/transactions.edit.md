@@ -1,3 +1,3 @@
-Wanneer u een opname van contant geld of een storting van contant geld maakt, kunt u de kosten / inkomstenrekening veld leeg.
+Wanneer je een opname van contant geld of een storting van contant geld maakt, laat dan het debiteur/crediteur veld leeg.
 
-U kunt meer lezen over transacties in [de officiële documentatie](https://firefly-iii.readthedocs.io/en/latest/concepts/transactions.html).
+Je kan meer lezen over transacties in [de officiële documentatie](https://firefly-iii.readthedocs.io/en/latest/concepts/transactions.html).

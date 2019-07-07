@@ -1,4 +1,4 @@
-Vous pouvez convertir une transaction vers un autre type. Il y a certains champs qu'il faut mettre à jour pour assurer le fonctionnement de la fonction de clonage.
+You can convert a transaction into a different type. There are some fields you must update for the process to work.
 
 * Lorsque vous convertissez une dépense en revenu, vous devez fournir un nouveau compte de revenus (d’où l'argent va provenir);
 * Lorsque vous convertissez une dépense en virement, vous devez fournir un nouveau compte d'actifs (où l'argent va aller);

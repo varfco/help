@@ -1,1 +1,1 @@
-Deze pagina toont de voorkeuren die u kunt instellen. Gebruik de tabbladen om tussen hen te navigeren.
+Deze pagina toont de voorkeuren die je kan instellen. Gebruik de tabbladen om te navigeren.

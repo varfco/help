@@ -1,8 +1,8 @@
-Dit zijn de valuta's die uw installatie momenteel ondersteunt.
+Dit zijn de valuta die uw installatie momenteel ondersteunt.
 
-Firefly III is een multi-valuta systeem. Je kunt veilig tegelijkertijd Dollars en Euro's gebruiken.
+Firefly III is een systeem dat meerdere valuta ondersteunt. Je kunt veilig tegelijkertijd dollars en euro's gebruiken.
 
-U kunt vrij nieuwe, bestaande of aangepaste valuta's toevoegen. U kunt ze ook inschakelen en uitschakelen.
+Je kan nieuwe, bestaande of aangepaste valuta's toevoegen. Je kan ze ook inschakelen en uitschakelen.
 
 Let op dat voor elke valuta het volgende nodig is:
 
@@ -12,4 +12,4 @@ Let op dat voor elke valuta het volgende nodig is:
 
 De euro kan niet worden uitgeschakeld of verwijderd.
 
-Als u meer wilt lezen over valuta's, bekijk dan de [officiële documentatie op valuta](https://firefly-iii.readthedocs.io/en/latest/concepts/currencies.html).
+Als je meer wilt lezen over valuta, bekijk dan de [officiële documentatie over valuta](https://firefly-iii.readthedocs.io/en/latest/concepts/currencies.html).

@@ -1,3 +1,3 @@
-Dit is een lijst met al uw transacties. Afhankelijk van uw selectie ziet u uw uitgaven, geldopnames of overschrijvingen. Ze zijn gesorteerd op datum.
+Dit is een lijst met al je transacties. Afhankelijk van je selectie ziet u je uitgaven, inkomsten of overschrijvingen. Ze zijn gesorteerd op datum.
 
-U kunt meer lezen over transacties in [de officiële documentatie](https://firefly-iii.readthedocs.io/en/latest/concepts/transactions.html).
+Je kan meer lezen over transacties in [de officiële documentatie](https://firefly-iii.readthedocs.io/en/latest/concepts/transactions.html).

@@ -1,1 +1,1 @@
-Verwijder uw 2FA code.
+Verwijder je 2FA code.

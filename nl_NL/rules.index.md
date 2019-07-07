@@ -4,7 +4,7 @@ Als je transactie bepaalde eigenschappen heeft (genaamd "triggers") zal Firefly 
 
 Op deze pagina zie je je regelgroepen en de regels die ze bevatten. Als je geen regels of regelgroepen hebt, zal Firefly III een standaard regel en regelgroep maken, als voorbeeld.
 
-U kunt de regeltriggers en de regelacties sorteren. Als u een regel maakt, zal de help pagina u laten zien wat mogelijk is.
+Je kan de regeltriggers en de regelacties sorteren. Als je een regel maakt, zal de help pagina u laten zien wat mogelijk is.
 
 Elke regel en elke regelgroep kan worden uitgevoerd op uw transacties om te zien of ze werken en hoe ze werken.
 

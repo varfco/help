@@ -1,3 +1,3 @@
-Dit toont je een lijst van alle categorieën in je installatie en wanneer deze het laatst is gebruikt. U kunt nieuwe categorieën maken, zowel handmatig als wanneer u een nieuwe transactie invoert. Er is ook een speciale knop voor transacties zonder categorie.
+Dit toont je een lijst van alle categorieën in je installatie en wanneer deze het laatst is gebruikt. Je kan nieuwe categorieën maken, zowel handmatig als wanneer je een nieuwe transactie invoert. Er is ook een speciale knop voor transacties zonder categorie.
 
-Als u meer wilt lezen over categorieën, bekijk dan de [officiële documentatie over categorieën](https://firefly-iii.readthedocs.io/en/latest/concepts/categories.html).
+Als je meer wilt lezen over categorieën, bekijk dan de [officiële documentatie over categorieën](https://firefly-iii.readthedocs.io/en/latest/concepts/categories.html).

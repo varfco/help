@@ -1,3 +1,3 @@
-Toont alle transacties van het gegeven type.
+Toont alle transacties van het gewenste type.
 
-U kunt meer lezen over transacties in [de officiële documentatie](https://firefly-iii.readthedocs.io/en/latest/concepts/transactions.html).
+Je kan meer lezen over transacties in [de officiële documentatie](https://firefly-iii.readthedocs.io/en/latest/concepts/transactions.html).

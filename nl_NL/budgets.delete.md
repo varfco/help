@@ -1,3 +1,3 @@
-Wanneer u een budget verwijdert, worden de gekoppelde transacties niet verwijderd. Alle financiële geschiedenis (bedragen, enz.) zal echter ook worden verwijderd.
+Wanneer je een budget verwijdert, worden de gekoppelde transacties niet verwijderd. De geschiedenis van je budget wordt echter wel verwijderd.
 
-Als u meer wilt lezen over budgetten, bekijk dan de [officiële documentatie over budgetten](https://firefly-iii.readthedocs.io/en/latest/concepts/budgets.html).
+Als je meer wilt lezen over budgetten, bekijk dan de [officiële documentatie over budgetten](https://firefly-iii.readthedocs.io/en/latest/concepts/budgets.html).

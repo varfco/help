@@ -1,4 +1,4 @@
-Bir faaliyeti farklı bir türe çevirebilirsiniz. Klonlama işleminin çalışması için güncellemeniz gereken bazı alanlar vardır.
+You can convert a transaction into a different type. There are some fields you must update for the process to work.
 
 * Para çekme işlemini para yatırma işlemine dönüştürdüğünüzde, yeni bir gelir hesabı (para nereden gelecekse) sağlamanız gerekir;
 * Para çekme işlemini transfer işlemine dönüştürdüğünüzde, yeni bir varlık hesabı (para nereye gidecekse) sağlamanız gerekir;

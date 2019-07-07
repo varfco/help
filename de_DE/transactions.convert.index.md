@@ -1,4 +1,4 @@
-Sie können eine Transaktion in einen anderen Typ konvertieren. Es gibt einige Felder, die Sie aktualisieren müssen, damit der Klon-Prozess funktioniert.
+You can convert a transaction into a different type. There are some fields you must update for the process to work.
 
 * Beim Konvertieren einer Abhebung in eine Einzahlung müssen Sie ein neues Erlöskonto angeben (wo das Geld herkommen soll);
 * Beim Konvertieren einer Abhebung in eine Umbuchung müssen Sie ein neues Bestandskonto angeben (wo das Geld hinfließen soll);
