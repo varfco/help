@@ -2,7 +2,7 @@ Firefly III offre numerosi tipi di rapporto. Ogni rapporto può essere aggiunto 
 
 Per TUTTI i rapporti: è necessario indicare quali conti attività saranno inclusi nel rapporto. Se non includi alcuni conti attività, i trasferimenti da e verso i conti ignorati saranno considerati come spese e entrate.
 
-You must select a date range for each report. There are no limits to the date range you select. You can also use **magic words**, read more about them in [the official documentation](https://firefly-iii.readthedocs.io/en/latest/advanced/reports.html).
+Devi selezionare un intervallo di date per ogni rapporto. Non ci sono limiti sull'intervallo di date che selezioni. Puoi anche usare delle **parole magiche**, leggi di più su quest'ultime nella [documentazione ufficiale](https://firefly-iii.readthedocs.io/en/latest/advanced/reports.html).
 
 #### Rapporto finanziario predefinito
 

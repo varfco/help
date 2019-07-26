@@ -10,7 +10,7 @@ Les comptes de dépenses mentionnent des montants «gagnés» bien que vous y d�
 
 **Comptes de recettes**
 
-Just like how expense accounts mention earned amounts, revenue accounts mention "spent" amounts because technically, money you receive by a revenue account is spent by them.
+Comme les comptes de dépenses mentionnent les montant gagnés, les comptes de recettes montrent les montants dépensés. Les montants que vous recevez du compte de recette comptent pour une dépense pour celui-ci.
 
 **Passifs**
 

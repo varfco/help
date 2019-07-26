@@ -23,12 +23,12 @@ Firefly III gère les passifs. Vous pouvez ajouter des dettes, des emprunts et d
 
 *Liabilities and amounts*
 
-Let's say for the example you owe 1000,-. The best way to track the amount is by storing a new Debt in Firefly III in the amount of "-1000". This way, your net worth is influenced and you can move money into the liability to pay it off. Once it reaches zero, you can mark the account as inactive and be proud of paying it.
+Disons pour l'exemple que vous devez 1000,-. La meilleure façon de suivre le montant est de stocker une nouvelle dette à Firefly III pour le montant de "-1000". Ainsi, votre valeur nette est impactée et vous pouvez transférer de l'argent dans ce passif pour le payer. Une fois qu'il atteint zéro, vous pouvez marquer le compte comme inactif et être fier de l'avoir payé.
 
-The other way around would be that somebody owes you 1000,-. In such a case, it's **also** a good idea to store the debt as a negative amount. After all, you don't have the money right now and when that person pays you, it will positively influence your net worth.
+L'autre moyen serait que quelqu'un vous doit 1000,-. Dans un tel cas, c'est **également** une bonne idée de stocker la dette comme un montant négatif. Après tout, vous n'avez pas l'argent maintenant et quand cette personne vous paiera, cela affectera positivement votre valeur nette.
 
-*Virtual balance*
+*Solde virtuel*
 
-Let's say you want to have a minimum balance of $100,- at all times. Enter "-100" and Firefly III will treat a balance of $100,- as zero. If you are creating a credit card account, enter the limit of your credit card (for example $1000,-). Firefly III will correctly display how far your limit is stretched.
+Disons que vous voulez avoir un solde minimum de 100 $ en tout temps. Entrez "-100" et Firefly III traitera un solde de 100 $ comme zéro. Si vous créez un compte de carte de crédit, entrez la limite de votre carte de crédit (par exemple $1000). Firefly III affichera correctement jusqu'à quel point votre limite est utilisée.
 
-If you want to read more about accounts, check out the [official documentation on accounts](https://firefly-iii.readthedocs.io/en/latest/concepts/accounts.html).
+Si vous voulez en savoir plus sur les comptes, consultez la [documentation officielle sur les comptes](https://firefly-iii.readthedocs.io/en/latest/concepts/accounts.html).

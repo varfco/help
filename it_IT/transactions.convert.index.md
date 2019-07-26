@@ -1,4 +1,4 @@
-You can convert a transaction into a different type. There are some fields you must update for the process to work.
+È possibile convertire una transazione in un tipo diverso. Ci sono alcuni campi che devi aggiornare affinché il processo funzioni.
 
 * Quando converti un prelievo in un deposito, devi fornire un nuovo conto di entrata (da dove verrà il denaro);
 * Quando converti un prelievo in un trasferimento, devi fornire un nuovo conto attività (dove andranno a finire i soldi);

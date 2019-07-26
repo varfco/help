@@ -10,7 +10,7 @@ I conti spese parlano di somme "guadagnate" nonostante siano usati per le tue sp
 
 **Conti entrate**
 
-Just like how expense accounts mention earned amounts, revenue accounts mention "spent" amounts because technically, money you receive by a revenue account is spent by them.
+Proprio come i conti spese parlano di guadagni, i conti entrate parlano di somme "spese" perché, tecnicamente, i soldi che tu ricevi da un conto entrata per quest'ultimo rappresenta una spesa.
 
 **Passività**
 
