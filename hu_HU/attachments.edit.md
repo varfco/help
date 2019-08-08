@@ -1,0 +1,1 @@
+A mellékletek rendelkeznek néhány mezővel amiket itt lehet szerkeszteni, hogy egy kicsivel barátságosabban jelenjenek meg a tranzakció áttekintésében.

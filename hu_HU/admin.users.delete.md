@@ -1,0 +1,1 @@
+Ezen az űrlapon lehet felhasználókat törölni. Kérlek saját magad ne töröld.

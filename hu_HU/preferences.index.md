@@ -1,0 +1,1 @@
+Ez az oldal a beállítható tulajdonságokat mutatja meg. A fülekkel lehet navigálni közöttük.

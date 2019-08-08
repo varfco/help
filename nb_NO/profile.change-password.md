@@ -1,0 +1,1 @@
+Bruk dette skjemaet for å endre ditt passord. Jeg anbefaler at du også verifiserer ditt passord.

@@ -1,0 +1,1 @@
+Lehet, hogy egy egyeztetés után módosítani kell a korrigált összeget. Vagy esetleg egy címkét vagy kategóriát kell hozzáadni. Ezeket ezen az oldalon lehet megtenni.

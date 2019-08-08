@@ -1,0 +1,1 @@
+Megmutatja egy számla összes tranzakcióját. Ez a nézet nincs havi vagy dátum beállításokkal korlátozva.
