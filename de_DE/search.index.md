@@ -9,9 +9,10 @@ Um die Suche auf bestimmte Transaktionen einzugrenzen, stehen folgende Suchparam
 * Nutzen Sie `destination:Aldi` um nach Transaktionen zu dem angegebenen Zielkonto zu suchen.
 * Nutzen Sie `category:Lebensmittel` um nach Transaktionen mit der angegebenen Kategorie zu suchen.
 * Nutzen Sie `budget:Rechnungen` um nach Transaktionen zu suchen, die zu einem bestimmten Kostenrahmen gehören.
-* Nutzen Sie `bill:Versicherung` um nach Transaktionen zu suchen, die mit einer bestimmten Rechnung verknüpft sind.
-* Nutzen Sie `type:withdrawal` um nach bestimmten Typen zu suchen. Unterstützt werden "transfer" (Umbuchung), "deposit" (Einnahme) und "withdrawal" (Ausgabe).
-* Nutzen Sie `on:2017-02-19` (exaktes Datum), `before:2016-12-10` (vor) oder `after:2015-08-30` (nach), um die Transaktionen nach einem Datum zu filtern.
+* Use `tag:groceries` to search for transactions with a specific tag.
+* Use `bill:insurance` to search for transactions tied to a specific bill.
+* Use `type:withdrawal` to search for specific types. Supported: transfer, deposit, withdrawal.
+* Use `on:2017-02-19`, `before:2016-12-10` or `after:2015-08-30` to limit the date range of the transactions returned.
 
 Was Sie *nicht* mit Suchparametern machen können ist folgendes:
 

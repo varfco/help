@@ -21,7 +21,7 @@ En ce qui concerne les rôles disponibles:
 
 Firefly III gère les passifs. Vous pouvez ajouter des dettes, des emprunts et d'autres passifs afin de les suivre. Vous pouvez pour chacun d'eux saisir le montant que vous devez et les intérêts que vous payez.
 
-*Liabilities and amounts*
+*Passifs et montants*
 
 Disons pour l'exemple que vous devez 1000,-. La meilleure façon de suivre le montant est de stocker une nouvelle dette à Firefly III pour le montant de "-1000". Ainsi, votre valeur nette est impactée et vous pouvez transférer de l'argent dans ce passif pour le payer. Une fois qu'il atteint zéro, vous pouvez marquer le compte comme inactif et être fier de l'avoir payé.
 

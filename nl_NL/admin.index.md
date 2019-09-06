@@ -1,4 +1,4 @@
-De configuratie opties tonen u enkele geavanceerde instellingen voor Firefly III.
+De configuratie opties tonen je enkele geavanceerde instellingen voor Firefly III.
 
 * Er zijn enkele algemene instellingen die je kunt wijzigen.
 * Je kunt de beschikbare vertaallinks beheren.

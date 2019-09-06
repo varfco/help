@@ -1,4 +1,4 @@
-Deze pagina toont alle manieren waarop u transacties kunt koppelen. Koppelingen worden beschreven met drie eigenschappen:
+Deze pagina toont alle manieren waarop je transacties kunt koppelen. Koppelingen worden beschreven met drie eigenschappen:
 
 * De beschrijving. Dit spreekt voor zich.
 * Inwaartse beschrijving. Dit beschrijft hoe transactie A wordt beïnvloed door B. Stel je voor dat transactie B "binnenvliegt" en transactie A op de een of andere manier verandert.

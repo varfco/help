@@ -9,9 +9,10 @@ Belirli işlemler için aramanızı daraltmak için aşağıdaki "değiştiricil
 * Belirli bir hedef hesabı olan işlemleri aramak için `destination:walmart` kullanın.
 * Belirli bir kategoriye sahip işlemleri aramak için `category:groceries` kullanın.
 * Belirli bir bütçeyle yapılan işlemleri aramak için `budgte:bills` kullanın.
-* Belirli bir faturaya bağlı işlemleri aramak için `bill:insurance` kullanın.
-* Belirli türleri aramak için `type:withdrawal` kullanın. Şunlar desteklenir: transfer, para yatırma, geri çekme.
-* Döndürülen işlemlerin tarih aralığını sınırlamak için `on:2017-02-19`, `before:2016-12-10` veya `after:2015-08-30` kullanın.
+* Use `tag:groceries` to search for transactions with a specific tag.
+* Use `bill:insurance` to search for transactions tied to a specific bill.
+* Use `type:withdrawal` to search for specific types. Supported: transfer, deposit, withdrawal.
+* Use `on:2017-02-19`, `before:2016-12-10` or `after:2015-08-30` to limit the date range of the transactions returned.
 
 Değiştiriciler ile aşağıdakileri *yapamazsınız*:
 

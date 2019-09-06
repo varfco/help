@@ -9,9 +9,10 @@ Para restringir su búsqueda de transacciones especificas, usted puede usar los 
 * Use`destino:walmart`para buscar transacciones que tienen una cuenta especifica.
 * Use `categoría:comestibles`para buscar transacciones con una categoría especifica.
 * Use`presupuesto: facturas`para buscar transacciones con un presupuesto especifico.
-* Use ` factura: seguro ` para buscar transacciones atadas a una factura especifica.
-* Use `tipo: retiro `para buscar tipos específicos. respaldo,transferencia,deposito,retiro.
-* Use `on:2017-02-19`, `before:2016-12-10` o `after:2015-08-30` para limitar el rango de fecha de las transacciones devueltas.
+* Use `tag:groceries` to search for transactions with a specific tag.
+* Use `bill:insurance` to search for transactions tied to a specific bill.
+* Use `type:withdrawal` to search for specific types. Supported: transfer, deposit, withdrawal.
+* Use `on:2017-02-19`, `before:2016-12-10` or `after:2015-08-30` to limit the date range of the transactions returned.
 
 Lo que usted * no puede * hacer con modificadores es lo siguiente:
 

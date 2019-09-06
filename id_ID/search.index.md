@@ -9,9 +9,10 @@ Untuk mempersempit pencarian Anda untuk transaksi tertentu, Anda dapat menggunak
 * Gunakan `destination:walmart` untuk mencari transaksi yang memiliki akun tujuan tertentu.
 * Gunakan `category:groceries` untuk mencari transaksi dengan kategori tertentu.
 * Gunakan `budget:bills` untuk mencari transaksi dengan budget tertentu.
-* Gunakan `bill:insurance` untuk mencari transaksi yang terkait dengan tagihan tertentu.
-* Gunakan `type:withdrawal` untuk mencari jenis tertentu. Didukung: transfer, deposit, withdrawal.
-* Gunakan `on:2017-02-19`, `before: 2016-12-10` atau `after:2015-08-30` untuk membatasi rentang tanggal transaksi yang dikembalikan.
+* Use `tag:groceries` to search for transactions with a specific tag.
+* Use `bill:insurance` to search for transactions tied to a specific bill.
+* Use `type:withdrawal` to search for specific types. Supported: transfer, deposit, withdrawal.
+* Use `on:2017-02-19`, `before:2016-12-10` or `after:2015-08-30` to limit the date range of the transactions returned.
 
 Apa yang tidak bisa kamu lakukan? </em> lakukan dengan pengubah adalah sebagai berikut:
 

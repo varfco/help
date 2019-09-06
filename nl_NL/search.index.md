@@ -9,9 +9,10 @@ Om uw zoekopdracht voor specifieke transacties te verkleinen, kunt u de volgende
 * Gebruik `destination:walmart` om te zoeken naar transacties met een specifiek bestemmingsrekening.
 * Gebruik `category:boodschappen` om te zoeken naar transacties met een specifieke categorie.
 * Gebruik `budget:facturen` om te zoeken naar transacties met een specifiek budget.
-* Gebruik `bill:insurance` om te zoeken naar transacties gekoppeld aan een specifiek contract.
-* Gebruik `type:withdrawal` om te zoeken naar specifieke types. Ondersteund is: transfer, deposit, withdrawal.
-* Gebruik `on:2017-02-19`, `before:2016-12-10` of `after:2015-08-30` om het datumbereik van de gevonden transacties te beperken.
+* Use `tag:groceries` to search for transactions with a specific tag.
+* Use `bill:insurance` to search for transactions tied to a specific bill.
+* Use `type:withdrawal` to search for specific types. Supported: transfer, deposit, withdrawal.
+* Use `on:2017-02-19`, `before:2016-12-10` or `after:2015-08-30` to limit the date range of the transactions returned.
 
 Wat je *niet* kan doen met modifiers is het volgende:
 

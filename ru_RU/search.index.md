@@ -9,9 +9,10 @@
 * Используйте `destination:Рынок` для поиска транзакций с указанным счётом назначения.
 * Используйте `category:Продукты` для поиска транзакций с указанной категорией.
 * Используйте `budget:Квартплата` для поиска транзакций с указанным бюджетом.
-* Используйте `bill:Страхование` для поиска транзакций, привязанных к счёту на оплату.
-* Используйте `type:withdrawal` для поиска транзакций конкретного типа. Поддерживаются следующие ключевые слова: `transfer` (для переводов), `deposit` (для доходов) и `withdrawal` (для расходов).
-* Используйте `on:2017-02-19`, `before:2016-12-10` или `after:2015-08-30`, чтобы ограничить временной отрезок, в котором должны находиться искомые транзакции.
+* Use `tag:groceries` to search for transactions with a specific tag.
+* Use `bill:insurance` to search for transactions tied to a specific bill.
+* Use `type:withdrawal` to search for specific types. Supported: transfer, deposit, withdrawal.
+* Use `on:2017-02-19`, `before:2016-12-10` or `after:2015-08-30` to limit the date range of the transactions returned.
 
 При использовании «модификаторов» *нельзя* делать следующее:
 

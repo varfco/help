@@ -1,4 +1,4 @@
-Firefly III heeft een aantal standaard koppelingen, maar u kunt er altijd meer toevoegen. Koppelingen worden beschreven met drie eigenschappen:
+Firefly III heeft een aantal standaard koppelingen, maar je kan er altijd meer toevoegen. Koppelingen worden beschreven met drie eigenschappen:
 
 * De beschrijving. Dit spreekt voor zich.
 * Inwaartse beschrijving. Dit beschrijft hoe transactie A wordt beïnvloed door B. Stel je voor dat transactie B "binnenvliegt" en transactie A op de een of andere manier verandert.
