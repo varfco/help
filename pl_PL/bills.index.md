@@ -4,4 +4,4 @@ Kiedy utworzysz rachunki, Firefly III zaraportuje o oczekiwanych kwotach rachunk
 
 W skrócie, możesz utworzyć rachunek dla "czynszu" lub "ubezpieczenia" i każdego miesiąca Firefly III pokaże Ci, czy go zapłaciłeś.
 
-Jeśli chcesz dowiedzieć się więcej na temat rachunków, sprawdź w [oficjalnej dokumentacji o rachunkach](https://firefly-iii.readthedocs.io/en/latest/advanced/bills.html).
+If you want to read more about bills, check out the [official documentation on bills](https://docs.firefly-iii.org/advanced-concepts/bills).

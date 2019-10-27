@@ -6,4 +6,4 @@ Ez a oldal megmutatja, hogy milyen módokon lehet tranzakciókat összekapcsolni
 
 You can create as many transaction links as you want, but they must be unique. You can only edit and delete the link descriptions you have created yourself.
 
-A tranzakciók kapcsolatáról további információ [a hivatalos dokumentációban](https://firefly-iii.readthedocs.io/en/latest/advanced/links.html) található.
+If you want to read more about transaction links, check out the [official documentation on transaction links](https://docs.firefly-iii.org/advanced-concepts/links).

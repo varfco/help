@@ -1,3 +1,3 @@
 Questo ti permette di creare una transazione ricorrente.
 
-Leggi di più sulle transazioni ricorrenti nella [documentazione ufficiale](https://firefly-iii.readthedocs.io/en/latest/advanced/recurring.html).
+Read more about recurring transactions in [the official documentation](https://docs.firefly-iii.org/advanced-concepts/recurring).

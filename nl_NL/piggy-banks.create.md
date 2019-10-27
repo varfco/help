@@ -2,4 +2,4 @@ Deze pagina helpt je een spaarpotje te maken. Stel het doelbedrag in, en optione
 
 Je kan het veld "notities" gebruiken om extra notities op te slaan.
 
-Lees meer over spaarpotjes in [de officiële documentatie](https://firefly-iii.readthedocs.io/en/latest/advanced/piggies.html).
+Read more about piggy banks in [the official documentation](https://docs.firefly-iii.org/advanced-concepts/piggies).

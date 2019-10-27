@@ -1,3 +1,3 @@
 Mostra tutte le transazioni di un determinato tipo.
 
-Puoi leggere di più sulle transazioni nella [documentazione ufficiale](https://firefly-iii.readthedocs.io/en/latest/concepts/transactions.html).
+You can read more about transactions in [the official documentation](https://docs.firefly-iii.org/concepts/transactions).

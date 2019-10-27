@@ -20,4 +20,4 @@ Bunlar sana ödeme yapan kişileri ifade eder. Örneğin işverenin.
 
 These are your debts, loan, mortgage(s).
 
-If you want to read more about accounts, check out the [official documentation on accounts](https://firefly-iii.readthedocs.io/en/latest/concepts/accounts.html).
+If you want to read more about accounts, check out the [official documentation on accounts](https://docs.firefly-iii.org/concepts/accounts).

@@ -6,4 +6,4 @@ Below those checkboxes, you will see a set of boxes with information about the s
 
 Jika tidak ada aktivitas yang dicatat untuk periode pelaporan, maka akan dikatakan juga.
 
-Read more about reports in [the official documentation](https://firefly-iii.readthedocs.io/en/latest/advanced/reports.html).
+Read more about reports in [the official documentation](https://docs.firefly-iii.org/advanced-concepts/reports).

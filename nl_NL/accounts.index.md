@@ -20,4 +20,4 @@ Deze vertegenwoordigen de mensen die jou betalen. Je werk bijvoorbeeld.
 
 Dit zijn je schulden, leningen en hypotheek(en).
 
-Als je meer over rekeningen wilt lezen, bekijk dan de [documentatie hierover](https://firefly-iii.readthedocs.io/en/latest/concepts/accounts.html).
+If you want to read more about accounts, check out the [official documentation on accounts](https://docs.firefly-iii.org/concepts/accounts).

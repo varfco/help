@@ -10,4 +10,4 @@ Alle Regeln und Regelgruppen können können auf Ihre Transaktionen angewendet w
 
 Um zu sehen, wie eine Regel funktioniert, drücken Sie **Neue Regel**.
 
-Lesen Sie mehr zu Regeln in der [offiziellen Dokumentation](https://firefly-iii.readthedocs.io/en/latest/advanced/rules.html).
+Read more about rules in [the official documentation](https://docs.firefly-iii.org/advanced-concepts/rules).

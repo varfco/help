@@ -1,3 +1,3 @@
 Ezekhez a tranzakciókhoz nincs kategória csatolva.
 
-Az kategóriákról további információ [a hivatalos dokumentációban](https://firefly-iii.readthedocs.io/en/latest/concepts/categories.html) található.
+If you want to read more about categories, check out the [official documentation on categories](https://docs.firefly-iii.org/concepts/categories).

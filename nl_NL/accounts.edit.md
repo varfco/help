@@ -19,4 +19,4 @@ Firefly III ondersteunt passiva. Je kan schulden en leningen enzo bijhouden als 
 
 Stel dat je altijd een minimumsaldo van 100,- op je rekening wilt hebben staan. Vul dan "-100" in en Firefly III zal een saldo van 100,- beschouwen als nul. Als je een creditcard aanmaakt, vul dan de limiet van je kaart in (bijvoorbeeld 1000,-). Firefly III zal dan weergeven hoe het gesteld is met je creditcardlimiet.
 
-Als je meer over rekeningen wilt lezen, bekijk dan de [documentatie hierover](https://firefly-iii.readthedocs.io/en/latest/concepts/accounts.html).
+If you want to read more about accounts, check out the [official documentation on accounts](https://docs.firefly-iii.org/concepts/accounts).

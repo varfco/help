@@ -2,4 +2,4 @@ Dacă ștergeți un cont, toate tranzacțiile asociate vor fi eliminate, de asem
 
 Puteți să transferați tranzacțiile într-un cont nou dacă doriți să le păstrați.
 
-Dacă doriți să citiți mai multe despre conturi, consultați documentația oficială [ în conturi ](https://firefly-iii.readthedocs.io/en/latest/concepts/accounts.html).
+If you want to read more about accounts, check out the [official documentation on accounts](https://docs.firefly-iii.org/concepts/accounts).

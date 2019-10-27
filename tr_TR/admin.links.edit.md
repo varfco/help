@@ -6,4 +6,4 @@ Oluşturduğunuz faaliyet bağlantılarını düzenleyebilirsiniz. Bağlantılar
 
 Benzersiz olarak, gördüğünüz her çevirme bağlantısını düzenleyebilirsiniz.
 
-If you want to read more about transaction links, check out the [official documentation on transaction links](https://firefly-iii.readthedocs.io/en/latest/advanced/links.html).
+If you want to read more about transaction links, check out the [official documentation on transaction links](https://docs.firefly-iii.org/advanced-concepts/links).

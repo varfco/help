@@ -4,4 +4,4 @@ Het begint met enkele grafieken die je laten zien hoe het geld in de budget(ten)
 
 Tot slot worden er statistieken over de verslagperiode gepresenteerd. Alle lijsten zijn sorteerbaar.
 
-Lees meer over rapporten in [de officiële documentatie](https://firefly-iii.readthedocs.io/en/latest/advanced/reports.html).
+Read more about reports in [the official documentation](https://docs.firefly-iii.org/advanced-concepts/reports).

@@ -2,12 +2,12 @@ Afhankelijk van uw serverconfiguratie en algemene beschikbaarheid, zijn slechts 
 
 **Bestand importeren**
 
-De bestand import stelt u in staat om CSV-bestanden te importeren in Firefly III. Als je meer wilt lezen over het importeren van CSV-bestanden, bekijk dan de [officiële documentatie over het importeren van CSV-bestanden](https://firefly-iii.readthedocs.io/en/latest/import/csv.html).
+De bestand import stelt u in staat om CSV-bestanden te importeren in Firefly III. If you want to read more about importing CSV files, check out the [official documentation on importing CSV files](https://docs.firefly-iii.org/importing-data/csv).
 
 **Spectre import**
 
-Firefly III ondersteunt de Spectre API en kan transacties importeren vanuit Spectre. Als je meer wilt lezen over het importeren vanuit Spectre, bekijk dan de [officiële documentatie bij het importeren van Spectre](https://firefly-iii.readthedocs.io/en/latest/import/spectre.html).
+Firefly III ondersteunt de Spectre API en kan transacties importeren vanuit Spectre. If you want to read more about importing from Spectre, check out the [official documentation on importing from Spectre](https://docs.firefly-iii.org/importing-data/spectre).
 
 **bunq import**
 
-Firefly III ondersteunt de bunq API en kan transacties importeren vanuit bunq. Als u meer wilt lezen over importeren vanuit bunq, bekijk dan de [officiële documentatie bij het importeren van bunq](https://firefly-iii.readthedocs.io/en/latest/import/bunq.html).
+Firefly III ondersteunt de bunq API en kan transacties importeren vanuit bunq. If you want to read more about importing from bunq, check out the [official documentation on importing from bunq](https://docs.firefly-iii.org/importing-data/bunq).

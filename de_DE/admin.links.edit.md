@@ -6,4 +6,4 @@ Sie können selbst erstellte Transaktionsverknüpfungen bearbeiten. Verknüpfung
 
 Sie können beliebig viele Transaktionsverknüpfungen anlegen, solange diese einzigartig sind.
 
-Wenn Sie mehr über Transaktionsverknüpfungen erfahren wollen, lesen Sie die [offizielle Dokumentation über Transaktionsverknüpfungen](https://firefly-iii.readthedocs.io/en/latest/advanced/links.html).
+If you want to read more about transaction links, check out the [official documentation on transaction links](https://docs.firefly-iii.org/advanced-concepts/links).

@@ -6,4 +6,4 @@ Az utólag létrehozott tranzakció szerkeszthetőek. A kapcsolatok három tulaj
 
 Az összes tranzakció kapcsolat szerkeszthető, de egyedieknek kell lenniük.
 
-A tranzakciók kapcsolatáról további információ [a hivatalos dokumentációban](https://firefly-iii.readthedocs.io/en/latest/advanced/links.html) található.
+If you want to read more about transaction links, check out the [official documentation on transaction links](https://docs.firefly-iii.org/advanced-concepts/links).

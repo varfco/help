@@ -10,4 +10,4 @@ Elke regel en elke regelgroep kan worden uitgevoerd op uw transacties om te zien
 
 Druk op **Nieuwe regel** om te zien hoe een regel werkt.
 
-Lees meer over regels in [de officiële documentatie](https://firefly-iii.readthedocs.io/en/latest/advanced/rules.html).
+Read more about rules in [the official documentation](https://docs.firefly-iii.org/advanced-concepts/rules).

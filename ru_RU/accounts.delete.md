@@ -2,4 +2,4 @@
 
 Вы можете перенести транзакции на новый счет, если хотите сохранить их.
 
-Если вы хотите узнать больше о счетах, ознакомтесь с [официальной документацией по счетам](https://firefly-iii.readthedocs.io/en/latest/concepts/accounts.html).
+If you want to read more about accounts, check out the [official documentation on accounts](https://docs.firefly-iii.org/concepts/accounts).

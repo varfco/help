@@ -2,4 +2,4 @@ Jeśli usuniesz konto, wszelkie powiązane transakcje zostaną również usunię
 
 Transakcje można przenieść do nowego konta, jeśli chcesz je zachować.
 
-Jeśli chcesz dowiedzieć się więcej na temat kont, sprawdź w [oficjalnej dokumentacji o kontach](https://firefly-iii.readthedocs.io/en/latest/concepts/accounts.html).
+If you want to read more about accounts, check out the [official documentation on accounts](https://docs.firefly-iii.org/concepts/accounts).

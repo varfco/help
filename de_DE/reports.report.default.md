@@ -20,4 +20,4 @@ Darunter folgt eine Liste Ihrer Kostenrahmen inklusive der Ausgaben pro Monat. C
 
 Das gleiche gilt für die Liste der Kategorien dadrunter. Es gibt zwei Bereiche (und zwei Diagramme) für die Kategorien: für Einnahmen und für Ausgaben.
 
-Lesen Sie mehr über Berichte in der [offiziellen Dokumentation](https://firefly-iii.readthedocs.io/en/latest/advanced/reports.html).
+Read more about reports in [the official documentation](https://docs.firefly-iii.org/advanced-concepts/reports).

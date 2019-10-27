@@ -19,4 +19,4 @@ Firefly III wspiera zobowiązania. Możesz dodawać długi, pożyczki oraz inne 
 
 Powiedzmy, że chcesz mieć minimalne saldo $100, - cały czas. Wprowadź "-100" i Firefly III będzie traktować saldo z $100, - jako zero. Jeśli tworzysz konto karty kredytowej, wprowadź limit karty kredytowej (na przykład $1000,-). Firefly III będzie poprawnie wyświetlać, jak daleko rozciąga się Twój limit.
 
-Jeśli chcesz dowiedzieć się więcej na temat kont, sprawdź w [oficjalnej dokumentacji o kontach](https://firefly-iii.readthedocs.io/en/latest/concepts/accounts.html).
+If you want to read more about accounts, check out the [official documentation on accounts](https://docs.firefly-iii.org/concepts/accounts).

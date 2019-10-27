@@ -4,4 +4,4 @@ De startpagina van Firefly III geeft je een snel overzicht van je huidige financ
 * Daaronder staan verschillende grafieken die de status van je betaalrekeningen, budgetten, categorieën en debiteuren weergeven. Eventueel kan er een grafiek worden weergegeven die je crediteuren laat zien.
 * Ten slotte vind je rechts de laatste 10 transactie van elke betaalrekening.
 
-Je kunt meer lezen over Firefly III in [de officiële documentatie](https://firefly-iii.readthedocs.io/en/latest/).
+Read more about Firefly III in [the official documentation](https://docs.firefly-iii.org/).

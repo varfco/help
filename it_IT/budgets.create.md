@@ -2,4 +2,4 @@ Un budget può essere utilizzato per raggruppare le spese e tenere d'occhio le t
 
 Non è possibile impostare l'importo (per ora), questo è qualcosa che fai nel passaggio successivo.
 
-Se vuoi saperne di più sui budget, consulta la [documentazione ufficiale sui budget](https://firefly-iii.readthedocs.io/en/latest/concepts/budgets.html).
+If you want to read more about budgets, check out the [official documentation on budgets](https://docs.firefly-iii.org/concepts/budgets).

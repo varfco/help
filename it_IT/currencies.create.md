@@ -8,4 +8,4 @@ Nota che ogni valuta ha bisogno di:
 - Un codice, come EUR o USD o uno di tua invenzione.
 - Un nome, ovviamente.
 
-Se vuoi saperne di più sulle valute, controlla la [documentazione ufficiale sulle valute](https://firefly-iii.readthedocs.io/en/latest/concepts/currencies.html).
+If you want to read more about currencies, check out the [official documentation on currencies](https://docs.firefly-iii.org/concepts/currencies).

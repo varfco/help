@@ -6,4 +6,4 @@ A jelölőnégyzetek alatt a kiválasztott eszközszámla információt tartalma
 
 If no activity was recorded for the reporting period, it will be said so as well.
 
-A jelentésekről további információ [a hivatalos dokumentációban](https://firefly-iii.readthedocs.io/en/latest/advanced/reports.html) található.
+Read more about reports in [the official documentation](https://docs.firefly-iii.org/advanced-concepts/reports).

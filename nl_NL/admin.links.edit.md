@@ -6,4 +6,4 @@ Je kunt de transactiekoppelingen die je zelf hebt gemaakt bewerken. Koppelingen 
 
 Je kan zoveel transactiekoppelingen maken als je wilt, maar ze moeten uniek zijn.
 
-Als je meer wilt lezen over transactiekoppelingen, bekijk dan de [officiële documentatie over transactiekoppelingen](https://firefly-iii.readthedocs.io/en/latest/advanced/links.html).
+If you want to read more about transaction links, check out the [official documentation on transaction links](https://docs.firefly-iii.org/advanced-concepts/links).

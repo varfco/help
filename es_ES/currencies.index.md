@@ -2,14 +2,14 @@ Estas son las monedas que su instalación actualmente admite.
 
 Firefly es un sistema multidivisas. usted puede usar dolares o euros a la misma vez de forma segura.
 
-You can freely add new currencies, existing ones or custom ones. You can also enable them and disable them.
+Puede añadir libremente nuevas divisas, existentes o personalizadas. También puede habilitarlas y desactivarlas.
 
-Please note that each currency needs:
+Por favor, tenga en cuenta que cada moneda necesita:
 
-- A symbol, such as $ or € or something else.
-- A code, such as EUR or USD or something you make up.
-- A name, of course.
+- Un símbolo, como $ o € u otra cosa.
+- Un código, como EUR o USD o algo que usted crea.
+- Un nombre, por supuesto.
 
-The Euro cannot be disabled or removed.
+El euro no puede ser desactivado o eliminado.
 
-If you want to read more about currencies, check out the [official documentation on currencies](https://firefly-iii.readthedocs.io/en/latest/concepts/currencies.html).
+If you want to read more about currencies, check out the [official documentation on currencies](https://docs.firefly-iii.org/concepts/currencies).

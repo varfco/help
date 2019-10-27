@@ -2,4 +2,4 @@ Alle transacties die horen bij deze rekening worden ook verwijderd. Bij het verw
 
 Als je wilt kan je de transacties naar een andere rekening verplaatsen.
 
-Als je meer over rekeningen wilt lezen, bekijk dan de [documentatie hierover](https://firefly-iii.readthedocs.io/en/latest/concepts/accounts.html).
+If you want to read more about accounts, check out the [official documentation on accounts](https://docs.firefly-iii.org/concepts/accounts).

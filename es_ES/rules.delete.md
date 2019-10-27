@@ -1,3 +1,3 @@
-Cuando usted elimina la regla, los disparadores y las acciones ya no funcionaran.
+Cuando usted elimina una regla, los disparadores y las acciones ya no funcionaran.
 
-Read more about rules in [the official documentation](https://firefly-iii.readthedocs.io/en/latest/advanced/rules.html).
+Read more about rules in [the official documentation](https://docs.firefly-iii.org/advanced-concepts/rules).

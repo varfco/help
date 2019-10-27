@@ -8,4 +8,4 @@ To match each bill to a transaction, you will be guided towards the page that al
 
 If you edit a bill and change the amount, the rule will not be automatically updated to match.
 
-A számlákról további információ [a hivatalos dokumentációban](https://firefly-iii.readthedocs.io/en/latest/advanced/bills.html) található.
+If you want to read more about bills, check out the [official documentation on bills](https://docs.firefly-iii.org/advanced-concepts/bills).

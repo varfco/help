@@ -2,7 +2,7 @@ Firefly III offers a number types of reports. Each report can be bookmarked for 
 
 Untuk SEMUA laporan, Anda harus menunjukkan akun aset mana yang akan disertakan dalam laporan. Jika Anda tidak menyertakan akun aset tertentu, transfer dari dan ke akun yang diabaikan tersebut akan dihitung sebagai biaya dan pendapatan.
 
-You must select a date range for each report. There are no limits to the date range you select. You can also use **magic words**, read more about them in [the official documentation](https://firefly-iii.readthedocs.io/en/latest/advanced/reports.html).
+You must select a date range for each report. There are no limits to the date range you select. You can also use **magic words**, read more about them in [the official documentation](https://docs.firefly-iii.org/advanced-concepts/reports).
 
 #### Laporan keuangan standar
 
@@ -28,4 +28,4 @@ Laporan ini akan memberi tahu Anda apa yang telah Anda belanjakan dan dapatkan d
 
 This report is available for accounts that are both sources of income, and places where you spent money. If you work at a super market like Walmart, this could be the case. This report allows you to combine such accounts and see what the balance is.
 
-Read more about reports in [the official documentation](https://firefly-iii.readthedocs.io/en/latest/advanced/reports.html).
+Read more about reports in [the official documentation](https://docs.firefly-iii.org/advanced-concepts/reports).

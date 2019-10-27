@@ -2,7 +2,7 @@ En esta página, puede establecer presupuestos. Cada presupuesto es válido úni
 
 **Estableciendo presupuestos en Firefly III**
 
-Primero, establezca la cantidad disponible para usted haciendo clic en el ícono del lápiz junto a "*Disponible en ~~~*". By default, this is zero. Haga clic en el ícono (i) para obtener una indicación de lo que puede gastar el próximo mes. En este ejemplo, usaré 1000,-.
+Primero, establezca la cantidad disponible para usted haciendo clic en el ícono del lápiz junto a "*Disponible en ~~~*". Por defecto, esto es cero. Haga clic en el ícono (i) para obtener una indicación de lo que puede gastar el próximo mes. En este ejemplo, usaré 1000,-.
 
 Luego, cree algunos presupuestos con el botón de "Crear un presupuesto" en el centro de la pantalla o en el menú superior derecho. Todo lo que necesita para un presupuesto es un nombre.
 
@@ -12,4 +12,4 @@ Tanto la cantidad disponible como la cantidad presupuestada son para un período
 
 En sus preferencias, puede cambiar este rango para que sea semanal, o incluso anual.
 
-If you want to read more about budgets, check out the [official documentation on budgets](https://firefly-iii.readthedocs.io/en/latest/concepts/budgets.html).
+If you want to read more about budgets, check out the [official documentation on budgets](https://docs.firefly-iii.org/concepts/budgets).

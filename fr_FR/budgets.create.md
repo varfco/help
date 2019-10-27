@@ -2,4 +2,4 @@ Un budget peut être utilisé pour regrouper les dépenses et surveiller vos fin
 
 Vous ne pouvez pas (encore) définir le montant, c'est quelque chose que vous allez faire à l'étape suivante.
 
-Si vous voulez plus d'informations sur les budgets, consultez [la documentation officielle sur les budgets](https://firefly-iii.readthedocs.io/en/latest/concepts/budgets.html).
+If you want to read more about budgets, check out the [official documentation on budgets](https://docs.firefly-iii.org/concepts/budgets).

@@ -6,4 +6,4 @@ Diese Seite zeigt alle Möglichkeiten um Transaktionen miteinander zu verknüpfe
 
 You can create as many transaction links as you want, but they must be unique. You can only edit and delete the link descriptions you have created yourself.
 
-Wenn Sie mehr über Transaktionsverknüpfungen erfahren wollen, lesen Sie die [offizielle Dokumentation über Transaktionsverknüpfungen](https://firefly-iii.readthedocs.io/en/latest/advanced/links.html).
+If you want to read more about transaction links, check out the [official documentation on transaction links](https://docs.firefly-iii.org/advanced-concepts/links).

@@ -2,8 +2,8 @@ Dit toont je alle periodieke transacties.
 
 Periodieke transacties kunnen worden gebruikt om Firefly III automatisch transacties voor jou te laten maken. Om het te laten werken moet je een cron job hebben die deze transacties voor jou maakt.
 
-Lees meer over periodieke transacties in [de officiële documentatie](https://firefly-iii.readthedocs.io/en/latest/advanced/recurring.html).
+Read more about recurring transactions in [the official documentation](https://docs.firefly-iii.org/advanced-concepts/recurring).
 
 **Cron job**
 
-Om de transacties automatisch te maken, moet je een cron job instellen. Je kan daarover lezen op de [pagina in de officiële documentatie over cron jobs](https://firefly-iii.readthedocs.io/en/latest/installation/cronjob.html).
+Om de transacties automatisch te maken, moet je een cron job instellen. You can read about that on the [page in the official documentation about cron jobs](https://docs.firefly-iii.org/advanced-installation/cron).

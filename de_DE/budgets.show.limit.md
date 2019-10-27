@@ -1,3 +1,3 @@
 Diese Seite zeigt Ihnen eine Übersicht über einen Kostenrahmen. Es werden mehrere Statistiken und eine Übersicht über Ihre Transaktionen angezeigt. Falls der Balken auf der rechten Seite rot wird, haben Sie ihren Kostenrahmen überschritten.
 
-Falls Sie mehr über Kostenrahmen erfahren wollen, lesen Sie die [offizielle Dokumentation über Kostenrahmen](https://firefly-iii.readthedocs.io/en/latest/concepts/budgets.html).
+If you want to read more about budgets, check out the [official documentation on budgets](https://docs.firefly-iii.org/concepts/budgets).

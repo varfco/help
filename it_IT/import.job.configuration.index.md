@@ -1,3 +1,3 @@
 Configura l'operazione. Questa schermata dipende dal tipo di lavoro che stai eseguendo pertanto non è possibile fornire in questo momento maggiore aiuto.
 
-Leggi di più sull'importazione dei dati in Firefly III nella [documentazione ufficiale](https://firefly-iii.readthedocs.io/en/latest/).
+Read more about importing data into Firefly III in [the official documentation](https://docs.firefly-iii.org/).

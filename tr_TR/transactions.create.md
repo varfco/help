@@ -2,4 +2,4 @@ Bir faaliyet oluştururken birden çok alanı ayarlayabilirsiniz. Bu alanlar yet
 
 Nakit para çekme veya nakit para yatırma oluşturduğunuzda, gelir/gider hesabı alanını boş bırakabilirsiniz.
 
-You can read more about transactions in [the official documentation](https://firefly-iii.readthedocs.io/en/latest/concepts/transactions.html).
+You can read more about transactions in [the official documentation](https://docs.firefly-iii.org/concepts/transactions).

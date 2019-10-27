@@ -2,4 +2,4 @@ This page helps you create a piggy bank. Set the target amount and optionally, t
 
 A "megjegyzések" mezőben további megjegyzéseket lehet eltárolni.
 
-A malacperselyekről további információ [a hivatalos dokumentációban](https://firefly-iii.readthedocs.io/en/latest/advanced/piggies.html) található.
+Read more about piggy banks in [the official documentation](https://docs.firefly-iii.org/advanced-concepts/piggies).

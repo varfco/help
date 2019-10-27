@@ -8,4 +8,4 @@ In elk geval reageert Firefly III door de acties uit te voeren. Je kunt zoveel a
 
 Ook voor geïmporteerde transacties worden regels toegepast, als je dat wilt.
 
-Lees meer over regels in [de officiële documentatie](https://firefly-iii.readthedocs.io/en/latest/advanced/rules.html).
+Read more about rules in [the official documentation](https://docs.firefly-iii.org/advanced-concepts/rules).

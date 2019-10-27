@@ -20,4 +20,4 @@ Aşağıda, bütçelerinizin bir listesi, aylık giderlerin listesinde görüleb
 
 Aynı şey, bütçe grafiğinin altındaki kategorilerin listesi için de geçerlidir. Kategoriler için iki kutu (ve iki çizelge) bulunur: gelir ve harcamalar.
 
-Read more about reports in [the official documentation](https://firefly-iii.readthedocs.io/en/latest/advanced/reports.html).
+Read more about reports in [the official documentation](https://docs.firefly-iii.org/advanced-concepts/reports).

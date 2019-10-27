@@ -1,3 +1,3 @@
 Здесь Вы можете создать повторяющуюся транзакцию.
 
-Прочьтите больше информации о повторяющихся транзакциях в [официальной документации](https://firefly-iii.readthedocs.io/en/latest/advanced/recurring.html).
+Read more about recurring transactions in [the official documentation](https://docs.firefly-iii.org/advanced-concepts/recurring).

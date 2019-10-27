@@ -1,3 +1,3 @@
 Je kunt transacties in bulk bewerken met behulp van dit formulier.
 
-Je kan meer lezen over transacties in [de officiële documentatie](https://firefly-iii.readthedocs.io/en/latest/concepts/transactions.html).
+You can read more about transactions in [the official documentation](https://docs.firefly-iii.org/concepts/transactions).

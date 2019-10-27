@@ -4,4 +4,4 @@ Wanneer je contracten aanmaakt, rapporteert Firefly III over het verwachte bedra
 
 Kortom, je kunt een contract maken voor bijvoorbeeld "huur" of voor "verzekering" en elke maand laat Firefly III zien of deze betaald is.
 
-Als je meer wilt lezen over contracten, bekijk dan de [officiële documentatie over contracten](https://firefly-iii.readthedocs.io/en/latest/advanced/bills.html).
+If you want to read more about bills, check out the [official documentation on bills](https://docs.firefly-iii.org/advanced-concepts/bills).

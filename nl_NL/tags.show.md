@@ -1,3 +1,3 @@
 Dit toont een overzicht van de tag: de datum, plaats en alle transacties die ermee verbonden zijn.
 
-Je kan meer lezen over tags in [de officiële documentatie](https://firefly-iii.readthedocs.io/en/latest/concepts/tags.html).
+You can read more about tags in [the official documentation](https://docs.firefly-iii.org/concepts/tags).

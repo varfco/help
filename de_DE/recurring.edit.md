@@ -1,3 +1,3 @@
 Hier können Sie regelmäßige Buchungen bearbeiten.
 
-Erfahren Sie mehr über regelmäßige Buchungen in der [offiziellen Dokumentation](https://firefly-iii.readthedocs.io/en/latest/advanced/recurring.html).
+Read more about recurring transactions in [the official documentation](https://docs.firefly-iii.org/advanced-concepts/recurring).

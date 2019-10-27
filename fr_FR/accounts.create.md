@@ -31,4 +31,4 @@ L'autre moyen serait que quelqu'un vous doit 1000,-. Dans un tel cas, c'est **é
 
 Disons que vous voulez avoir un solde minimum de 100 $ en tout temps. Entrez "-100" et Firefly III traitera un solde de 100 $ comme zéro. Si vous créez un compte de carte de crédit, entrez la limite de votre carte de crédit (par exemple $1000). Firefly III affichera correctement jusqu'à quel point votre limite est utilisée.
 
-Si vous voulez en savoir plus sur les comptes, consultez la [documentation officielle sur les comptes](https://firefly-iii.readthedocs.io/en/latest/concepts/accounts.html).
+If you want to read more about accounts, check out the [official documentation on accounts](https://docs.firefly-iii.org/concepts/accounts).

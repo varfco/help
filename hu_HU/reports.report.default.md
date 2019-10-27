@@ -20,4 +20,4 @@ Below that a list of your budgets is visible with the expenses per month listed.
 
 The same goes for the list of categories below the budget chart. There are two boxes (and two charts) for the categories: for income and expenses.
 
-A jelentésekről további információ [a hivatalos dokumentációban](https://firefly-iii.readthedocs.io/en/latest/advanced/reports.html) található.
+Read more about reports in [the official documentation](https://docs.firefly-iii.org/advanced-concepts/reports).

@@ -13,4 +13,4 @@ Er vanuit gaande dat je 900,- hebt op je spaarrekening, kun je dit geld naar eig
 
 Dit kan je helpen om je spaargeld te organiseren.
 
-Lees meer over spaarpotjes in [de officiële documentatie](https://firefly-iii.readthedocs.io/en/latest/advanced/piggies.html).
+Read more about piggy banks in [the official documentation](https://docs.firefly-iii.org/advanced-concepts/piggies).

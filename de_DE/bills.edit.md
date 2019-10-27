@@ -8,4 +8,4 @@ Um jede Rechnung einer Transaktion zuzuordnen, werden Sie auf die Seite geleitet
 
 Wenn Sie eine Rechnung bearbeiten und den Betrag anpassen, wird die Regel für die Verknüpfung der Transaktion nicht automatisch mit angepasst!
 
-Wenn Sie mehr über Rechnungen erfahren wollen, lesen Sie die [offizielle Dokumentation über Rechnungen](https://firefly-iii.readthedocs.io/en/latest/advanced/bills.html).
+If you want to read more about bills, check out the [official documentation on bills](https://docs.firefly-iii.org/advanced-concepts/bills).

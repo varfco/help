@@ -6,4 +6,4 @@ Gunakan formulir ini untuk membuat tagihan baru.
 
 To match each bill to a transaction, you will be guided towards the page that allows you to create a rule. On this page you can enter the details of the kind of transaction you would want to match the rule.
 
-If you want to read more about bills, check out the [official documentation on bills](https://firefly-iii.readthedocs.io/en/latest/advanced/bills.html).
+If you want to read more about bills, check out the [official documentation on bills](https://docs.firefly-iii.org/advanced-concepts/bills).

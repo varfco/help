@@ -2,7 +2,7 @@ Firefly III biedt een aantal rapporten. Elk rapport kan opgeslagen worden als fa
 
 Voor alle rapporten moet je aangeven welke betaalrekeningen in het rapport worden opgenomen. Als je bepaalde betaalrekeningen niet meeneemt, zullen overschrijvingen van en naar de genegeerde rekeningen als uitgaven en inkomsten tellen.
 
-You must select a date range for each report. There are no limits to the date range you select. You can also use **magic words**, read more about them in [the official documentation](https://firefly-iii.readthedocs.io/en/latest/advanced/reports.html).
+You must select a date range for each report. There are no limits to the date range you select. You can also use **magic words**, read more about them in [the official documentation](https://docs.firefly-iii.org/advanced-concepts/reports).
 
 #### Standard financieel rapport
 
@@ -28,4 +28,4 @@ In dit rapport wordt aangegeven wat je hebt uitgegeven en verdiend in de geselec
 
 Dit verslag is beschikbaar voor rekeningen die zowel bron van inkomsten zijn als plaatsen waar je geld hebt uitgegeven. Dit zou bijvoorbeeld het geval kunnen zijn als je bij een supermarkt werkt. Dit verslag stelt je in staat om dergelijke rekeningen te combineren en te zien wat het saldo is.
 
-Lees meer over rapporten in [de officiële documentatie](https://firefly-iii.readthedocs.io/en/latest/advanced/reports.html).
+Read more about reports in [the official documentation](https://docs.firefly-iii.org/advanced-concepts/reports).

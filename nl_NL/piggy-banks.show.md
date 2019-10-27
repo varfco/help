@@ -2,4 +2,4 @@ Deze pagina toont je een spaarpotje, de huidige staat en indien beschikbaar een 
 
 Dus als je al een tijdje spaart, laat deze pagina je zien hoe snel (of langzaam) het gaat.
 
-Lees meer over spaarpotjes in [de officiële documentatie](https://firefly-iii.readthedocs.io/en/latest/advanced/piggies.html).
+Read more about piggy banks in [the official documentation](https://docs.firefly-iii.org/advanced-concepts/piggies).

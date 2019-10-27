@@ -7,10 +7,10 @@ Por ejemplo, usted podría tener dos alcancías, ambas ligadas a su cuenta de ah
 
 Asumiendo que usted tiene 900,- en su cuenta de ahorros, usted puede dividir este dinero entre ambas alcancías como mejor le cuadre:
 
-1. 500,-por la TV y 400,-por la PC.
+1. 500,- para la TV y 400,- para la PC.
 2. 450,-por la TV y 450,-por la PC.
-3. 500,-por la TV y nada por la nueva PC, dejando 400,- para ser dividido.
+3. 500,-para la TV y nada para la nueva PC, dejando 400,- para ser dividido.
 
 Esto le puede ayudar a usted a organizar sus ahorros.
 
-Read more about piggy banks in [the official documentation](https://firefly-iii.readthedocs.io/en/latest/advanced/piggies.html).
+Read more about piggy banks in [the official documentation](https://docs.firefly-iii.org/advanced-concepts/piggies).

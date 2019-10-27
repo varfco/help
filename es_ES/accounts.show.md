@@ -10,10 +10,10 @@ Las cuentas de gastos indican montos "ganados" quitando el hecho que usted gast�
 
 **Cuentas de ingresos**
 
-Just like how expense accounts mention earned amounts, revenue accounts mention "spent" amounts because technically, money you receive by a revenue account is spent by them.
+De igual forma que las cuentas de gastos mencionan las cantidades ganadas, las cuentas de ingresos mencionan "gastos" porque, técnicamente, el dinero recibido por una cuenta de ingresos es gastado por ellas.
 
-**Liabilities**
+**Pasivos**
 
-This overview shows the state of your liabilities.
+Esta visión general muestra el estado de sus pasivos.
 
-If you want to read more about accounts, check out the [official documentation on accounts](https://firefly-iii.readthedocs.io/en/latest/concepts/accounts.html).
+If you want to read more about accounts, check out the [official documentation on accounts](https://docs.firefly-iii.org/concepts/accounts).

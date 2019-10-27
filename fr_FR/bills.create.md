@@ -6,4 +6,4 @@ Utilisez ce formulaire pour créer une nouvelle facture.
 
 Pour faire correspondre chaque facture à une transaction, vous allez être guidé vers la page qui permet de créer une règle. Sur cette page, vous pouvez saisir les détails du type de transaction que vous souhaitez faire correspondre à la règle.
 
-Si vous voulez plus d'informations sur les factures, consultez [la documentation officielle sur les factures](https://firefly-iii.readthedocs.io/en/latest/advanced/bills.html).
+If you want to read more about bills, check out the [official documentation on bills](https://docs.firefly-iii.org/advanced-concepts/bills).

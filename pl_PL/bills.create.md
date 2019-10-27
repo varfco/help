@@ -6,4 +6,4 @@ Użyj tego formularza aby utworzyć nowy rachunek.
 
 To match each bill to a transaction, you will be guided towards the page that allows you to create a rule. On this page you can enter the details of the kind of transaction you would want to match the rule.
 
-Jeśli chcesz dowiedzieć się więcej na temat rachunków, sprawdź w [oficjalnej dokumentacji o rachunkach](https://firefly-iii.readthedocs.io/en/latest/advanced/bills.html).
+If you want to read more about bills, check out the [official documentation on bills](https://docs.firefly-iii.org/advanced-concepts/bills).

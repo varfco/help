@@ -2,4 +2,4 @@ Ein Kostenrahmen kann genutzt werden um Ausgaben zu gruppieren und ein Auge übe
 
 Sie können noch keine Summe eintragen. Dies passiert im nächsten Schritt.
 
-Falls Sie mehr über Kostenrahmen erfahren wollen, lesen Sie die [offizielle Dokumentation über Kostenrahmen](https://firefly-iii.readthedocs.io/en/latest/concepts/budgets.html).
+If you want to read more about budgets, check out the [official documentation on budgets](https://docs.firefly-iii.org/concepts/budgets).

@@ -16,8 +16,8 @@ El reporte comienza con el recuadro los balances de sus cuentas a través del ti
 
 Luego, un gráfico muestra su "valor neto", es decir. todas sus cuentas de activos combinadas a lo largo del tiempo.
 
-Bajo esto una lista de presupuestos es visible con los gastos enumerados por mes. Click the title and below the list, and a chart will appear. Haga clic en el icono de flecha, y accederá a la pagina de presupuesto.
+Bajo esto una lista de presupuestos es visible con los gastos enumerados por mes. Haga clic en el titulo y bajo de la lista, y aparecerá un gráfico. Haga clic en el icono de flecha, y accederá a la pagina de presupuesto.
 
 Lo mismo aplica para la lista de categorías bajo el recuadro de presupuesto, Hay dos recuadros (y dos gráficos); para las categorías; para ingresos y gastos.
 
-Read more about reports in [the official documentation](https://firefly-iii.readthedocs.io/en/latest/advanced/reports.html).
+Read more about reports in [the official documentation](https://docs.firefly-iii.org/advanced-concepts/reports).

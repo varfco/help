@@ -6,4 +6,4 @@ Firefly III ma kilka linków domyślnych, ale zawsze możesz dodać więcej. Lin
 
 You can create as many transaction links as you want, but they must be unique.
 
-Jeśli chcesz dowiedzieć się więcej na temat połączeń transakcji, sprawdź [oficjalną dokumentację o połączeniach transakcji](https://firefly-iii.readthedocs.io/en/latest/advanced/links.html).
+If you want to read more about transaction links, check out the [official documentation on transaction links](https://docs.firefly-iii.org/advanced-concepts/links).

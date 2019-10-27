@@ -1,0 +1,1 @@
+Listado de todos los adjuntos. Esta vista fue creada para que pueda obtener una visión general de sus adjuntos. No está promovido ni vinculado a ningún otro lugar.

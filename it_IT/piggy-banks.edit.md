@@ -2,4 +2,4 @@ Quello che succede quando si modifica un salvadanaio dovrebbe essere abbastanza 
 
 Supponiamo che tu abbia un salvadanaio con un obiettivo di 500,00 e che contenga 300,00. Se si modifica l'importo di destinazione a 200,00, anche l'importo nel salvadanaio scenderà a 200, 00.
 
-Leggi di più sui salvadanai nella [documentazione ufficiale](https://firefly-iii.readthedocs.io/en/latest/advanced/piggies.html).
+Read more about piggy banks in [the official documentation](https://docs.firefly-iii.org/advanced-concepts/piggies).

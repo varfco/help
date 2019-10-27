@@ -1,3 +1,3 @@
 Ez egy áttekintés azokról a tranzakciókról amik nem lettek költségkerethez rendelve.
 
-A költségkeretekről további információ [a hivatalos dokumentációban](https://firefly-iii.readthedocs.io/en/latest/concepts/budgets.html) található.
+If you want to read more about budgets, check out the [official documentation on budgets](https://docs.firefly-iii.org/concepts/budgets).

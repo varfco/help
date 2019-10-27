@@ -20,4 +20,4 @@ En dessous, une liste de vos budgets est visible avec les dépenses listées par
 
 Il en va de même pour la liste des catégories sous le tableau budgétaire. Il y a deux cases (et deux graphiques) pour les catégories : une pour les revenus et une pour les dépenses.
 
-Plus d'informations sur les rapports dans [la documentation officielle](https://firefly-iii.readthedocs.io/en/latest/advanced/reports.html).
+Read more about reports in [the official documentation](https://docs.firefly-iii.org/advanced-concepts/reports).

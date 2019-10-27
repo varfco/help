@@ -4,4 +4,4 @@ Inizia con alcuni grafici che mostrano come sono circolati i soldi nei budget. A
 
 Infine, vengono presentate alcune statistiche sul periodo di riferimento. Per tua comodità tutti gli elenchi sono ordinabili.
 
-Leggi di più sui rapporti nella [documentazione ufficiale](https://firefly-iii.readthedocs.io/en/latest/advanced/reports.html).
+Read more about reports in [the official documentation](https://docs.firefly-iii.org/advanced-concepts/reports).

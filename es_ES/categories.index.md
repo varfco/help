@@ -1,3 +1,3 @@
 Esto le muestra a usted una lista de todas las categorías y cuando fue utilizada por ultima vez. Usted puede crear nuevas categorías tanto manualmente o cuando entre a una nueva transacción. También hay un botón especial para transacciones sin categoría.
 
-If you want to read more about categories, check out the [official documentation on categories](https://firefly-iii.readthedocs.io/en/latest/concepts/categories.html).
+If you want to read more about categories, check out the [official documentation on categories](https://docs.firefly-iii.org/concepts/categories).

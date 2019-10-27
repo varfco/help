@@ -4,4 +4,4 @@ DIsaat anda membuat tagihan, Firefly III akan melaporkan jumlah taguhan yang dii
 
 Singkatnya, Anda dapat membuat tagihan untuk "sewa" atau "asuransi" dan setiap bulan, Firefly III akan menunjukkan kepada Anda jika Anda membayarnya.
 
-If you want to read more about bills, check out the [official documentation on bills](https://firefly-iii.readthedocs.io/en/latest/advanced/bills.html).
+If you want to read more about bills, check out the [official documentation on bills](https://docs.firefly-iii.org/advanced-concepts/bills).

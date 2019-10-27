@@ -12,4 +12,4 @@ Sowohl der verfügbare Betrag, als auch der auf Kostenrahmen aufgeteilte Betrag 
 
 Sie können diese Periode in Ihren Einstellungen auf wöchentlich, oder sogar jährlich stellen.
 
-Falls Sie mehr über Kostenrahmen erfahren wollen, lesen Sie die [offizielle Dokumentation über Kostenrahmen](https://firefly-iii.readthedocs.io/en/latest/concepts/budgets.html).
+If you want to read more about budgets, check out the [official documentation on budgets](https://docs.firefly-iii.org/concepts/budgets).

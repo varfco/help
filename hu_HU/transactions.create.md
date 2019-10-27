@@ -2,4 +2,4 @@ Tranzakció létrehozásakor számos mezőt be lehet állítani. Ha nem elég a 
 
 When you create a cash withdrawal or a cash deposit, you can leave the expense / revenue account field empty.
 
-A tranzakciókról további információ [a hivatalos dokumentációban](https://firefly-iii.readthedocs.io/en/latest/concepts/transactions.html) található.
+You can read more about transactions in [the official documentation](https://docs.firefly-iii.org/concepts/transactions).

@@ -8,4 +8,4 @@ W celu dopasowania każdego rachunku do transakcji, zostaniesz poprowadzony na s
 
 Jeśli edytujesz rachunek i zmienisz wartość, reguła nie zostanie automatycznie zaktualizowana do dopasowania.
 
-Jeśli chcesz dowiedzieć się więcej na temat rachunków, sprawdź w [oficjalnej dokumentacji o rachunkach](https://firefly-iii.readthedocs.io/en/latest/advanced/bills.html).
+If you want to read more about bills, check out the [official documentation on bills](https://docs.firefly-iii.org/advanced-concepts/bills).

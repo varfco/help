@@ -8,4 +8,4 @@ Per abbinare ogni bolletta ad una transazione verrai guidato verso la pagina che
 
 Se modifichi una bolletta e cambi l'importo le regole per l'abbinamento non verranno aggiornate automaticamente.
 
-Se vuoi saperne di più sulle bollette, consulta la [documentazione ufficiale sulle bollette](https://firefly-iii.readthedocs.io/en/latest/advanced/bills.html).
+If you want to read more about bills, check out the [official documentation on bills](https://docs.firefly-iii.org/advanced-concepts/bills).

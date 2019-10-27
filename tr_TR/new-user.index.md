@@ -6,4 +6,4 @@ Başlamak için lütfen gereken bilgileri doldurun.
 * Bakiye şuanda sahip olunan bakiye olmalıdır. Ayrıca bunu sıfır yapabilir ve daha sonra düzeltebilirsiniz.
 * Birikim hesaplarınız için de aynı uygulamalar geçerlidir. İsim banka isminizden türetilecektir fakat bunu daha sonra değiştirebilirsiniz.
 
-Read more about Firefly III in [the official documentation](https://firefly-iii.readthedocs.io/en/latest/).
+Read more about Firefly III in [the official documentation](https://docs.firefly-iii.org/).

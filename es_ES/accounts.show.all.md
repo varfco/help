@@ -1,0 +1,1 @@
+Muestra todas las transacciones para una cuenta. Esta vista no está limitada por los ajustes de mes o fecha.

@@ -12,4 +12,4 @@ Let op dat voor elke valuta het volgende nodig is:
 
 De euro kan niet worden uitgeschakeld of verwijderd.
 
-Als je meer wilt lezen over valuta, bekijk dan de [officiële documentatie over valuta](https://firefly-iii.readthedocs.io/en/latest/concepts/currencies.html).
+If you want to read more about currencies, check out the [official documentation on currencies](https://docs.firefly-iii.org/concepts/currencies).

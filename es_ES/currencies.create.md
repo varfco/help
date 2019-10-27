@@ -1,11 +1,11 @@
-Nuevas monedas pueden siempre ser agregadas a Firefly III si el suyo no esta presente por mora. por favor asegurese que el código de la moneda sea compatible con el ISO4217.
+Nuevas divisas pueden siempre ser agregadas a Firefly III si la suya no esta presente por defecto. Por favor, asegúrese que el código de la moneda sea compatible con el ISO4217.
 
-Las monedas tienden a tener 2 posiciones decimales. Usted debería chequear Wikipedia para mas información acerca de su moneda preferida, si usted esta inseguro. Si usted quiere saber cuales son los valores por su moneda, revise[esta lista de monedas](https://github.com/xsolla/currency-format/blob/master/currency-format.json) en Ginthub. New currencies are enabled by default.
+Las divisas tienden a tener 2 posiciones decimales. Debería revisar Wikipedia para mas información acerca de su divisa preferida, si esta inseguro. Si usted quiere saber cuales son los valores para su divisa, revise [esta lista de divisas](https://github.com/xsolla/currency-format/blob/master/currency-format.json) en Ginthub. Las nuevas divisas están activadas por defecto.
 
-Please note that each currency needs:
+Por favor, tenga en cuenta que cada divisa necesita:
 
-- A symbol, such as $ or € or something else.
-- A code, such as EUR or USD or something you make up.
-- A name, of course.
+- Un símbolo, como $ o € u otra cosa.
+- Un código, como EUR o USD o algo que usted crea.
+- Un nombre, por supuesto.
 
-If you want to read more about currencies, check out the [official documentation on currencies](https://firefly-iii.readthedocs.io/en/latest/concepts/currencies.html).
+If you want to read more about currencies, check out the [official documentation on currencies](https://docs.firefly-iii.org/concepts/currencies).

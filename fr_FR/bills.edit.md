@@ -8,4 +8,4 @@ Pour faire correspondre chaque facture à une transaction, vous allez être guid
 
 Si vous modifiez la facture et changez le montant, la règle ne sera pas mise à jour automatiquement pour refléter votre modification.
 
-Si vous voulez plus d'informations sur les factures, consultez [la documentation officielle sur les factures](https://firefly-iii.readthedocs.io/en/latest/advanced/bills.html).
+If you want to read more about bills, check out the [official documentation on bills](https://docs.firefly-iii.org/advanced-concepts/bills).

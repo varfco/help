@@ -16,4 +16,4 @@ Just like how expense accounts mention earned amounts, revenue accounts mention 
 
 Przegląd ten pokazuje stan Twoich zobowiązań.
 
-Jeśli chcesz dowiedzieć się więcej na temat kont, sprawdź w [oficjalnej dokumentacji o kontach](https://firefly-iii.readthedocs.io/en/latest/concepts/accounts.html).
+If you want to read more about accounts, check out the [official documentation on accounts](https://docs.firefly-iii.org/concepts/accounts).

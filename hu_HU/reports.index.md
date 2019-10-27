@@ -2,7 +2,7 @@ Firefly III offers a number types of reports. Each report can be bookmarked for 
 
 Az ÖSSZES jelentésnél meg kell mondani, hogy mely eszközszámlák legyenek befoglalva a jelentésbe. If you do not include certain asset accounts, transfers from and to those ignored accounts will count as expenses and income.
 
-Minden jelentéshez ki kell választani egy időintervallumot. There are no limits to the date range you select. You can also use **magic words**, read more about them in [the official documentation](https://firefly-iii.readthedocs.io/en/latest/advanced/reports.html).
+Minden jelentéshez ki kell választani egy időintervallumot. There are no limits to the date range you select. You can also use **magic words**, read more about them in [the official documentation](https://docs.firefly-iii.org/advanced-concepts/reports).
 
 #### Alapértelmezés szerinti pénzügyi jelentés
 
@@ -28,4 +28,4 @@ This report will tell you what you have spent and earned in the selected tags, o
 
 This report is available for accounts that are both sources of income, and places where you spent money. If you work at a super market like Walmart, this could be the case. This report allows you to combine such accounts and see what the balance is.
 
-A jelentésekről további információ [a hivatalos dokumentációban](https://firefly-iii.readthedocs.io/en/latest/advanced/reports.html) található.
+Read more about reports in [the official documentation](https://docs.firefly-iii.org/advanced-concepts/reports).

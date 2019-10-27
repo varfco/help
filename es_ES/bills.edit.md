@@ -1,11 +1,11 @@
 Puede editar una factura.
 
 * El nombre es solo descriptivo y no se usa internamente.
-* Use the amount (min) and (max) to indicate expected limits for the bill. These amounts are used to give you an idea of the amount of bills you have to pay each period.
-* If you enter a number in the "skip" fields, the bill will be automatically skipped every X times; a bill that arrives every 3 months can be entered by filling in "3".
+* Utilice la cantidad (min) y (max) para indicar los límites esperados para la factura. Estas cantidades se utilizan para darle una idea de la cantidad de facturas que tiene que pagar cada período.
+* Si usted ingresa un número en el campo "saltar", la factura se omitirá automáticamente cada X veces; una factura que llega cada 3 meses puede ingresarse rellenando "3".
 
-To match each bill to a transaction, you will be guided towards the page that allows you to create a bill. On this page you can enter the details of the kind of transaction you would want to match the bill.
+Para coincidir con cada factura a una transacción, se le guiará hacia la página que le permite crear una factura. En esta página puede introducir los detalles del tipo de transacción que quieres hace coincidir con la factura.
 
-If you edit a bill and change the amount, the rule will not be automatically updated to match.
+Si editas una factura y cambia la cantidad, la regla no se actualizará automáticamente para coincidir.
 
-If you want to read more about bills, check out the [official documentation on bills](https://firefly-iii.readthedocs.io/en/latest/advanced/bills.html).
+If you want to read more about bills, check out the [official documentation on bills](https://docs.firefly-iii.org/advanced-concepts/bills).

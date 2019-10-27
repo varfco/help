@@ -6,4 +6,4 @@ Pour commencer, veuillez remplir les détails requis.
 * Le solde doit être le solde du compte en ce moment précis. Vous pouvez aussi laisser ceci à zéro et le corriger plus tard.
 * Pour votre compte d'épargne, c'est la même chose. Son nom sera dérivé du nom de votre banque, mais vous pouvez le modifier ultérieurement.
 
-Plus d'informations sur Firefly III dans [la documentation officielle](https://firefly-iii.readthedocs.io/en/latest/).
+Read more about Firefly III in [the official documentation](https://docs.firefly-iii.org/).

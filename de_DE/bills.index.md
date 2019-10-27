@@ -4,4 +4,4 @@ Wenn Sie Rechnungen erstellen, berichtet Firefly III den erwarteten Betrag der R
 
 Kurz gesagt bedeutet dies, dass Sie Rechnungen für "Miete" oder "Versicherungen" anlegen können. Firefly III zeigt Ihnen, ob Sie dafür bereits gezahlt haben.
 
-Falls Sie mehr über Rechnungen erfahren wollen, lesen Sie die [offizielle Dokumentation über Rechnungen](https://firefly-iii.readthedocs.io/en/latest/advanced/bills.html).
+If you want to read more about bills, check out the [official documentation on bills](https://docs.firefly-iii.org/advanced-concepts/bills).

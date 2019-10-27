@@ -1,3 +1,3 @@
 Bir faaliyeti sildiğinizde bununla ilgili tüm girişler mesela ekler de silinecektir.
 
-You can read more about transactions in [the official documentation](https://firefly-iii.readthedocs.io/en/latest/concepts/transactions.html).
+You can read more about transactions in [the official documentation](https://docs.firefly-iii.org/concepts/transactions).

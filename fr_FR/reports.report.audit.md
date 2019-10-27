@@ -6,4 +6,4 @@ Vous trouverez ci-dessous un ensemble de cases contenant des informations sur le
 
 Si aucune activité n'a été enregistrée pour la période du rapport, cela sera aussi indiqué.
 
-Plus d'informations sur les rapports dans [la documentation officielle](https://firefly-iii.readthedocs.io/en/latest/advanced/reports.html).
+Read more about reports in [the official documentation](https://docs.firefly-iii.org/advanced-concepts/reports).

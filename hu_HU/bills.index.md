@@ -4,4 +4,4 @@ Számla létrehozásakor a Firefly III minden időszakra megmutatja a számlák 
 
 Röviden szólva, a létrehozott "bérleti díj" vagy "biztosítás" számláról a Firefly III minden hónapban meg fogja mondani, hogy ki lett-e már fizetve.
 
-A számlákról további információ [a hivatalos dokumentációban](https://firefly-iii.readthedocs.io/en/latest/advanced/bills.html) található.
+If you want to read more about bills, check out the [official documentation on bills](https://docs.firefly-iii.org/advanced-concepts/bills).

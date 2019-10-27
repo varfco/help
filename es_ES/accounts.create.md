@@ -1,34 +1,34 @@
 **Cuentas de gastos**
 
-Solo crea cuentas de gastos para lugares donde gastas dinero.
+Solo crea cuentas de gastos para lugares donde gasta dinero.
 
 **Cuentas de ingresos**
 
-Solo crea cuentas de ganancia para lugares donde consigues dinero.
+Solo cree cuentas de ingresos para lugares donde obtiene dinero.
 
 **Cuentas de activos**
 
-Si estas creando una cuenta de activos, deberías llenar el "saldo inicial" y la fecha correspondiente. Solo pocas personas empiezan a usar Firefly III y tienen un saldo de 0.00. En todo caso, ya tienen un poco de dinero en su cuenta. Salga de su administración. lea el saldo vigente de su cuenta a la que está agregando y llénelo.
+Si esta creando una cuenta de activos, debería llenar el "saldo inicial" y la fecha asociada. Solo pocas personas empiezan a usar Firefly III y tienen un saldo de 0.00. En todo caso, ya tienen un poco de dinero en su cuenta. Saque su estado de cuenta, lea el saldo vigente de la cuenta a la que está agregando y llénelo.
 
-Los roles que están disponibles:
+En cuanto a los roles disponibles:
 
-- Usar "cuentas de activos predeterminadas" para tus propias cuentas.
-- Usar "cuentas de activos compartidos" para cuentas domésticas.
-- Usar "cuenta de ahorro" para cuentas en las que ahorre dinero.
+- Usando "cuenta de activos predeterminada" para sus propias cuentas.
+- Usando "cuenta de activos compartidos" para cuentas domésticas.
+- Usando "cuenta de ahorro" para cuentas en las que ahorre dinero.
 - Usar "tarjetas de crédito" para tarjetas de crédito. Usted puede añadir los detalles en otro momento.
 
-**Liabilities**
+**Pasivos**
 
-Firefly III supports liabilities. You can add debts, loans and other liabilities as a means to track these. For each of them, you can enter the amount that you owe and the interest you pay over it.
+Firefly III soporta pasivos. Puede añadir deudas, préstamos y otras obligaciones como medio para rastrearlos. Por cada uno de ellos, puede introducir la cantidad que debe y el interés que paga sobre ella.
 
-*Liabilities and amounts*
+*Pasivos y cantidades*
 
-Let's say for the example you owe 1000,-. The best way to track the amount is by storing a new Debt in Firefly III in the amount of "-1000". This way, your net worth is influenced and you can move money into the liability to pay it off. Once it reaches zero, you can mark the account as inactive and be proud of paying it.
+Digamos, por ejemplo, que debe 1000,-. La mejor manera de rastrear la cantidad es almacenar una nueva deuda en Firefly III en la cantidad de "-1000". De esta manera, su valor neto está influenciado y puede mover dinero al pasivo para pagarlo. Una vez que llega a cero, puede marcar la cuenta como inactiva y estar orgulloso de pagarla.
 
-The other way around would be that somebody owes you 1000,-. In such a case, it's **also** a good idea to store the debt as a negative amount. After all, you don't have the money right now and when that person pays you, it will positively influence your net worth.
+La otra manera sería que alguien le debe 1000,-. En tal caso, es **también** una buena idea almacenar la deuda como una cantidad negativa. Después de todo, no tiene el dinero ahora mismo y cuando esa persona le paga, influirá positivamente en su valor neto.
 
-*Virtual balance*
+*Saldo virtual*
 
-Let's say you want to have a minimum balance of $100,- at all times. Enter "-100" and Firefly III will treat a balance of $100,- as zero. If you are creating a credit card account, enter the limit of your credit card (for example $1000,-). Firefly III will correctly display how far your limit is stretched.
+Digamos que usted quiere tener un mínimo de $100,- bajo cualquier circunstancia. Ingrese "-100" y Firefly III tomara en cuenta su saldo de $100,- como cero. Si está creando una cuenta de tarjeta de crédito, introduzca el límite de su tarjeta de crédito (por ejemplo $1000,-). Firefly III le mostrara correctamente que tanto de su limite utilizó.
 
-If you want to read more about accounts, check out the [official documentation on accounts](https://firefly-iii.readthedocs.io/en/latest/concepts/accounts.html).
+If you want to read more about accounts, check out the [official documentation on accounts](https://docs.firefly-iii.org/concepts/accounts).

@@ -4,4 +4,4 @@ Firefly III ana sayfası size, şuan ki ekonomik durumunuza hızlı bir genel ba
 * Aşağıdaki çeşitli grafikler size varlık hesaplarınızın, bütçelerinizin, kategorilerinizin ve gider hesaplarınızın durumunu sırasıyla gösterir. İsteğe bağlı olarak, gelir hesaplarını gösteren bir grafik de etkinleştirilebilir.
 * Sayfanın sağ altında, her varlık hesabının son 10 faaliyetini bulacaksınız.
 
-Read more about Firefly III in [the official documentation](https://firefly-iii.readthedocs.io/en/latest/).
+Read more about Firefly III in [the official documentation](https://docs.firefly-iii.org/).

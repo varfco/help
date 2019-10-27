@@ -6,4 +6,4 @@ Untuk memulai silahkan mengisi rincian yang dibutuhkan.
 * Saldo harus menjadi saldo akun saat ini. Anda juga bisa meninggalkan ini di nol, dan memperbaikinya nanti.
 * Untuk rekening tabungan Anda, hal yang sama juga berlaku. Nama itu akan berasal dari nama bank Anda, tapi Anda bisa mengubahnya nanti.
 
-Read more about Firefly III in [the official documentation](https://firefly-iii.readthedocs.io/en/latest/).
+Read more about Firefly III in [the official documentation](https://docs.firefly-iii.org/).

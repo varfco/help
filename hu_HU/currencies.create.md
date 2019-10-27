@@ -8,4 +8,4 @@ Fontos tudni, hogy minden pénznemnek szüksége van:
 - A code, such as EUR or USD or something you make up.
 - Természetesen egy név.
 
-A pénznemekről további információ [a hivatalos dokumentációban](https://firefly-iii.readthedocs.io/en/latest/concepts/currencies.html) található.
+If you want to read more about currencies, check out the [official documentation on currencies](https://docs.firefly-iii.org/concepts/currencies).

@@ -16,4 +16,4 @@ Comme les comptes de dépenses mentionnent les montant gagnés, les comptes de r
 
 Cet aperçu montre l'état de vos passifs.
 
-Si vous voulez plus d'informations sur les comptes, consultez [la documentation officielle sur les comptes](https://firefly-iii.readthedocs.io/en/latest/concepts/accounts.html).
+If you want to read more about accounts, check out the [official documentation on accounts](https://docs.firefly-iii.org/concepts/accounts).

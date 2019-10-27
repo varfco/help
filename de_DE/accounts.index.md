@@ -20,4 +20,4 @@ Diese repräsentieren die Menschen, die dich bezahlen. Deine Arbeit zum Beispiel
 
 Dies sind deine Schulden, Darlehen, Hypothek(en).
 
-Wenn du mehr über Konten erfahren möchtest, schaue dir die [offizielle Dokumentation dazu an](https://firefly-iii.readthedocs.io/en/latest/concepts/accounts.html).
+If you want to read more about accounts, check out the [official documentation on accounts](https://docs.firefly-iii.org/concepts/accounts).

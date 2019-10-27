@@ -10,4 +10,4 @@ Cada regla y cada grupo de reglas puede ser ejecutada en sus transacciones parta
 
 Para ver como funciona una regla, presione **Nueva regla**.
 
-Read more about rules in [the official documentation](https://firefly-iii.readthedocs.io/en/latest/advanced/rules.html).
+Read more about rules in [the official documentation](https://docs.firefly-iii.org/advanced-concepts/rules).

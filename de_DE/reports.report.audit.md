@@ -6,4 +6,4 @@ Below those checkboxes, you will see a set of boxes with information about the s
 
 Falls keine Aktivität in der ausgewählten Periode stattgefunden hat, wird dies auch angezeigt.
 
-Lesen Sie mehr über Berichte in der [offiziellen Dokumentation](https://firefly-iii.readthedocs.io/en/latest/advanced/reports.html).
+Read more about reports in [the official documentation](https://docs.firefly-iii.org/advanced-concepts/reports).

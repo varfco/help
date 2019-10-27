@@ -31,4 +31,4 @@ A másik mód, ha valaki neked tartozik 1000,--el. Ebben az esetben **is** jó �
 
 Tegyük fel, hogy az egyenleg minimuma mindig $100,- kell legyen. "-100"-at megadva a Firefly III a "$100,-"-os egyenleget nullaként fogja kezelni. Hitelkártya számla létrehozásakor a hitelkártya limitjét kell megadni (például $1000,-). A Firefly III helyesen fogja megjeleníteni, hogy hol van a limit határa.
 
-A számlákról további információ [a hivatalos dokumentációban](https://firefly-iii.readthedocs.io/en/latest/concepts/accounts.html) található.
+If you want to read more about accounts, check out the [official documentation on accounts](https://docs.firefly-iii.org/concepts/accounts).

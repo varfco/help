@@ -13,4 +13,4 @@ Birikim hesabınızda 900 olduğunu varsayalım, gördüğünüz gibi bu parayı
 
 Bu birikimlerinizi organize etmenize yardımcı olabilir.
 
-Read more about piggy banks in [the official documentation](https://firefly-iii.readthedocs.io/en/latest/advanced/piggies.html).
+Read more about piggy banks in [the official documentation](https://docs.firefly-iii.org/advanced-concepts/piggies).

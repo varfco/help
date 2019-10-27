@@ -4,4 +4,4 @@ Firefly III faturalar oluşturduğunuzda, her dönem için faturaların beklenen
 
 Kısaca, "kira" veya "sigorta" için fatura oluşturabilirsiniz ve Firefly III, her ay bunlar için ödeme yaptıysanız, bunu gösterecektir.
 
-If you want to read more about bills, check out the [official documentation on bills](https://firefly-iii.readthedocs.io/en/latest/advanced/bills.html).
+If you want to read more about bills, check out the [official documentation on bills](https://docs.firefly-iii.org/advanced-concepts/bills).

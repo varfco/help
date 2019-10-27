@@ -2,4 +2,4 @@ Apa yang terjadi saat Anda mengedit piggy bank harus cukup jelas. Jika Anda meng
 
 Anggap saja Anda memiliki piggy bank dengan jumlah target 500, - dan berisi 300, -. Jika Anda mengubah jumlah target menjadi 200, -, jumlah di celengan juga akan turun menjadi 200, -.
 
-Read more about piggy banks in [the official documentation](https://firefly-iii.readthedocs.io/en/latest/advanced/piggies.html).
+Read more about piggy banks in [the official documentation](https://docs.firefly-iii.org/advanced-concepts/piggies).

@@ -2,4 +2,4 @@
 
 Вы можете использовать поле «примечания» для хранения дополнительных заметок.
 
-Подробнее о копилках читайте в [официальной документации](https://firefly-iii.readthedocs.io/en/latest/advanced/piggies.html).
+Read more about piggy banks in [the official documentation](https://docs.firefly-iii.org/advanced-concepts/piggies).

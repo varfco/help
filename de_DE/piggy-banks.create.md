@@ -2,4 +2,4 @@ Diese Seite hilft Ihnen beim Erstellen von Sparschweinen. Geben Sie einen Zielbe
 
 Im Feld "Notizen" können Sie weitere Notizen speichern.
 
-Lesen Sie mehr über Sparschweine in der [offiziellen Dokumentation](https://firefly-iii.readthedocs.io/en/latest/advanced/piggies.html).
+Read more about piggy banks in [the official documentation](https://docs.firefly-iii.org/advanced-concepts/piggies).

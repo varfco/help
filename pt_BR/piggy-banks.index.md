@@ -13,4 +13,4 @@ Supondo que você tenha 900, - em sua conta poupança, você pode dividir esse d
 
 Isso pode ajudar você a organizar suas economias.
 
-Leia mais sobre cofrinhos na [documentação oficial](https://firefly-iii.readthedocs.io/en/latest/advanced/piggies.html).
+Read more about piggy banks in [the official documentation](https://docs.firefly-iii.org/advanced-concepts/piggies).

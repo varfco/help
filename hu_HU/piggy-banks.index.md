@@ -13,4 +13,4 @@ Tételezzük fel, hogy van 900,- a megtakarítási számlán, ezt a pénzt fel l
 
 Ez segít megszervezni a megtakarításokat.
 
-A malacperselyekről további információ [a hivatalos dokumentációban](https://firefly-iii.readthedocs.io/en/latest/advanced/piggies.html) található.
+Read more about piggy banks in [the official documentation](https://docs.firefly-iii.org/advanced-concepts/piggies).

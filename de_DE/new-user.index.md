@@ -6,4 +6,4 @@ Bevor Sie beginnen, füllen Sie bitte die erforderlichen Felder aus.
 * Das Saldo sollte das aktuelle Saldo Ihres Bankkontos sein. Sie können dies auch erstmal auf null belassen und später anpassen.
 * Das Gleiche gilt für Ihr Sparkonto. Der Name wird vom Namen Ihrer Bank abgeleitet, aber Sie können ihn später ändern.
 
-Lesen Sie mehr über Firefly III in [der offiziellen Dokumentation](https://firefly-iii.readthedocs.io/en/latest/).
+Read more about Firefly III in [the official documentation](https://docs.firefly-iii.org/).

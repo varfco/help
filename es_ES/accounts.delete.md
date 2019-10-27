@@ -2,4 +2,4 @@ Si usted elimina una cuenta, cualquier transacci√≥n asociada se eliminara tambi√
 
 Usted puede mover las transacciones para la nueva cuenta si usted desea conservarlas.
 
-If you want to read more about accounts, check out the [official documentation on accounts](https://firefly-iii.readthedocs.io/en/latest/concepts/accounts.html).
+If you want to read more about accounts, check out the [official documentation on accounts](https://docs.firefly-iii.org/concepts/accounts).

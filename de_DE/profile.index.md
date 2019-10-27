@@ -4,4 +4,4 @@ Hier finden Sie unter anderem Ihre Benutzerkennung (ID) und Kommandozeilen-Authe
 
 Auch Clients welche über die API zugreifen können Sie hier erstellen bzw. authorisieren.
 
-Lesen Sie mehr über die API in [der offiziellen Dokumentation](https://firefly-iii.readthedocs.io/en/latest/api/start.html)
+Read more about the API in the [official documentation](https://docs.firefly-iii.org/api/api).

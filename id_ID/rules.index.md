@@ -10,4 +10,4 @@ Setiap aturan dan setiap kelompok aturan dapat dieksekusi pada transaksi Anda un
 
 Untuk melihat bagaimana sebuah aturan bekerja, tekan ** Aturan baru **.
 
-Read more about rules in [the official documentation](https://firefly-iii.readthedocs.io/en/latest/advanced/rules.html).
+Read more about rules in [the official documentation](https://docs.firefly-iii.org/advanced-concepts/rules).

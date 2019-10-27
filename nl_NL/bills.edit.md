@@ -8,4 +8,4 @@ Om elk contract te kunnen koppelen met een transactie, wordt je doorgestuurd naa
 
 Als je een contract wijzigt en het bedrag wijzigt, zal de regel niet automatisch worden bijgewerkt.
 
-Als je meer wilt lezen over contracten bekijk dan de [officiële documentatie over contracten](https://firefly-iii.readthedocs.io/en/latest/advanced/bills.html).
+If you want to read more about bills, check out the [official documentation on bills](https://docs.firefly-iii.org/advanced-concepts/bills).

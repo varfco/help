@@ -2,4 +2,4 @@ Diese Seite zeigt Ihnen ein Sparschwein. Dieses hat einen aktuellen Zustand (wie
 
 Falls Sie also bereits seit einer Weile sparen, können Sie sich hier einen Überblick darüber verschaffen, wie schnell (oder langsam) es voran geht.
 
-Lesen Sie mehr über Sparschweine in der [offiziellen Dokumentation](https://firefly-iii.readthedocs.io/en/latest/advanced/piggies.html).
+Read more about piggy banks in [the official documentation](https://docs.firefly-iii.org/advanced-concepts/piggies).

@@ -1,3 +1,3 @@
 Quando elimini una bolletta le transazioni associate ad essa perderanno l'associazione. La transazione rimarrà memorizzata.
 
-Se vuoi saperne di più sulle bollette, consulta la [documentazione ufficiale sulle bollette](https://firefly-iii.readthedocs.io/en/latest/advanced/bills.html).
+If you want to read more about bills, check out the [official documentation on bills](https://docs.firefly-iii.org/advanced-concepts/bills).

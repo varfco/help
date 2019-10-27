@@ -2,4 +2,4 @@ Bu sayfa bir kumbara oluşturmanıza yardım eder. Hedef miktarı ayarlayabilir 
 
 Ek notlar depolamak için "notlar" alanını kullanabilirsiniz.
 
-Read more about piggy banks in [the official documentation](https://firefly-iii.readthedocs.io/en/latest/advanced/piggies.html).
+Read more about piggy banks in [the official documentation](https://docs.firefly-iii.org/advanced-concepts/piggies).

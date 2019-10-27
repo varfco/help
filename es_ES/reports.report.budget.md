@@ -4,4 +4,4 @@ Comienza con algunos cuadros que le muestran a usted como el dinero en el presup
 
 Finalmente, algunas estadísticas del periodo del reporte se presentan. todas estas listas son ordenables para su conveniencia.
 
-Read more about reports in [the official documentation](https://firefly-iii.readthedocs.io/en/latest/advanced/reports.html).
+Read more about reports in [the official documentation](https://docs.firefly-iii.org/advanced-concepts/reports).

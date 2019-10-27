@@ -11,12 +11,12 @@ Los roles que están disponibles:
 
 Firefly III solo apoya tarjetas de crédito cuando usted paga mensualmente. Esta información no es utilizada activamente de todas formas. Pero por favor complete y en el futuro Firefly III puede hacer algo útil con la información.
 
-**Liabilities**
+**Pasivos**
 
-Firefly III supports liabilities. You can add debts, loans and other liabilities as a means to track these. For each of them, you can enter the amount that you owe and the interest you pay over it.
+Firefly III soporta pasivos. Puede añadir deudas, préstamos y otras obligaciones como medio para rastrearlos. Por cada uno de ellos, puede introducir la cantidad que debe y el interés que paga sobre ella.
 
-*Virtual balance*
+*Saldo virtual*
 
-Let's say you want to have a minimum balance of $100,- at all times. Enter "-100" and Firefly III will treat a balance of $100,- as zero. If you are creating a credit card account, enter the limit of your credit card (for example $1000,-). Firefly III will correctly display how far your limit is stretched.
+Digamos que usted quiere tener un mínimo de $100,- bajo cualquier circunstancia. Ingrese "-100" y Firefly III tomara en cuenta su saldo de $100,- como cero. Si está creando una cuenta de tarjeta de crédito, introduzca el límite de su tarjeta de crédito (por ejemplo $1000,-). Firefly III le mostrara correctamente que tanto de su limite utilizó.
 
-If you want to read more about accounts, check out the [official documentation on accounts](https://firefly-iii.readthedocs.io/en/latest/concepts/accounts.html).
+If you want to read more about accounts, check out the [official documentation on accounts](https://docs.firefly-iii.org/concepts/accounts).

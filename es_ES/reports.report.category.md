@@ -1,7 +1,7 @@
-Este reporte le muestra a usted la influencia de categoría (s) seleccionadas que han tenido en las cuentas de activos seleccionadas.
+Este reporte le muestra a usted la influencia de la(s) categoría(s) seleccionada(s) que han tenid(o) en las cuentas de activos seleccionadas.
 
-Comienza con algunos cuadros mostrandole a usted como el dinero en las categoría (s) a circulado. luego, un complicado gráfico de "ingresos y gastos" le muestra a usted como se vio a través del tiempo.
+Comienza con algunos gráficos mostrandole como el dinero en la(s) categoría(s) ha circulado. Luego, un complicado gráfico de "ingresos y gastos" le muestra como se ve a través del tiempo.
 
-Finalmente, algunas estadísticas del periodo del reporte se presentan. Todas estas listas son ordenables para su conveniencia.
+Finalmente, algunas estadísticas del periodo del reporte se presentan. Todas las listas son ordenables para su conveniencia.
 
-Read more about reports in [the official documentation](https://firefly-iii.readthedocs.io/en/latest/advanced/reports.html).
+Read more about reports in [the official documentation](https://docs.firefly-iii.org/advanced-concepts/reports).
