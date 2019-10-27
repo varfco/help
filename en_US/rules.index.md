@@ -10,4 +10,4 @@ Each rule and each rule group can be executed on your transactions to see if the
 
 To see how a rule works, press **New rule**.
 
-Read more about rules in [the official documentation](https://firefly-iii.readthedocs.io/en/latest/advanced/rules.html).
+Read more about rules in [the official documentation](https://docs.firefly-iii.org/advanced-concepts/rules).

@@ -4,4 +4,4 @@ When you create bills, Firefly III will report on the expected amount of bills f
  
 In short, you can create a bill for "rent" or for "insurance" and every month, Firefly III will show you if you paid for it.
 
-If you want to read more about bills, check out the [official documentation on bills](https://firefly-iii.readthedocs.io/en/latest/advanced/bills.html).
+If you want to read more about bills, check out the [official documentation on bills](https://docs.firefly-iii.org/advanced-concepts/bills).

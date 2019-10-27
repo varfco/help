@@ -6,4 +6,4 @@ Below those checkboxes, you will see a set of boxes with information about the s
 
 If no activity was recorded for the reporting period, it will be said so as well.
 
-Read more about reports in [the official documentation](https://firefly-iii.readthedocs.io/en/latest/advanced/reports.html).
+Read more about reports in [the official documentation](https://docs.firefly-iii.org/advanced-concepts/reports).

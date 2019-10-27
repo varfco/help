@@ -4,4 +4,4 @@ It starts with some charts showing you how the money in the budget(s) has flowed
 
 Finally, some statistics about the reporting period are presented. All the lists are sortable for your convenience.
 
-Read more about reports in [the official documentation](https://firefly-iii.readthedocs.io/en/latest/advanced/reports.html).
+Read more about reports in [the official documentation](https://docs.firefly-iii.org/advanced-concepts/reports).

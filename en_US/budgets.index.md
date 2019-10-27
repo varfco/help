@@ -12,4 +12,4 @@ Both the amount available and the amount budgeted are for a specific period: if 
 
 In your preferences, you can change this range to be weekly, or even yearly.
 
-If you want to read more about budgets, check out the [official documentation on budgets](https://firefly-iii.readthedocs.io/en/latest/concepts/budgets.html).
+If you want to read more about budgets, check out the [official documentation on budgets](https://docs.firefly-iii.org/concepts/budgets).

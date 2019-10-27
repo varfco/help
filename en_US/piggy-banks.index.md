@@ -13,4 +13,4 @@ Assuming you have 900,- in your savings account, you can divide this money betwe
 
 This can help you organise your savings.
 
-Read more about piggy banks in [the official documentation](https://firefly-iii.readthedocs.io/en/latest/advanced/piggies.html).
+Read more about piggy banks in [the official documentation](https://docs.firefly-iii.org/advanced-concepts/piggies).

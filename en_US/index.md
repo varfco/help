@@ -4,4 +4,4 @@ The home page of Firefly III gives you a quick overview of your current financia
 * Below that are several charts that show the status of your asset accounts, budgets, categories and expense accounts respectively. Optionally, a chart showing your revenue accounts can be enabled as well.
 * Finally on the right, you will find the last 10 transactions of each asset account.
 
-Read more about Firefly III in [the official documentation](https://firefly-iii.readthedocs.io/en/latest/).
+Read more about Firefly III in [the official documentation](https://docs.firefly-iii.org/).
