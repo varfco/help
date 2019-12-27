@@ -25,4 +25,4 @@ You can expand the export using the following flags:
 * `--export-transactions`. If you use any of the flags in this list, transactions **won't be exported** unless you explicitely say so.
 
 
-If you want to read more about currencies, check out the [official documentation on currencies](https://docs.firefly-iii.org/concepts/currencies).
+If you want to read more about exporting data, check out the [official documentation on exporting data](https://docs.firefly-iii.org/exporting-data/export).
