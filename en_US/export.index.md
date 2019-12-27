@@ -8,9 +8,11 @@ The basic command for the command line is this: `php artisan firefly-iii:export-
 
 You can use the following options to expand the export. Note that some of these options may not yet work.
 
-* `-start=yyyy-mm-dd`. Start date of the export.
-* `-end=yyyy-mm-dd`. Start date of the export.
-* `-accounts=1,2,3,4`. Only include these asset accounts or liabilities in the export of transactions.
+* `--start=yyyy-mm-dd`. Start date of the export.
+* `--end=yyyy-mm-dd`. Start date of the export.
+* `--accounts=1,2,3,4`. Only include these asset accounts or liabilities in the export of transactions.
+* `--export_directory=./`. Where to store the files. Must be writeable. Defaults to `./` (the current directory).
+
 
 You can expand the export using the following flags:
 
