@@ -6,11 +6,11 @@ If you want more fine-grained control over the export, or if you want to export 
 
 The basic command for the command line is this: `php artisan firefly-iii:export-data`. Again, without a date it will simply export all your transactions in a CSV file called `yyyy_mm_dd_transactions.csv` in your current directory.
 
-You can use the following options to expand the export. Note that some of these options may not yet work.
+You can use the following options to expand the export.
 
 * `--start=yyyy-mm-dd`. Start date of the export.
 * `--end=yyyy-mm-dd`. Start date of the export.
-* `--accounts=1,2,3,4`. Only include these asset accounts or liabilities in the export of transactions.
+* `--accounts=1,2,3,4`. Only include these asset accounts or liabilities in the export of transactions. Comma separated list of ID's.
 * `--export_directory=./`. Where to store the files. Must be writeable. Defaults to `./` (the current directory).
 
 
