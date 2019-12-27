@@ -1,3 +1,3 @@
 Ceci vous permet de créer une opération périodique.
 
-Read more about recurring transactions in [the official documentation](https://docs.firefly-iii.org/advanced-concepts/recurring).
+En savoir plus sur les transactions récurrentes dans [la documentation officielle](https://docs.firefly-iii.org/advanced-concepts/recurring).

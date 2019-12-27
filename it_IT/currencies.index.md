@@ -12,4 +12,4 @@ Nota che ogni valuta ha bisogno di:
 
 L'Euro non può essere disabilitato o rimosso.
 
-If you want to read more about currencies, check out the [official documentation on currencies](https://docs.firefly-iii.org/concepts/currencies).
+Se vuoi saperne di più sulle valute, controlla la [documentazione ufficiale sulle valute](https://docs.firefly-iii.org/concepts/currencies).

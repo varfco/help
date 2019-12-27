@@ -2,4 +2,4 @@ Se elimini un conto, tutte le transazioni ad esso associate verranno rimosse. Se
 
 Puoi spostare le transazioni su un nuovo conto se desideri preservarle.
 
-If you want to read more about accounts, check out the [official documentation on accounts](https://docs.firefly-iii.org/concepts/accounts).
+Se vuoi saperne di più sui conti, controlla la [documentazione ufficiale sui conti](https://docs.firefly-iii.org/concepts/accounts).

@@ -1,5 +1,5 @@
 Halaman ini akan menunjukkan semua properti sebuah transaksi.
 
-It will also show attachments and links when present.
+Ini akan menampilkan lampiran dan tautan saat ditampilkan.
 
-You can read more about transactions in [the official documentation](https://docs.firefly-iii.org/concepts/transactions).
+Baca selengkapnya tentang piggy Banks di [halaman dokumentasi resmi](https://docs.firefly-iii.org/advanced-concepts/piggies).

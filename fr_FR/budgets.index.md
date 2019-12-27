@@ -12,4 +12,4 @@ Le montant disponible et le montant budgété sont pour une période spécifique
 
 Dans vos préférences, vous pouvez modifier cette plage pour qu'elle soit hebdomadaire ou même annuelle.
 
-If you want to read more about budgets, check out the [official documentation on budgets](https://docs.firefly-iii.org/concepts/budgets).
+Si vous souhaitez en savoir plus sur les budgets, consultez la [documentation officielle sur les budgets](https://docs.firefly-iii.org/concepts/budgets).

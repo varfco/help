@@ -4,4 +4,4 @@ Vous y trouverez également votre ID d'utilisateur et votre jeton d'accès, ce q
 
 C'est également l'endroit où vous pouvez créer des clients pour exploiter l'API de Firefly III.
 
-Read more about the API in the [official documentation](https://docs.firefly-iii.org/api/api).
+En savoir plus sur l'API dans [la documentation officielle](https://docs.firefly-iii.org/api/api).

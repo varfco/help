@@ -8,7 +8,7 @@ Buat saja akun pendapatan untuk tempat mendapatkan uang dari Anda.
 
 **Akun aset**
 
-Jika Anda membuat akun aset, Anda harus mengisi "saldo awal" dan tanggal yang terkait. Very few people start using Firefly III and have a 0.00 balance. Sebagai gantinya, mereka sudah memiliki sejumlah uang di rekening mereka. Keluar dari administrasi Anda, baca saldo akun yang sedang Anda tambahkan, dan isi.
+Jika Anda membuat akun aset, Anda harus mengisi "saldo awal" dan tanggal yang terkait. Sangat sedikit orang yang mulai menggunakan Firefly dan memiliki keseimbangan 0.00. Sebagai gantinya, mereka sudah memiliki sejumlah uang di rekening mereka. Keluar dari administrasi Anda, baca saldo akun yang sedang Anda tambahkan, dan isi.
 
 Adapun peran yang tersedia:
 
@@ -17,7 +17,7 @@ Adapun peran yang tersedia:
 - Gunakan "rekening tabungan" untuk akun tempat Anda menyimpan uang.
 - Gunakan "kartu kredit" untuk kartu kredit. Anda bisa menambahkan beberapa detail nanti.
 
-**Liabilities**
+**Kewajiban**
 
 Firefly III supports liabilities. You can add debts, loans and other liabilities as a means to track these. For each of them, you can enter the amount that you owe and the interest you pay over it.
 

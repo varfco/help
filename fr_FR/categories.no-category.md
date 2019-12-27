@@ -1,3 +1,3 @@
 Ces transactions ne sont rattachées à aucune catégorie.
 
-If you want to read more about categories, check out the [official documentation on categories](https://docs.firefly-iii.org/concepts/categories).
+Si vous souhaitez en savoir plus sur les catégories, consultez la [documentation officielle sur les catégories](https://docs.firefly-iii.org/concepts/categories).

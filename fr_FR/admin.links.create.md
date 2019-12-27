@@ -6,4 +6,4 @@ Firefly III propose par défaut quelques liens, mais vous pouvez en ajouter. Les
 
 Voux pouvez créer autant de liens que vous voulez mais ils doivent être unique.
 
-If you want to read more about transaction links, check out the [official documentation on transaction links](https://docs.firefly-iii.org/advanced-concepts/links).
+Si vous souhaitez en savoir plus sur les liens entre transactions, consultez la [documentation officielle sur les liens de transaction](https://docs.firefly-iii.org/advanced-concepts/links).

@@ -4,4 +4,4 @@ Quando crei le bollette, Firefly III riporterà l'importo previsto delle bollett
 
 In breve, puoi creare una bolletta per "affitto" o per "assicurazione" e ogni mese Firefly III ti mostrerà se l'hai pagata.
 
-If you want to read more about bills, check out the [official documentation on bills](https://docs.firefly-iii.org/advanced-concepts/bills).
+Se vuoi saperne di più sulle bollette, consulta la [documentazione ufficiale sulle bollette](https://docs.firefly-iii.org/advanced-concepts/bills).

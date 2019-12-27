@@ -12,4 +12,4 @@ Prenez en compte que chaque devise a besoin :
 
 L'euro ne peut pas être désactivé ou supprimé.
 
-If you want to read more about currencies, check out the [official documentation on currencies](https://docs.firefly-iii.org/concepts/currencies).
+Si vous souhaitez en savoir plus sur les devises, consultez la [documentation officielle sur les devises](https://docs.firefly-iii.org/concepts/currencies).

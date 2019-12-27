@@ -1,3 +1,3 @@
 Quando elimini un'etichetta, questa verrà rimossa da tutte le transazioni associate.
 
-You can read more about tags in [the official documentation](https://docs.firefly-iii.org/concepts/tags).
+Puoi leggere di più sulle etichette nella [documentazione ufficiale](https://docs.firefly-iii.org/concepts/tags).

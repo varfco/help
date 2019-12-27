@@ -2,4 +2,4 @@ Questa pagina ti aiuta a creare un salvadanaio. Imposta l'importo obiettivo e, f
 
 Puoi utilizzare il campo "note" per memorizzare ulteriori annotazioni.
 
-Read more about piggy banks in [the official documentation](https://docs.firefly-iii.org/advanced-concepts/piggies).
+Leggi di più sui salvadanai nella [documentazione ufficiale](https://docs.firefly-iii.org/advanced-concepts/piggies).

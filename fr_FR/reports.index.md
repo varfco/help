@@ -2,7 +2,7 @@ Firefly III propose de nombreux rapports. Chaque rapport peut être mis en favor
 
 Pour TOUS les rapports, vous devez indiquer quels comptes d'actifs seront inclus dans le rapport. Si vous n'incluez pas certains comptes d'actifs, les transferts de et vers ces comptes ignorés seront considérés comme des dépenses et des revenus.
 
-Vous devez sélectionner un intervalle de temps pour chaque rapport. Il n'y a pas de limite à la plage de dates que vous sélectionnez. You can also use **magic words**, read more about them in [the official documentation](https://docs.firefly-iii.org/advanced-concepts/reports).
+Vous devez sélectionner un intervalle de temps pour chaque rapport. Il n'y a pas de limite à la plage de dates que vous sélectionnez. Vous pouvez également utiliser des **mots magiques**, en savoir plus dans [la documentation officielle](https://docs.firefly-iii.org/advanced-concepts/reports).
 
 #### Rapport financier par défaut
 
@@ -28,4 +28,4 @@ Ce rapport vous indiquera ce que vous avez dépensé et gagné dans les tags sé
 
 Ce rapport est disponible pour les comptes qui sont à la fois source de revenus et destination de dépenses. Si vous travaillez pour un supermarché tel que Carrefour, cela serait le cas. Ce rapport vous permet de combiner de tels comptes et de voir leur solde.
 
-Read more about reports in [the official documentation](https://docs.firefly-iii.org/advanced-concepts/reports).
+En savoir plus sur les rapports dans [la documentation officielle](https://docs.firefly-iii.org/advanced-concepts/reports).

@@ -4,4 +4,4 @@ La pagina iniziale di Firefly III offre una rapida panoramica della situazione f
 * Sotto di questi sono presenti svariati grafici che mostrano lo stato, rispettivamente, dei conti attività, dei budget, delle categorie e dei conti spese. Opzionalmente, è possibile abilitare un'opzione per mostrare anche un grafico per i conti delle entrate.
 * Infine, sulla destra, puoi trovare le ultime 10 transazioni per ognuno dei conti attività.
 
-Read more about Firefly III in [the official documentation](https://docs.firefly-iii.org/).
+Leggi di più a riguardo di Firefly III nella [documentazione ufficiale](https://docs.firefly-iii.org/).

@@ -2,4 +2,4 @@ Questa pagina mostra un salvadanaio, il suo stato attuale e, se disponibile, una
 
 Quindi, se è da un po' che stai risparmiando, questa pagina ti mostra in quanto tempo sta avvenendo (velocemente o lentamente).
 
-Read more about piggy banks in [the official documentation](https://docs.firefly-iii.org/advanced-concepts/piggies).
+Leggi di più sui salvadanai nella [documentazione ufficiale](https://docs.firefly-iii.org/advanced-concepts/piggies).

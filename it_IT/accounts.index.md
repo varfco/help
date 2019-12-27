@@ -20,4 +20,4 @@ Questi rappresentano le persone che pagano te. Il tuo lavoro ne è un esempio.
 
 Queste sono i tuoi debiti, i tuoi prestiti e i tuoi mutui.
 
-If you want to read more about accounts, check out the [official documentation on accounts](https://docs.firefly-iii.org/concepts/accounts).
+Se vuoi saperne di più sui conti, controlla la [documentazione ufficiale sui conti](https://docs.firefly-iii.org/concepts/accounts).

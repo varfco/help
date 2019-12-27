@@ -19,4 +19,4 @@ Firefly III gère les passifs. Vous pouvez ajouter des dettes, des emprunts et d
 
 Admettons que vous voulez avoir un solde minimum de 100 €, en permanence. Entrez "-100" et Firefly III traitera un solde de 100 €, - comme zéro. Si vous créez un compte de carte de crédit, entrez la limite de votre carte de crédit (par exemple, 1000 €, -). Firefly III affichera correctement jusqu'à quel point votre limite est utilisée.
 
-If you want to read more about accounts, check out the [official documentation on accounts](https://docs.firefly-iii.org/concepts/accounts).
+Si vous souhaitez en savoir plus sur les comptes, consultez la [documentation officielle sur les comptes](https://docs.firefly-iii.org/concepts/accounts).

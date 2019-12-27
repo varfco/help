@@ -2,7 +2,7 @@ Firefly III offre numerosi tipi di rapporto. Ogni rapporto può essere aggiunto 
 
 Per TUTTI i rapporti: è necessario indicare quali conti attività saranno inclusi nel rapporto. Se non includi alcuni conti attività, i trasferimenti da e verso i conti ignorati saranno considerati come spese e entrate.
 
-Devi selezionare un intervallo di date per ogni rapporto. Non ci sono limiti sull'intervallo di date che selezioni. You can also use **magic words**, read more about them in [the official documentation](https://docs.firefly-iii.org/advanced-concepts/reports).
+Devi selezionare un intervallo di date per ogni rapporto. Non ci sono limiti sull'intervallo di date che selezioni. Puoi anche usare delle **parole magiche**, leggi di più su quest'ultime nella [documentazione ufficiale](https://docs.firefly-iii.org/advanced-concepts/reports).
 
 #### Rapporto finanziario predefinito
 
@@ -28,4 +28,4 @@ Questo rapporto ti indicherà ciò che hai speso e guadagnato nelle etichette se
 
 Questo rapporto è disponibile per i conti che rappresentano sia le fonti di reddito, sia i luoghi in cui hai speso denaro. Se lavori in un supermercato come Walmart, questo potrebbe essere il caso. Questo rapporto consente di combinare tali conti e vedere qual è il saldo.
 
-Read more about reports in [the official documentation](https://docs.firefly-iii.org/advanced-concepts/reports).
+Leggi di più sui rapporti nella [documentazione ufficiale](https://docs.firefly-iii.org/advanced-concepts/reports).

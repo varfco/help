@@ -8,4 +8,4 @@ In entrambi i casi Firefly III risponderà eseguendo le azioni. Puoi aggiungere 
 
 Le regole vengono applicate anche alle transazioni importate, se lo si desidera.
 
-Read more about rules in [the official documentation](https://docs.firefly-iii.org/advanced-concepts/rules).
+Leggi di più sulle regole nella [documentazione ufficiale](https://docs.firefly-iii.org/advanced-concepts/rules).

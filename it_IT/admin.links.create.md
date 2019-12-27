@@ -6,4 +6,4 @@ Firefly III possiede alcuni collegamenti predefiniti ma è sempre possibile aggi
 
 Puoi creare tanti collegamenti tra transazioni desideri, ma questi devono essere unici.
 
-If you want to read more about transaction links, check out the [official documentation on transaction links](https://docs.firefly-iii.org/advanced-concepts/links).
+Se vuoi saperne di più sui collegamenti tra transazioni, consulta la [guida ufficiale sui collegamenti tra transazioni](https://docs.firefly-iii.org/advanced-concepts/links).

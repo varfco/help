@@ -12,4 +12,4 @@ Sia l'importo disponibile sia l'importo in budget sono per uno specifico periodo
 
 Nelle tue preferenze, puoi modificare questo intervallo in modo che sia settimanale o addirittura annuale.
 
-If you want to read more about budgets, check out the [official documentation on budgets](https://docs.firefly-iii.org/concepts/budgets).
+Se vuoi saperne di più sui budget, consulta la [documentazione ufficiale sui budget](https://docs.firefly-iii.org/concepts/budgets).

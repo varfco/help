@@ -10,4 +10,4 @@ Ogni regola e ogni gruppo di regole possono essere eseguite sulle transazioni pe
 
 Per vedere come funziona una regola, premi **Nuova regola**.
 
-Read more about rules in [the official documentation](https://docs.firefly-iii.org/advanced-concepts/rules).
+Leggi di più sulle regole nella [documentazione ufficiale](https://docs.firefly-iii.org/advanced-concepts/rules).

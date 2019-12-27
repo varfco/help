@@ -20,4 +20,4 @@ Ceux-ci représentent les personnes qui vous paient. Votre employeur, par exempl
 
 Vos dettes, emprunts, hypothèques.
 
-If you want to read more about accounts, check out the [official documentation on accounts](https://docs.firefly-iii.org/concepts/accounts).
+Si vous souhaitez en savoir plus sur les comptes, consultez la [documentation officielle sur les comptes](https://docs.firefly-iii.org/concepts/accounts).

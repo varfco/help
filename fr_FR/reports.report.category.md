@@ -4,4 +4,4 @@ Il commence avec des graphiques vous montrant comment l'argent a circulé dans l
 
 Enfin, certaines statistiques sur la période analysée sont présentées. Toutes les listes sont triables pour s'adapter à votre besoin.
 
-Read more about reports in [the official documentation](https://docs.firefly-iii.org/advanced-concepts/reports).
+En savoir plus sur les rapports dans [la documentation officielle](https://docs.firefly-iii.org/advanced-concepts/reports).

@@ -6,4 +6,4 @@ Cette page montre toutes les manières possible de lier des transactions entre e
 
 Vous pouvez créer autant de liens de transaction que vous le souhaitez, mais ils doivent être uniques. Vous ne pouvez modifier et supprimer que les descriptions de liens que vous avez créés vous-même.
 
-If you want to read more about transaction links, check out the [official documentation on transaction links](https://docs.firefly-iii.org/advanced-concepts/links).
+Si vous souhaitez en savoir plus sur les liens entre transactions, consultez la [documentation officielle sur les liens de transaction](https://docs.firefly-iii.org/advanced-concepts/links).

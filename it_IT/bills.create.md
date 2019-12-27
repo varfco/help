@@ -6,4 +6,4 @@ Utilizza questo modulo per creare una nuova bolletta.
 
 Per abbinare ogni bolletta ad una transazione verrai guidato verso la pagina che ti permette di creare una regola. In questa pagina puoi inserire i dettagli sul tipo di transazione che desideri abbinare alla regola.
 
-If you want to read more about bills, check out the [official documentation on bills](https://docs.firefly-iii.org/advanced-concepts/bills).
+Se vuoi saperne di più sulle bollette, consulta la [documentazione ufficiale sulle bollette](https://docs.firefly-iii.org/advanced-concepts/bills).

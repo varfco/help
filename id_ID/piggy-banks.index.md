@@ -13,4 +13,4 @@ Dengan asumsi Anda memiliki 900, - di rekening tabungan Anda, Anda bisa membagi 
 
 Ini bisa membantu Anda mengatur tabungan Anda.
 
-Read more about piggy banks in [the official documentation](https://docs.firefly-iii.org/advanced-concepts/piggies).
+Baca selengkapnya tentang piggy Banks di [halaman dokumentasi resmi](https://docs.firefly-iii.org/advanced-concepts/piggies).

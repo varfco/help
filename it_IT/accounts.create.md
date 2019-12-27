@@ -31,4 +31,4 @@ Il caso contrario è che qualcuno debba a te 1000,00. In un caso del genere, è 
 
 Supponiamo che tu voglia avere sempre un saldo minimo di 100,00€. Inserisci "-100" e Firefly III considererà un saldo di 100,00€ come zero. Se stai creando un conto per una carta di credito, inserisci il massimale della tua carta di credito (ad esempio, 1000,00€). Firefly III mostrerà correttamente quanto disti dal limite.
 
-If you want to read more about accounts, check out the [official documentation on accounts](https://docs.firefly-iii.org/concepts/accounts).
+Se vuoi saperne di più sui conti, controlla la [documentazione ufficiale sui conti](https://docs.firefly-iii.org/concepts/accounts).

@@ -16,4 +16,4 @@ Proprio come i conti spese parlano di guadagni, i conti entrate parlano di somme
 
 Questa panoramica mostra lo stato delle tue passività.
 
-If you want to read more about accounts, check out the [official documentation on accounts](https://docs.firefly-iii.org/concepts/accounts).
+Se vuoi saperne di più sui conti, controlla la [documentazione ufficiale sui conti](https://docs.firefly-iii.org/concepts/accounts).

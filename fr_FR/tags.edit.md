@@ -2,4 +2,4 @@
 
 Si vous voulez ajouter un emplacement à vos tags, saisissez une clé d'API Mapbox dans votre fichier `.env`.
 
-You can read more about tags in [the official documentation](https://docs.firefly-iii.org/concepts/tags).
+En savoir plus sur les tags dans [a documentation officielle](https://docs.firefly-iii.org/concepts/tags).
