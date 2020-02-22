@@ -12,7 +12,7 @@ Als je een betaalrekening maakt, vul dan het startsaldo in en de datum van het s
 
 De rollen die je kan kiezen:
 
-- Gebruik de "standaard betaalrekening" voor je eigen rekening.
+- Use "default asset account" for your own accounts.
 - Gebruik de "gedeelde betaalrekeningen" voor gedeelde rekeningen.
 - Gebruik "spaarrekeningen" voor rekeningen waar je geld op spaart.
 - Gebruik "creditcard" voor creditcards. Je kan later nog wat details toevoegen.

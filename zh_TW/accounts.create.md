@@ -12,7 +12,7 @@ If you're creating an asset account, you should fill in the "opening balance" an
 
 As for the roles that are available:
 
-- Using "default asset account" for your own accounts.
+- Use "default asset account" for your own accounts.
 - Use "shared asset account" for household accounts.
 - Use "savings account" for accounts on which you save money.
 - Use "credit card" for credit cards. You can add some details later.

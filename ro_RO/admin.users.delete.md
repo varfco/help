@@ -1,0 +1,1 @@
+This form allows you to delete users. Please do not delete yourself.

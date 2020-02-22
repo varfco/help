@@ -12,7 +12,7 @@ Si vous créez un compte d'actif, vous devriez remplir le «solde d'ouverture» 
 
 En ce qui concerne les rôles disponibles:
 
-- Utiliser "compte d'actif par défaut" pour vos propres comptes.
+- Use "default asset account" for your own accounts.
 - Utilisez "compte d'actif partagé" pour les comptes de ménage.
 - Utilisez "compte d'épargne" pour les comptes sur lesquels vous économisez de l'argent.
 - Utilisez "carte de crédit" pour les cartes de crédit. Vous pouvez ajouter quelques détails plus tard.

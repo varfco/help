@@ -12,7 +12,7 @@ Si esta creando una cuenta de activos, debería llenar el "saldo inicial" y la f
 
 En cuanto a los roles disponibles:
 
-- Usando "cuenta de activos predeterminada" para sus propias cuentas.
+- Use "default asset account" for your own accounts.
 - Usando "cuenta de activos compartidos" para cuentas domésticas.
 - Usando "cuenta de ahorro" para cuentas en las que ahorre dinero.
 - Usar "tarjetas de crédito" para tarjetas de crédito. Usted puede añadir los detalles en otro momento.

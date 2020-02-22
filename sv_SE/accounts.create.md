@@ -12,7 +12,7 @@ Om du skapar ett tillgångskonto, bör du fylla i "öppningsbalansen" och det ti
 
 Rollerna som finns tillgängliga:
 
-- Använd "standard tillgångskonto" för dina egna konton.
+- Use "default asset account" for your own accounts.
 - Använd "delade tillgångskonton" för hushållskonton.
 - Använd "sparkonton" för konton där du sparar pengar.
 - Använd "kreditkort" för kreditkort. Du kan lägga till detaljer senare.

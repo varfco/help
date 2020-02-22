@@ -1,0 +1,1 @@
+It could be, that after a reconciliation, you wish to edit the amount that was corrected. Or perhaps you wish to add a tag or a category. You can do so on this page.

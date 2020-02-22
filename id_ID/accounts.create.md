@@ -12,7 +12,7 @@ Jika Anda membuat akun aset, Anda harus mengisi "saldo awal" dan tanggal yang te
 
 Adapun peran yang tersedia:
 
-- Menggunakan "akun aset default" untuk akun Anda sendiri.
+- Use "default asset account" for your own accounts.
 - Menggunakan "akun aset bersama" untuk akun rumah tangga.
 - Gunakan "rekening tabungan" untuk akun tempat Anda menyimpan uang.
 - Gunakan "kartu kredit" untuk kartu kredit. Anda bisa menambahkan beberapa detail nanti.

@@ -12,7 +12,7 @@ Se você estiver criando uma conta de ativo, você deverá preencher o "balanço
 
 Quanto as funções que estão disponíveis:
 
-- Usando a "conta de ativos do padrão" para as suas próprias contas.
+- Use "default asset account" for your own accounts.
 - Use "conta de ativos compartilhados" para contas domésticas.
 - Use "conta poupança" para as contas que você economizar dinheiro.
 - Use o "cartão de crédito" cartões de crédito. Você pode adicionar alguns detalhes mais tarde.

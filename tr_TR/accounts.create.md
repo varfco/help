@@ -12,7 +12,7 @@ Bir varlık hesabı oluşturuyorsanız, "açılış bakiyesini" ve alakalı tari
 
 Kullanılabilen rollere gelince:
 
-- Hesabınız için "varsayılan varlık hesabını" kullanma.
+- Use "default asset account" for your own accounts.
 - Hanehalkı hesaplarınız için "paylaşılan varlık hesabını" kullanın.
 - Tasarruf hesaplarınız için "tasarruf hesabını" kullanın.
 - Kredi kartları için "kredi kartını" kullanın. Daha sonra bazı detayları ekleyebilirsiniz.

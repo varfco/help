@@ -1,4 +1,4 @@
-**Expense accounts**
+**Λογαριασμοί δαπανών**
 
 Only create expense accounts for places where you spend money.
 
@@ -6,13 +6,13 @@ Only create expense accounts for places where you spend money.
 
 Only create revenue accounts for places where you get money from.
 
-**Asset accounts**
+**Λογαριασμοί κεφαλαίου**
 
 If you're creating an asset account, you should fill in the "opening balance" and the associated date. Very few people start using Firefly III and have a 0.00 balance. Instead, they already have some money in their account. Get out your administration, read the current balance of the account you're adding, and fill it in.
 
 As for the roles that are available:
 
-- Using "default asset account" for your own accounts.
+- Use "default asset account" for your own accounts.
 - Use "shared asset account" for household accounts.
 - Use "savings account" for accounts on which you save money.
 - Use "credit card" for credit cards. You can add some details later.

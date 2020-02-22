@@ -12,7 +12,7 @@ Se stati creando un conto attività dovresti compilare il campo "Saldo di apertu
 
 Per quanto riguarda i ruoli disponibili:
 
-- Usa "Conto attività predefinito" per i tuoi conti personali.
+- Use "default asset account" for your own accounts.
 - Usa "Conto attività condiviso" per i conti famigliari.
 - Usa "Conto risparmio" per i conti in cui metti da parte del denaro.
 - Usa "Carta di credito" per le carte di credito. Puoi aggiungere successivamente alcuni dettagli.

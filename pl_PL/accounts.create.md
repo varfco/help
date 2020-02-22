@@ -12,7 +12,7 @@ Jeśli tworzysz konto aktywów powinieneś wypełnić pole "bilans otwarcia" ora
 
 Co do ról, które są dostępne:
 
-- Używaj "domyślnego konta aktywów" do Twoich osobistych kont.
+- Use "default asset account" for your own accounts.
 - Używaj "współdzielonego konta aktywów" do kont domowych.
 - Używaj "kont oszczędnościowych" do kont, na których oszczędzasz pieniądze.
 - Używaj "karty kredytowej" do kart kredytowych. Możesz dodać więcej informacji później.

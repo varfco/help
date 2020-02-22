@@ -12,7 +12,7 @@ Wenn Sie ein Anlagenkonto erstellen, sollten Sie etwas bei "Anfangsbestand" und 
 
 In Bezug auf die Rollen, die verfügbar sind:
 
-- Verwenden Sie "Standard-Anlagekonto" für Ihre eigenen Konten.
+- Use "default asset account" for your own accounts.
 - Verwenden Sie "Gemeinsames Bestandskonto" für Haushaltskonten.
 - Verwenden Sie "Sparkonto" für Konten, auf denen Sie Geld sparen.
 - Verwenden Sie "Kreditkarte" für Kreditkarten. Sie können einige Details später hinzufügen.

@@ -12,7 +12,7 @@ Dacă creați un cont de activ, trebuie să completați "soldul de deschidere" �
 
 În ceea ce privește rolurile disponibile:
 
-- Utilizarea "contului de active implicit" pentru conturile proprii.
+- Use "default asset account" for your own accounts.
 - Utilizați "cont de active partajate" pentru conturile de uz casnic.
 - Utilizați "cont de economii" pentru conturile pe care economisiți bani.
 - Utilizați "card de credit" pentru cardurile de credit. Puteți adăuga câteva detalii mai târziu.

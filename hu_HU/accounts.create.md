@@ -12,7 +12,7 @@ Eszközszámla létrehozásakor ki kell tölteni a "nyitó egyenleg" mezőt és 
 
 Ami a rendelkezésre álló szerepköröket illeti:
 
-- Az "alapértelmezett eszközszámla" a saját számlákhoz használható.
+- Use "default asset account" for your own accounts.
 - Az "megosztott eszközszámla" a háztartási számlákhoz használható.
 - A "megtakarítási számla" azokhoz a számlákhoz használható ahol pénzmegtakarítás történik.
 - A "hitelkártya" a hitelkártyákhoz van. Később további részleteket lehet beállítani.

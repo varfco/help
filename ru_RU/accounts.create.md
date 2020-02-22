@@ -12,7 +12,7 @@
 
 Что касается доступных ролей:
 
-- Using "default asset account" for your own accounts.
+- Use "default asset account" for your own accounts.
 - Use "shared asset account" for household accounts.
 - Use "savings account" for accounts on which you save money.
 - Use "credit card" for credit cards. You can add some details later.
