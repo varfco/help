@@ -1,1 +1,1 @@
-This form allows you to delete users. Please do not delete yourself.
+Αυτή η φόρμα σάς επιτρέπει να διαγράψετε χρήστες. Παρακαλώ μην διαγράψετε τον εαυτό σας.

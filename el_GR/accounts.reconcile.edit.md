@@ -1,1 +1,1 @@
-It could be, that after a reconciliation, you wish to edit the amount that was corrected. Or perhaps you wish to add a tag or a category. You can do so on this page.
+Υπάρχει περίπτωση να θέλετε να διορθώσετε το ποσό σε μια καταχωρημένη τακτοποίηση. Ή ίσως να θέλετε να προσθέσετε μια ετικέτα ή μια κατηγορία. Μπορείτε να το κάνετε σε αυτή τη σελίδα.

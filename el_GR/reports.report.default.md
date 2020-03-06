@@ -1,23 +1,23 @@
-This report shows you an overview of your finances. The content is different depending on the range you have selected.
+Αυτή η αναφορά σάς παρουσιάζει μια γενική εικόνα των οικονομικών σας. Το περιεχόμενο διαφέρει ανάλογα με το χρονικό διάστημα που έχετε επιλέξει.
 
-### Range of a month or less
+### Διάστημα ένα μήνα ή και λιγότερο
 
-The report starts with a chart showing the balances of your accounts over time. Then, two boxes with account balances and income vs. δαπάνες. Below those two boxes, a box that lists all your income (on the left) and a box that lists all your expenses (on the right).
+Η αναφορά αρχίζει με ένα γράφημα που δείχνει τα υπόλοιπα των λογαριασμών σας με την πάροδο του χρόνου. Στη συνέχεια, δύο πλαίσια με υπόλοιπα λογαριασμών και έσοδα έναντι δαπανών. Κάτω από αυτά τα δύο πλαίσια, ακολουθεί ένα πλαίσιο που αναφέρει όλα σας τα έσοδά (στα αριστερά) και ένα πλαίσιο που αναφέρει όλες τις δαπάνες σας (στα δεξιά).
 
-Then, an overview of your budgets and categories in this month. The budget box includes the amounts you've actually budgeted.
+Στη συνέχεια ακολουθεί μια επισκόπηση των δαπανών για τους προϋπολογισμούς και τις κατηγορίες σε αυτό το μήνα. Το πλαίσιο προϋπολογισμών περιλαμβάνει και τα ποσά που έχετε ορίσει στους προϋπολογισμούς σας.
 
-Below those two boxes, a budget box "split by account" that shows which asset accounts you have spent money from, and in which budget.
+Κάτω από αυτά τα δύο πλαίσια, υπάρχει το πλαίσιο προϋπολογισμών "κατανεμημένων ανά λογαριασμό" που δείχνει τους λογαριασμούς κεφαλαίου από τους οποίους έχετε δαπανήσει χρήματα και σε ποιο προϋπολογισμό ήταν οι δαπάνες.
 
-Finally, a box showing the status of all relevant bills for this reporting period.
+Στο τέλος βρίσκεται το πλαίσιο που δείχνει την κατάσταση όλων των σχετικών λογαριασμών για αυτή την περίοδο αναφοράς.
 
-### Range of more than a month
+### Διάστημα περισσότερο από ένα μήνα
 
-The report starts with a chart showing the balances of your accounts over time. The chart on the left shows the average income and expenses. Then, two boxes with account balances and income vs. δαπάνες. Below those two boxes, a box that lists all your income (on the left) and a box that lists all your expenses (on the right).
+Η αναφορά αρχίζει με ένα γράφημα που δείχνει τα υπόλοιπα των λογαριασμών σας με την πάροδο του χρόνου. Το γράφημα στα αριστερά δείχνει το μέσο εισόδημα και τις δαπάνες. Στη συνέχεια, δύο πλαίσια με υπόλοιπα λογαριασμών και έσοδα έναντι δαπανών. Κάτω από αυτά τα δύο πλαίσια, ακολουθεί ένα πλαίσιο που αναφέρει όλα σας τα έσοδά (στα αριστερά) και ένα πλαίσιο που αναφέρει όλες τις δαπάνες σας (στα δεξιά).
 
-Then, a chart shows your "net worth", ie. all of your asset accounts combined over time.
+Στη συνέχεια, ένα γράφημα δείχνει την "καθαρή αξία", δηλαδή την αξία από όλους τους λογαριασμούς κεφαλαίου σας σε συνδυασμό με την πάροδο του χρόνου.
 
-Below that a list of your budgets is visible with the expenses per month listed. Click the title and below the list, and a chart will appear. Click the arrow-icon, and you will be taken to the budget page.
+Παρακάτω ακολουθεί μια λίστα με τους προϋπολογισμούς σας και τις δαπάνες ανά μήνα. Κάντε κλικ στον τίτλο ενός προϋπολογισμού και κάτω από τη λίστα θα εμφανιστεί ένα γράφημα. Κάντε κλικ στο εικονίδιο με το βέλος και θα μεταφερθείτε στη σελίδα του προϋπολογισμού.
 
-The same goes for the list of categories below the budget chart. There are two boxes (and two charts) for the categories: for income and expenses.
+Το ίδιο ισχύει και για τον κατάλογο των κατηγοριών που βρίσκονται κάτω από το γράφημα προϋπολογισμών. Υπάρχουν δύο πλαίσια (και δύο γραφήματα) για τις κατηγορίες χωρισμένα για έσοδα και δαπάνες.
 
-Read more about reports in [the official documentation](https://docs.firefly-iii.org/advanced-concepts/reports).
+Διαβάστε περισσότερα σχετικά με τις αναφορές στην [επίσημη τεκμηρίωση](https://docs.firefly-iii.org/advanced-concepts/reports).

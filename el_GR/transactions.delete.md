@@ -1,3 +1,3 @@
-When you delete a transaction all related entries such as attachments will also be deleted.
+Όταν διαγράφετε μια συναλλαγή, όλες οι σχετικές καταχωρίσεις, όπως τα συνημμένα, θα διαγραφούν επίσης.
 
-You can read more about transactions in [the official documentation](https://docs.firefly-iii.org/concepts/transactions).
+Μπορείτε να διαβάσετε περισσότερα σχετικά με τις συναλλαγές στην [επίσημη τεκμηρίωση](https://docs.firefly-iii.org/concepts/transactions).

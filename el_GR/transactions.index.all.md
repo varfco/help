@@ -1,3 +1,3 @@
-Shows all transactions of the given type.
+Εμφανίζει όλες τις συναλλαγές του συγκεκριμένου τύπου.
 
-You can read more about transactions in [the official documentation](https://docs.firefly-iii.org/concepts/transactions).
+Μπορείτε να διαβάσετε περισσότερα σχετικά με τις συναλλαγές στην [επίσημη τεκμηρίωση](https://docs.firefly-iii.org/concepts/transactions).

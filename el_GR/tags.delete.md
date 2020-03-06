@@ -1,3 +1,3 @@
-When you delete a tag, it will be removed from all associated transactions.
+Όταν διαγράφετε μια ετικέτα, αυτή αφαιρείται από όλες τις σχετικές συναλλαγές που συνδέεται.
 
-You can read more about tags in [the official documentation](https://docs.firefly-iii.org/concepts/tags).
+Μπορείτε να διαβάσετε περισσότερα σχετικά με τις ετικέτες στην [ επίσημη τεκμηρίωση](https://docs.firefly-iii.org/concepts/tags).

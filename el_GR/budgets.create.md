@@ -1,5 +1,5 @@
-A budget can be used to group expenses and keep an eye on your finances. This page allows you to create a new budget.
+Ένας προϋπολογισμός μπορεί να χρησιμοποιηθεί για την ομαδοποίηση των δαπανών και την επίβλεψη των οικονομικών σας. Αυτή η σελίδα σας επιτρέπει να δημιουργήσετε ένα νέο προϋπολογισμό.
 
-You cannot set the amount (yet), this is something you do in the next step.
+Δεν μπορείτε να ορίσετε το ποσό (ακόμα), αυτό είναι κάτι που θα κάνετε στο επόμενο βήμα.
 
-If you want to read more about budgets, check out the [official documentation on budgets](https://docs.firefly-iii.org/concepts/budgets).
+Αν θέλετε να διαβάσετε περισσότερα σχετικά με τους προϋπολογισμούς, ανατρέξτε στην [επίσημη τεκμηρίωση για τους προϋπολογισμούς](https://docs.firefly-iii.org/concepts/budgets).

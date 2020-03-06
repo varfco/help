@@ -1,16 +1,16 @@
-This shows you a list of all your piggy banks. Piggy banks can be used to divide the money in an asset account into several "piggy banks". This makes it easy to save money.
+Αυτή η σελίδα σας δείχνει μια λίστα με τους κουμπαράδες που έχετε ορίσει. Οι κουμπαράδες χρησιμεύουν για το διαχωρισμό και δέσμευση των χρημάτων ενός λογαριασμού κεφαλαίου σε μικρότερα υποσύνολα-κουμπαράδες. Αυτό καθιστά ευκολότερη την εξοικονόμηση χρημάτων.
 
-For example, you could have two piggy banks, both linked to your savings account:
+Για παράδειγμα, θα μπορούσατε να έχετε δύο κουμπαράδες που να συνδέονται και οι δύο με τον αποταμιευτικό σας λογαριασμό:
 
-1. One for "a new TV" with a target amount of 500,-
-2. Another for "a new PC" with a target amount of 1000,-.
+1. Έναν για μια "νέα τηλεόραση" με ποσό στόχου 500€
+2. Έναν άλλο για ένα "νέο υπολογιστή" με ποσό στόχου 1000€
 
-Assuming you have 900,- in your savings account, you can divide this money between both piggy banks as you see fit:
+Υποθέτοντας ότι έχετε 900€ στον αποταμιευτικό λογαριασμό σας, μπορείτε να διαχωρίσετε τη δέσμευση αυτών των χρημάτων μεταξύ δύο κουμπαράδων, όπως νομίζετε σκόπιμο:
 
-1. 500,- for the TV and 400,- for the PC.
-2. 450,- for the TV and 450,- for the PC.
-3. 500,- for the TV and nothing for the new PC, leaving 400,- to be divided.
+1. 500€ για την τηλεόραση και 400€ για τον υπολογιστή.
+2. 450€ για την τηλεόραση και 450€ για τον υπολογιστή.
+3. 500€ για την τηλεόραση και τίποτα για το νέο υπολογιστή, αφήνοντας 400€ να αποφασίσετε πως θα διατεθούν.
 
-This can help you organise your savings.
+Αυτή η μέθοδος μπορεί να σας βοηθήσει να οργανώσετε τις αποταμιεύσεις σας αφού το δεσμευμένο ποσό ενός κουμπαρά δε θα μπορεί να διατεθεί για τον προϋπολογισμό ή την πληρωμή κάποιας άλλης δαπάνης.
 
-Read more about piggy banks in [the official documentation](https://docs.firefly-iii.org/advanced-concepts/piggies).
+Μπορείτε να διαβάσετε περισσότερα σχετικά με τους κουμπαράδες στην [επίσημη τεκμηρίωση](https://docs.firefly-iii.org/advanced-concepts/piggies).

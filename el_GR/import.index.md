@@ -1,8 +1,8 @@
-Depending on your server configuration and general availability, just one or several import methods are available to you.
+Οι μέθοδοι εισαγωγής που θα είναι διαθέσιμες εξαρτώνται από τη διαμόρφωση του διακομιστή σας.
 
 **Εισαγωγή αρχείου**
 
-The file import allows you to import CSV files into Firefly III. If you want to read more about importing CSV files, check out the [official documentation on importing CSV files](https://docs.firefly-iii.org/importing-data/csv).
+Η εισαγωγή αρχείων σας επιτρέπει να εισάγετε αρχεία CSV στο Firefly III. Αν θέλετε να διαβάσετε περισσότερα σχετικά με την εισαγωγή αρχείων CSV, ανατρέξτε στην επίσημη τεκμηρίωση [για την εισαγωγή αρχείων CSV](https://docs.firefly-iii.org/importing-data/csv).
 
 **Spectre import**
 

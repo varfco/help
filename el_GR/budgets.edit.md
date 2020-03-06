@@ -1,3 +1,3 @@
-Except for the name, you may also set a budget to be "inactive", which removes it from most views and lists. You can no longer assign transactions to it as well.
+Εκτός από το όνομα, μπορείτε επίσης να ορίσετε έναν προϋπολογισμό ώστε να είναι "ανενεργός", για να μην εμφανίζεται πια στις περισσότερες προβολές και λίστες. Τέλος, δε θα μπορείτε πλέον να αντιστοιχίσετε συναλλαγές σε αυτόν.
 
-If you want to read more about budgets, check out the [official documentation on budgets](https://docs.firefly-iii.org/concepts/budgets).
+Αν θέλετε να διαβάσετε περισσότερα σχετικά με τους προϋπολογισμούς, ανατρέξτε στην [επίσημη τεκμηρίωση για τους προϋπολογισμούς](https://docs.firefly-iii.org/concepts/budgets).

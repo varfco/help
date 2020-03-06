@@ -1,3 +1,3 @@
-A category can be used to group expenses and keep an eye on your finances. This page allows you to create a new category.
+Μια κατηγορία μπορεί να χρησιμοποιηθεί για την ομαδοποίηση των δαπανών και την επίβλεψη των οικονομικών σας. Αυτή η σελίδα σας επιτρέπει να δημιουργήσετε μια νέα κατηγορία.
 
-If you want to read more about categories, check out the [official documentation on categories](https://docs.firefly-iii.org/concepts/categories).
+Εάν θέλετε να διαβάσετε περισσότερα για τις κατηγορίες, ανατρέξτε στην [επίσημη τεκμηρίωση για τις κατηγορίες](https://docs.firefly-iii.org/concepts/categories).

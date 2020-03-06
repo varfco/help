@@ -1,3 +1,3 @@
-This page shows you an overview of all the users in your installation. Usually, this is just one user (you).
+Αυτή η σελίδα σάς παρουσιάζει μια σύνοψη όλων των χρηστών στην τοπική εγκατάσταση. Συνήθως, έχει μόνο ένα χρήστη (εσάς).
 
-Every field should be obvious. The "block code" will never be filled in for your own account, but always for others. They may be filled in when the user is deleted (by you) or when the user has changed their email address.
+Κάθε πεδίο πρέπει να είναι προφανές. To "block code" δεν θα το συμπληρώσετε ποτέ στο δικό σας λογαριασμό, πάντα όμως στους άλλους λογαριασμούς. Μπορεί να συμπληρωθεί όταν διαγραφεί ο χρήστης (από εσάς) ή όταν ο χρήστης έχει αλλάξει τη διεύθυνση ηλεκτρονικού ταχυδρομείου.

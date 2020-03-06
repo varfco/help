@@ -1,5 +1,5 @@
-This page shows you an overview of what you've spent in the current category.
+Αυτή η σελίδα σάς παρουσιάζει μια επισκόπηση των δαπανών στην τρέχουσα κατηγορία.
 
-Since categories may also include deposits (income), the chart can be a little confusing. The blue bar (if present) denotes expenses. The green bar (if present) denotes income. The line combines both. On the right, you can browse to past periods.
+Επειδή οι κατηγορίες μπορεί να περιλαμβάνουν επίσης και καταθέσεις (έσοδα), το γράφημα μπορεί να σας προβληματίσει. Η μπλε ράβδος (αν υπάρχει) υποδηλώνει δαπάνες. Η πράσινη ράβδος (αν υπάρχει) υποδηλώνει έσοδα. Η γραμμή συνδυάζει και τα δύο. Στα δεξιά, μπορείτε να περιηγηθείτε σε προηγούμενες περιόδους.
 
-If you want to read more about categories, check out the [official documentation on categories](https://docs.firefly-iii.org/concepts/categories).
+Εάν θέλετε να διαβάσετε περισσότερα για τις κατηγορίες, ανατρέξτε στην [επίσημη τεκμηρίωση για τις κατηγορίες](https://docs.firefly-iii.org/concepts/categories).

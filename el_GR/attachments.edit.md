@@ -1,1 +1,1 @@
-Attachments have some fields that you can edit here, to make them appear a little more friendly in your transaction overview.
+Τα συνημμένα έχουν ορισμένα πεδία που μπορείτε να επεξεργαστείτε εδώ, για μια πιο οικία επισκόπηση των συναλλαγών σας.

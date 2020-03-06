@@ -1,3 +1,3 @@
-Links that you have created yourself can be deleted. If you do not want to lose the connections between these transactions, you can migrate the transactions to a different type of transaction link.
+Οι συνδέσεις που δημιουργήσατε μπορούν και να διαγραφούν. Εάν δεν θέλετε να χάσετε τις συνδέσεις μεταξύ αυτών των συναλλαγών, μπορείτε να μετατρέψετε τις συναλλαγές σε ένα διαφορετικό τύπο σύνδεσης συναλλαγής.
 
-If you want to read more about transaction links, check out the [official documentation on transaction links](https://docs.firefly-iii.org/advanced-concepts/links).
+Αν θέλετε να διαβάσετε περισσότερα σχετικά με τις συνδέσεις συναλλαγών, ανατρέξτε στην επίσημη τεκμηρίωση για τις συνδέσεις συναλλαγών</ 0>.</p>

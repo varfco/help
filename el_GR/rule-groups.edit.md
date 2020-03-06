@@ -1,3 +1,3 @@
-You can edit a rule group to change the name and the description.
+Μπορείτε να επεξεργαστείτε μια ομάδα κανόνων για να αλλάξετε το όνομα και την περιγραφή.
 
-Read more about rules in [the official documentation](https://docs.firefly-iii.org/advanced-concepts/rules).
+Μπορείτε να διαβάσετε περισσότερα σχετικά με τους κανόνες στην [επίσημη τεκμηρίωση](https://docs.firefly-iii.org/advanced-concepts/piggies).

@@ -1,1 +1,1 @@
-The page for individual users shows the same content as the list view does, together with some amusing statistics about the stuff the user has created.
+Η σελίδα για μεμονωμένους χρήστες εμφανίζει το ίδιο περιεχόμενο με τη σελίδα προβολής όλων των χρηστών, μαζί με μερικά ενδιαφέροντα στατιστικά για τα στοιχεία που έχει δημιουργήσει ο χρήστης.

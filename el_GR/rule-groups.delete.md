@@ -1,3 +1,3 @@
-When you delete a rule group, all rules in this group will be deleted as well.
+Όταν διαγράφετε μια ομάδα κανόνων, όλοι οι κανόνες αυτής της ομάδας θα διαγραφούν επίσης.
 
-Read more about rules in [the official documentation](https://docs.firefly-iii.org/advanced-concepts/rules).
+Μπορείτε να διαβάσετε περισσότερα σχετικά με τους κανόνες στην [επίσημη τεκμηρίωση](https://docs.firefly-iii.org/advanced-concepts/piggies).

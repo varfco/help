@@ -1,3 +1,3 @@
-You can mass edit transactions using this form.
+Μπορείτε να κάνετε μαζική επεξεργασία σε συναλλαγές χρησιμοποιώντας αυτή τη φόρμα.
 
-You can read more about transactions in [the official documentation](https://docs.firefly-iii.org/concepts/transactions).
+Μπορείτε να διαβάσετε περισσότερα σχετικά με τις συναλλαγές στην [επίσημη τεκμηρίωση](https://docs.firefly-iii.org/concepts/transactions).

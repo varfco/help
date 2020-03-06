@@ -1,5 +1,5 @@
-This page shows you a piggy bank, its current state and if available, a history of what has changed.
+Αυτή η σελίδα σάς δείχνει ένα κουμπαρά, την τρέχουσα κατάστασή και αν υπάρχει, ένα ιστορικό των αλλαγών.
 
-So if you have been saving for a while now, this page shows you how fast (or slow) it has been going.
+Έτσι εάν έχετε εξοικονομήσει για ένα ορισμένο διάστημα, αυτή η σελίδα σας δείχνει πόσο γρήγορα (ή αργά) προχωράει.
 
-Read more about piggy banks in [the official documentation](https://docs.firefly-iii.org/advanced-concepts/piggies).
+Μπορείτε να διαβάσετε περισσότερα σχετικά με τους κουμπαράδες στην [επίσημη τεκμηρίωση](https://docs.firefly-iii.org/advanced-concepts/piggies).

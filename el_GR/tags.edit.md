@@ -1,5 +1,5 @@
-Edit a tag to change the tag itself, the date or the location.
+Επεξεργαστείτε μια ετικέτα για να αλλάξετε την ίδια την ετικέτα, την ημερομηνία ή την τοποθεσία.
 
-If you want tags to have a location, add a Mapbox API key to your `.env` file.
+Εάν θέλετε να ορίσετε την τοποθεσία στις ετικέτες σας, προσθέστε ένα κλειδί API του Mapbox στο αρχείο `.env` της τοπικής εγκατάστασης.
 
-You can read more about tags in [the official documentation](https://docs.firefly-iii.org/concepts/tags).
+Μπορείτε να διαβάσετε περισσότερα σχετικά με τις ετικέτες στην [ επίσημη τεκμηρίωση](https://docs.firefly-iii.org/concepts/tags).

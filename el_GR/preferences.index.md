@@ -1,1 +1,1 @@
-This page shows you the preferences you can set. Use the tabs to navigate between them.
+Αυτή η σελίδα εμφανίζει τις προτιμήσεις που μπορείτε να ορίσετε. Χρησιμοποιήστε τις καρτέλες για να πλοηγηθείτε μεταξύ τους.

@@ -1,3 +1,3 @@
-You can see here how the transaction link is being used in your financial administration. Note that you can delete the link between transactions, and that you can also make them switch places.
+Εδώ μπορείτε να δείτε πώς χρησιμοποιείται η σύνδεση της συναλλαγής στη διαχείριση των οικονομικών σας. Σημειώστε ότι μπορείτε να διαγράψετε τη σύνδεση μεταξύ συναλλαγών και ότι μπορείτε επίσης να τις κάνετε να αλλάξουν θέσεις.
 
-If you want to read more about transaction links, check out the [official documentation on transaction links](https://docs.firefly-iii.org/advanced-concepts/links).
+Αν θέλετε να διαβάσετε περισσότερα σχετικά με τις συνδέσεις συναλλαγών, ανατρέξτε στην επίσημη τεκμηρίωση για τις συνδέσεις συναλλαγών</ 0>.</p>

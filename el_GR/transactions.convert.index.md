@@ -1,8 +1,8 @@
-You can convert a transaction into a different type. There are some fields you must update for the process to work.
+Μπορείτε να μετατρέψετε μια συναλλαγή και να ορίσετε διαφορετικό τύπο. Υπάρχουν ορισμένα πεδία που πρέπει να ενημερώσετε για να λειτουργήσει πλήρως η διαδικασία.
 
-* When you convert a withdrawal into a deposit, you must provide a new revenue account (where the money will come from);
-* When you convert a withdrawal into a transfer, you must provide a new asset account (where the money will go to);
-* When you convert a deposit into a withdrawal, you must provide a new expense account (where the money will go to);
-* When you convert a deposit into a transfer, you must provide a new asset account (where the money will come from);
-* When you convert a transfer into a withdrawal, you must provide a new expense account (where the money will go to);
-* When you convert a transfer into a deposit, you must provide a new revenue account (where the money will come from);
+* Όταν μετατρέπετε μια ανάληψη (πχ ήταν δαπάνη) σε κατάθεση (δηλαδή έσοδο), πρέπει να συμπληρώσετε το λογαριασμό εσόδων (από όπου θα προέρχονται τα χρήματα).
+* Όταν μετατρέπετε μια ανάληψη σε μεταφορά σε άλλο λογαριασμό σας, πρέπει να συμπληρώσετε το λογαριασμό κεφαλαίου (όπου θα μεταβιβαστούν τα χρήματα).
+* Όταν μετατρέπετε μια κατάθεση (έσοδο) σε ανάληψη (δαπάνη), πρέπει να συμπληρώσετε το λογαριασμό δαπανών (όπου θα καταλήξουν τα χρήματα).
+* Όταν μετατρέπετε μια κατάθεση σε μεταφορά σε άλλο λογαριασμό σας, πρέπει συμπληρώσετε το λογαριασμό κεφαλαίου (από όπου θα προέρχονται τα χρήματα).
+* Όταν μετατρέπετε μια μεταφορά σε ανάληψη (πχ δαπάνη), πρέπει να συμπληρώσετε το λογαριασμό δαπανών (όπου θα καταλήξουν τα χρήματα).
+* Όταν μετατρέπετε μια μεταφορά σε κατάθεση (έσοδο), πρέπει να συμπληρώσετε το λογαριασμό εσόδων (από όπου θα προέρχονται τα χρήματα).

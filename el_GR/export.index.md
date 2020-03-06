@@ -1,5 +1,5 @@
-This page allows you to export transactions. You will get a CSV file with *all* your transactions in it.
+Αυτή η σελίδα σάς επιτρέπει να εξάγετε συναλλαγές. Θα λάβετε ένα αρχείο CSV που θα περιέχει *όλες* τις συναλλαγές σας.
 
-If you want more fine-grained control over the export, or if you want to export other files as well, please use the command line options.
+Αν θέλετε πιο λεπτομερή έλεγχο της εξαγωγής ή εάν θέλετε να εξάγετε και άλλα αρχεία, χρησιμοποιήστε τις επιλογές σε περιβάλλον γραμμής εντολών.
 
-If you want to read more about exporting data, check out the [official documentation on exporting data](https://docs.firefly-iii.org/exporting-data/export).
+Εάν θέλετε να διαβάσετε περισσότερα σχετικά με την εξαγωγή δεδομένων, ανατρέξτε στην επίσημη τεκμηρίωση [για την εξαγωγή δεδομένων](https://firefly-iii.readthedocs.io/en/latest/import/export.html).

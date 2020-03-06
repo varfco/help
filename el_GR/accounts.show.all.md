@@ -1,1 +1,1 @@
-Show all transactions for an account. This view is not limited by month or date settings.
+Εμφάνιση όλων των συναλλαγών για έναν λογαριασμό. Αυτή η προβολή δεν περιορίζεται από τις ρυθμίσεις μήνα ή ημερομηνίας.

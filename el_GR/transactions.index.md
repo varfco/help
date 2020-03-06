@@ -1,3 +1,3 @@
-This is a list of all your transactions. Depending on your selection, you'll either see your expenses, withdrawals or transfers. They are sorted by date.
+Αυτή είναι μια λίστα με όλες τις συναλλαγές σας. Ανάλογα με την επιλογή σας, θα δείτε είτε τις δαπάνες, τις αναλήψεις ή τις μεταφορές χρημάτων σας. Ταξινομούνται κατά ημερομηνία.
 
-You can read more about transactions in [the official documentation](https://docs.firefly-iii.org/concepts/transactions).
+Μπορείτε να διαβάσετε περισσότερα σχετικά με τις συναλλαγές στην [επίσημη τεκμηρίωση](https://docs.firefly-iii.org/concepts/transactions).

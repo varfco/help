@@ -1,3 +1,3 @@
-This shows an overview of the tag: the date, place and all transactions associated with it.
+Εδώ θα δείτε μια επισκόπηση της ετικέτας. Την ημερομηνία, την τοποθεσία και όλες τις συναλλαγές που σχετίζονται με αυτή.
 
-You can read more about tags in [the official documentation](https://docs.firefly-iii.org/concepts/tags).
+Μπορείτε να διαβάσετε περισσότερα σχετικά με τις ετικέτες στην [ επίσημη τεκμηρίωση](https://docs.firefly-iii.org/concepts/tags).

@@ -1,7 +1,7 @@
-The home page of Firefly III gives you a quick overview of your current financial situation.
+Η αρχική σελίδα του Firefly III σας δίνει μια γρήγορη ματιά της τρέχουσας οικονομικής σας κατάστασης.
 
-* The boxes on the top of the page show you how much money has been flowing in and out.
-* Below that are several charts that show the status of your asset accounts, budgets, categories and expense accounts respectively. Optionally, a chart showing your revenue accounts can be enabled as well.
-* Finally on the right, you will find the last 10 transactions of each asset account.
+* Τα πλαίσια στην κορυφή της σελίδας δείχνουν πόσα χρήματα εισέρχονται και πόσα εξέρχονται.
+* Παρακάτω υπάρχουν διάφορα γραφήματα που δείχνουν την κατάσταση των λογαριασμών κεφαλαίου, των προϋπολογισμών, των κατηγοριών και των λογαριασμών δαπανών αντίστοιχα. Προαιρετικά, μπορεί να ενεργοποιηθεί και ένα γράφημα που εμφανίζει τους λογαριασμούς εσόδων.
+* Τέλος στα δεξιά, θα βρείτε τις τελευταίες 10 συναλλαγές για κάθε λογαριασμό κεφαλαίου.
 
-Read more about Firefly III in [the official documentation](https://docs.firefly-iii.org/).
+Διαβάστε περισσότερα σχετικά με το Firefly III στην [επίσημη τεκμηρίωση ](https://docs.firefly-iii.org/).

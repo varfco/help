@@ -1,15 +1,15 @@
-These are the currencies your installation currently supports.
+Αυτά είναι τα νομίσματα που υποστηρίζει η εγκατάσταση σας.
 
-Firefly III is a multi-currency system. You can safely use Dollars and Euros at the same time.
+Το Firefly III είναι ένα σύστημα με πολλαπλά νομίσματα. Μπορείτε να χρησιμοποιήσετε Δολάρια και Ευρώ ταυτόχρονα και με ασφάλεια .
 
-You can freely add new currencies, existing ones or custom ones. You can also enable them and disable them.
+Μπορείτε να προσθέσετε νέα υπάρχοντα νομίσματα ή προσαρμοσμένα δικά σας. Μπορείτε επίσης να τα ενεργοποιήσετε και να τα απενεργοποιήσετε.
 
-Please note that each currency needs:
+Λάβετε υπόψη ότι κάθε νόμισμα χρειάζεται:
 
-- A symbol, such as $ or € or something else.
-- A code, such as EUR or USD or something you make up.
-- A name, of course.
+- Ένα σύμβολο, όπως $ ή € ή κάτι άλλο.
+- Ένα κωδικό, όπως EUR ή USD ή κάτι που δημιουργείτε εσείς.
+- Ένα όνομα, φυσικά.
 
-The Euro cannot be disabled or removed.
+Το Ευρώ δε μπορεί να απενεργοποιηθεί ή να αφαιρεθεί.
 
-If you want to read more about currencies, check out the [official documentation on currencies](https://docs.firefly-iii.org/concepts/currencies).
+Αν θέλετε να διαβάσετε περισσότερα για τα νομίσματα, ανατρέξτε στην επίσημη τεκμηρίωση [για τα νομίσματα](https://docs.firefly-iii.org/concepts/currencies).

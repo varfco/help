@@ -1,14 +1,14 @@
-You can use this view to reconcile an asset account.
+Μπορείτε να χρησιμοποιήσετε αυτή την προβολή για να τακτοποιήσετε ένα λογαριασμό κεφαλαίου.
 
-First, enter a date range and set the opening and start balance as it shows on your bank statement. It is assumed that these are correct of course, but this we shall find out now. Then, click "start reconciling".
+Αρχικά, εισάγετε ένα χρονικό διάστημα και ορίστε το αρχικό υπόλοιπο στην ημερομηνία έναρξης όπως εμφανίζεται στην τραπεζική σας κατάσταση. Βέβαια αυτά υποτίθεται ότι είναι σωστά, αλλά αυτό θα το δούμε αμέσως τώρα. Για τη συνέχεια, κάντε κλικ στο κουμπί "Έναρξη τακτοποίησης".
 
-Firefly III will show you the transactions from this range, plus some extra transactions just for good measure. Select all transactions that appear on your bank statements.
+Το Firefly III θα εμφανίσει τις συναλλαγές για αυτό το χρονικό διάστημα, και μερικές επιπλέον συναλλαγές για σιγουριά. Επιλέξτε τώρα όλες τις συναλλαγές που εμφανίζονται στην τραπεζική κατάσταση.
 
-When you are done selecting transactions, the amount under "Reconciliation options" should be zero. It could be that it is different.
+Όταν ολοκληρώσετε την επιλογή των συναλλαγών, το ποσό στο πλαίσιο "Επιλογές τακτοποίησης" ιδανικά θα πρέπει να είναι μηδέν. Υπάρχει όμως περίπτωση να είναι και διάφορο του μηδενός.
 
-* When the amount is below zero, your Firefly III asset account has less money in it than your bank says it should have.
-* When the amount is more than zero, your Firefly III asset account has more money in it than your banks says it should have.
+* Όταν το ποσό στο πλαίσιο είναι αρνητικό, ο λογαριασμός κεφαλαίου στο Firefly III έχει καταχωρημένα λιγότερα χρήματα από όσα λέει η τράπεζά σας ότι έχετε πραγματικά.
+* Όταν το ποσό στο πλαίσιο είναι θετικό, ο λογαριασμός κεφαλαίου στο Firefly III έχει καταχωρημένα περισσότερα χρήματα από όσα λέει η τράπεζά σας ότι έχετε πραγματικά.
 
-Either way, press "Store reconciliation" to store the result. The transactions will be marked as "cleared" and you can optionally create a transaction that will correct the balance of your Firefly III asset account (a reconciliation).
+Όπως και να έχει, πατήστε το κουμπί "Αποθήκευση τακτοποίησης" για να αποθηκεύσετε το αποτέλεσμα. Οι συναλλαγές θα επισημαίνονται ως "ελεγμένες" και μπορείτε προαιρετικά να δημιουργήσετε μια συναλλαγή που θα διορθώσει το υπόλοιπο του λογαριασμού κεφαλαίου στο Firefly III (συναλλαγή τακτοποίησης).
 
-If you want to read more about reconciliations, check out the [official documentation on reconciliations](https://firefly-iii.readthedocs.io/en/latest/advanced/reconcile.html).
+Εάν θέλετε να διαβάσετε περισσότερα σχετικά με τις τακτοποιήσεις, ανατρέξτε στην επίσημη τεκμηρίωση [σχετικά με τις τακτοποιήσεις](https://firefly-iii.readthedocs.io/en/latest/advanced/reconcile.html).

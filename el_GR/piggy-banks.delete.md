@@ -1,3 +1,3 @@
-When you delete the piggy bank, you can no longer track the status. But the money will be available for other piggy banks.
+Όταν διαγράφετε ένα κουμπαρά, δε θα μπορείτε πλέον να επιβλέπετε αυτή τη δέσμευση. Αλλά τα χρήματα θα είναι και πάλι διαθέσιμα για άλλους κουμπαράδες.
 
-Read more about piggy banks in [the official documentation](https://docs.firefly-iii.org/advanced-concepts/piggies).
+Μπορείτε να διαβάσετε περισσότερα σχετικά με τους κουμπαράδες στην [επίσημη τεκμηρίωση](https://docs.firefly-iii.org/advanced-concepts/piggies).

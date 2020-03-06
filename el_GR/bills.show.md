@@ -1,3 +1,3 @@
-This view shows you the transactions related to the bill. You can opt to rescan all transactions to find missing entries.
+Αυτή η προβολή δείχνει τις συναλλαγές που σχετίζονται με το πάγιο έξοδο. Μπορείτε να επιλέξετε να επανεξετάσετε όλες τις συναλλαγές για να βρείτε τυχόν καταχωρίσεις που λείπουν.
 
-If you want to read more about bills, check out the [official documentation on bills](https://docs.firefly-iii.org/advanced-concepts/bills).
+Εάν θέλετε να διαβάσετε περισσότερα σχετικά με τα πάγια έξοδα, ανατρέξτε στην [επίσημη τεκμηρίωση για τα πάγια έξοδα](https://docs.firefly-iii.org/advanced-concepts/bills).

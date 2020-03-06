@@ -1,3 +1,3 @@
-When you delete a budget, the linked transactions will not be deleted. However, any financial history (amounts etc) will be deleted as well.
+Όταν διαγράφετε έναν προϋπολογισμό, οι συνδεδεμένες συναλλαγές δεν θα διαγραφούν. Ωστόσο, οποιοδήποτε οικονομικό ιστορικό στοιχείο (ποσά κ.λπ.) θα διαγραφεί με αυτόν.
 
-If you want to read more about budgets, check out the [official documentation on budgets](https://docs.firefly-iii.org/concepts/budgets).
+Αν θέλετε να διαβάσετε περισσότερα σχετικά με τους προϋπολογισμούς, ανατρέξτε στην [επίσημη τεκμηρίωση για τους προϋπολογισμούς](https://docs.firefly-iii.org/concepts/budgets).

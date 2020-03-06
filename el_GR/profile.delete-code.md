@@ -1,1 +1,1 @@
-Delete your 2FA code.
+Διαγράψτε τον κωδικό σας 2FA.

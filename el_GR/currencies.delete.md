@@ -1,3 +1,3 @@
-You can only delete a currency when no transactions use it. Most currencies can be safely deleted when you do not use them.
+Μπορείτε να διαγράψετε ένα νόμισμα μόνο εάν δεν το χρησιμοποιεί καμία καταχωρημένη συναλλαγή. Τα περισσότερα νομίσματα μπορούν να διαγραφούν με ασφάλεια όταν δεν τα χρησιμοποιείτε.
 
-If you want to read more about currencies, check out the [official documentation on currencies](https://docs.firefly-iii.org/concepts/currencies).
+Αν θέλετε να διαβάσετε περισσότερα για τα νομίσματα, ανατρέξτε στην επίσημη τεκμηρίωση [για τα νομίσματα](https://docs.firefly-iii.org/concepts/currencies).

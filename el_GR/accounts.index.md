@@ -1,23 +1,23 @@
-This page shows the accounts you have. It lists the current balance and the latest date of activity.
+Αυτή η σελίδα εμφανίζει τους λογαριασμούς που διατηρείτε. Εμφανίζει το τρέχον ισοζύγιο και την ημερομηνία της τελευταίας δραστηριότητας.
 
-There's something weird with expense accounts. Even though you pay into expense accounts, they tend to have a positive balance. Likewise, revenue accounts have a negative balance. At first glance this should be reversed. But remember that when you pay McDonalds, they *earn* money. Likewise, when your employer pays you, they *lose* money. For you personally it's the exact opposite but this list is from their perspective. A store makes money off you, an employer loses money to you.
+Υπάρχει κάτι περίεργο με τους λογαριασμούς εξόδων. Όταν εσείς πληρώνετε χρήματα προς τους λογαριασμούς εξόδων, αυτοί τείνουν να έχουν πάντα θετικό υπόλοιπο. Ομοίως, οι λογαριασμοί εσόδων τείνουν να έχουν πάντα αρνητικό υπόλοιπο. Η πρώτη σκέψη είναι ότι αυτό θα έπρεπε να είναι αντίστροφα. Σκεφτείτε όμως ότι όταν πληρώσετε στα McDonalds, αυτά θα βγουν από ένα λογαριασμό σας και το κατάστημα θα *κερδίσει* αυτά τα χρήματα. Παρομοίως, όταν σας πληρώνει ο εργοδότης σας, αυτός *χάνει* τα χρήματα και τα μεταφέρει σε εσάς. Για εσάς προσωπικά ισχύει ακριβώς το αντίθετο, αλλά αυτή η λίστα αφορά τη δική τους οπτική. Ένα κατάστημα παίρνει χρήματα από εσάς, ενώ ένας εργοδότης χάνει χρήματα προς τα εσάς.
 
-There are three types of accounts.
+Υπάρχουν τρεις τύποι λογαριασμών.
 
 **Λογαριασμοί κεφαλαίου**
 
-Accounts that hold your money: your bank accounts.
+Λογαριασμοί που κρατάτε τα χρήματά σας: οι τραπεζικοί λογαριασμοί σας.
 
 **Λογαριασμοί δαπανών**
 
-These represent the people you pay. Shops are likely.
+Αντιπροσωπεύουν τους ανθρώπους και επιχειρήσεις που πληρώνετε για προϊόντα και υπηρεσίες με αποτέλεσμα εκροή χρήματος. Τα καταστήματα στα οποία ψωνίζετε το πιθανότερο.
 
-**Revenue accounts**
+**Λογαριασμοί εσόδων**
 
-These represent the people that pay you. Your job for example.
+Αντιπροσωπεύουν τους ανθρώπους και επιχειρήσεις που σας πληρώνουν για να έχετε εισροή χρήματος. Η δουλειά σας για παράδειγμα.
 
 **Υποχρεώσεις**
 
-These are your debts, loan, mortgage(s).
+Αυτά είναι τα χρέη σας, το δάνειο, οι υποθήκες.
 
-If you want to read more about accounts, check out the [official documentation on accounts](https://docs.firefly-iii.org/concepts/accounts).
+Εάν θέλετε να διαβάσετε περισσότερα σχετικά με τους λογαριασμούς, ανατρέξτε στην [επίσημη τεκμηρίωση σχετικά με τους λογαριασμούς](https://docs.firefly-iii.org/concepts/accounts).

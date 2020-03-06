@@ -1,3 +1,3 @@
-When you delete a rule, the triggers and actions will no longer work.
+Όταν διαγράφετε έναν κανόνα, οι ενεργοποιήσεις και οι ενέργειες του δεν θα λειτουργούν πλέον.
 
-Read more about rules in [the official documentation](https://docs.firefly-iii.org/advanced-concepts/rules).
+Μπορείτε να διαβάσετε περισσότερα σχετικά με τους κανόνες στην [επίσημη τεκμηρίωση](https://docs.firefly-iii.org/advanced-concepts/piggies).

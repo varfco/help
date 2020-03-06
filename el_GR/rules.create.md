@@ -1,11 +1,11 @@
-Each rule starts with a basic name and trigger moment: when will the rule fire? Is the rule even active? What is the description of the rule?
+Κάθε κανόνας αρχίζει με ένα βασικό όνομα και ένα κριτήριο ενεργοποίησης: πότε θα πρέπει να ενεργοποιηθεί ο κανόνας; Ο κανόνας είναι ακόμη ενεργός; Ποια είναι η περιγραφή του κανόνα;
 
-Then you may add as many triggers as you want. These triggers can be anything from the name of the source account to the number of attachments. It is completely up to you.
+Στη συνέχεια, μπορείτε να προσθέσετε όσα κριτήρια ενεργοποίησης θέλετε. Αυτά τα κριτήρια μπορεί να είναι οτιδήποτε, από το όνομα του λογαριασμού προέλευσης ως τον αριθμό των συνημμένων. Εξαρτάται εντελώς από εσάς να επιλέξετε.
 
-If a rule is strict, then every trigger must be hit for a rule to be activated. If you make it non-strict (by deselecting the checkbox) it is enough for one trigger to be hit.
+Εάν ένας κανόνας οριστεί ως αυστηρός, τότε κάθε κριτήριο πρέπει να ισχύει για να ενεργοποιηθεί ο κανόνας. Αν τον ορίσετε μη αυστηρό (αποεπιλέγοντας το κουτάκι) αρκεί να ισχύσει μόνο ένα από τα κριτήρια.
 
-In either case Firefly III responds by executing the actions. You can add as many actions as you like, in any order. They will ALL be executed.
+Και στις δύο περιπτώσεις το Firefly III θα αποκριθεί με την εκτέλεση των ενεργειών που έχετε ορίσει. Μπορείτε να προσθέσετε όσες ενέργειες επιθυμείτε, με οποιαδήποτε σειρά. Θα εκτελεστούν ΟΛΕΣ οι ενέργειες σε ΚΑΘΕΜΙΑ συναλλαγή που ενεργοποιεί τα κριτήρια.
 
-Rules are also applied to imported transactions, if you want to.
+Οι κανόνες ισχύουν και για συναλλαγές από εισαγωγή, αν θέλετε.
 
-Read more about rules in [the official documentation](https://docs.firefly-iii.org/advanced-concepts/rules).
+Μπορείτε να διαβάσετε περισσότερα σχετικά με τους κανόνες στην [επίσημη τεκμηρίωση](https://docs.firefly-iii.org/advanced-concepts/piggies).

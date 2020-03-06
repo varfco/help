@@ -1,3 +1,3 @@
-You can run a rule group on your transactions, matching any old or new rules in the rule group. This allows you to quickly apply a group of rules to all your transactions.
+Μπορείτε να εκτελέσετε μια ολόκληρη ομάδα κανόνων στις συναλλαγές σας, ταιριάζοντας παλιούς ή και νέους κανόνες στην ομάδα. Αυτό σας επιτρέπει να εφαρμόσετε άμεσα μια ομάδα κανόνων σε όλες τις συναλλαγές σας.
 
-Read more about rules in [the official documentation](https://docs.firefly-iii.org/advanced-concepts/rules).
+Μπορείτε να διαβάσετε περισσότερα σχετικά με τους κανόνες στην [επίσημη τεκμηρίωση](https://docs.firefly-iii.org/advanced-concepts/piggies).

@@ -1,3 +1,3 @@
-A rule group is nothing more than the holder for several rules. It can have a name and a description.
+Μια ομάδα κανόνων δεν είναι τίποτα περισσότερο από μια ομαδοποίηση πολλών κανόνων. Μπορεί να έχει ένα όνομα και μια περιγραφή.
 
-Read more about rules in [the official documentation](https://docs.firefly-iii.org/advanced-concepts/rules).
+Μπορείτε να διαβάσετε περισσότερα σχετικά με τους κανόνες στην [επίσημη τεκμηρίωση](https://docs.firefly-iii.org/advanced-concepts/piggies).

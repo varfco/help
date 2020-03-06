@@ -1,7 +1,7 @@
-This page shows you your profile page.
+Αυτή η σελίδα εμφανίζει τη σελίδα του προφίλ σας.
 
-Here you will also find your user ID and access token, which is useful when importing data using the command line.
+Εδώ θα βρείτε επίσης το αναγνωριστικό ID χρήστη και το τεκμήριο πρόσβασης (access token), το οποίο είναι χρήσιμο όταν εισάγετε δεδομένα χρησιμοποιώντας τη γραμμή εντολών.
 
-This is also the place where you would create clients to consume the API.
+Αυτό είναι επίσης το μέρος όπου δημιουργείτε πελάτες για σύνδεση μέσω API.
 
-Read more about the API in the [official documentation](https://docs.firefly-iii.org/api/api).
+Διαβάστε περισσότερα σχετικά με το API στην [επίσημη τεκμηρίωση](https://docs.firefly-iii.org/api/api).

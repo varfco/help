@@ -1,4 +1,4 @@
-Use this page to bulk change the category, budget or tags of a group of transactions.
+Χρησιμοποιήστε αυτή τη σελίδα για μαζική αλλαγή της κατηγορίας, του προϋπολογισμού ή των ετικετών μιας ομάδας συναλλαγών.
 
-* You cannot bulk-edit opening balances
-* You cannot bulk-edit reconciled transactions
+* Δεν μπορείτε να επεξεργαστείτε μαζικά τα υπόλοιπα έναρξης
+* Δεν μπορείτε να επεξεργαστείτε μαζικά τακτοποιημένες συναλλαγές

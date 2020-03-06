@@ -1,1 +1,1 @@
-Use this form to change your password. I suggest you verify your password as well.
+Χρησιμοποιήστε αυτή τη φόρμα για να αλλάξετε τον κωδικό πρόσβασης. Προτείνεται επίσης να επαληθεύσετε τον κωδικό πρόσβασης .

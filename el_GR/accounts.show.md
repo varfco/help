@@ -1,19 +1,19 @@
-This page shows you the balances and latest transactions for an account. Depending on the type of account, things may seem weird:
+Αυτή η σελίδα εμφανίζει τα υπόλοιπα και τις τελευταίες συναλλαγές για έναν λογαριασμό. Ανάλογα όμως με τον τύπο λογαριασμού που χειρίζεται το Firefly III, τα αποτελέσματα μπορεί να φαίνονται περίεργα με μια πρώτη ματιά:
 
 **Λογαριασμοί κεφαλαίου**
 
-Asset accounts show the amount of money in (earnings) and money out (expenses) as you would expect.
+Οι λογαριασμοί κεφαλαίου εμφανίζουν τα ποσά των εισροών (από έσοδα) και εκροών (από έξοδα) όπως θα περίμενε κανείς. Το ισοζύγιο σε ένα τραπεζικό λογαριασμό στο Firefly III θα πρέπει να είναι ίδιο με της Τράπεζας σας για την ίδια δεδομένη στιγμή.
 
 **Λογαριασμοί δαπανών**
 
-Expense accounts mention "earned" amounts despite the fact that you spend money at them. This is because the expense account is earning money, from the perspective of the expense account. After all, what you spend at your supermarket is an earning for them.
+Οι λογαριασμοί δαπανών εμφανίζουν θετικά ποσά σαν "κερδισμένα" παρά το γεγονός ότι εσείς ξοδεύετε τα χρήματα σας σε αυτούς. Αυτό οφείλεται στο γεγονός ότι ο λογαριασμός εξόδων (πχ τα McDonalds) κερδίζει χρήματα από εσάς, από την δική του οπτική γωνία. Στο κάτω κάτω, ότι ξοδεύετε σε αυτούς είναι κέρδος τους.
 
-**Revenue accounts**
+**Λογαριασμοί εσόδων**
 
-Just like how expense accounts mention earned amounts, revenue accounts mention "spent" amounts because technically, money you receive by a revenue account is spent by them.
+Ακριβώς όπως οι λογαριασμοί δαπανών αναφέρουν θετικά ποσά που κερδίζονται (πχ ένα κατάστημα), οι λογαριασμοί εσόδων εμφανίζουν αρνητικά ποσά επειδή "χάνουν" χρήματα για να τα κερδίσετε εσείς. Πχ ο λογαριασμός εσόδων "Μισθός" θα μειώνεται κάθε μήνα και αντιπροσωπεύει τα λεφτά που φεύγουν από τον εργοδότη σας. Ταυτόχρονα ο λογαριασμός κεφαλαίου στην τράπεζά σας θα αυξάνεται με το αντίστοιχο ποσό, μιας και ο εργοδότης σας μεταφέρει το ποσό από το δικό του λογαριασμό (εσόδων στο FireFly III).
 
 **Υποχρεώσεις**
 
-This overview shows the state of your liabilities.
+Αυτή η επισκόπηση δείχνει την κατάσταση των υποχρεώσεών σας.
 
-If you want to read more about accounts, check out the [official documentation on accounts](https://docs.firefly-iii.org/concepts/accounts).
+Εάν θέλετε να διαβάσετε περισσότερα σχετικά με τους λογαριασμούς, ανατρέξτε στην [επίσημη τεκμηρίωση σχετικά με τους λογαριασμούς](https://docs.firefly-iii.org/concepts/accounts).

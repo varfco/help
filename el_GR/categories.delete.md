@@ -1,5 +1,5 @@
-Any transactions linked to your category will be saved.
+Όλες οι συναλλαγές που συνδέονται με την κατηγορία σας θα αποθηκευτούν.
 
-Remember that any transactions in this category will be cleared of their category, and instead will get listed under "Transactions without a category".
+Θυμηθείτε ότι όλες οι συναλλαγές αυτής της κατηγορίας θα διαγράψουν την κατηγορία στο σχετικό πεδίο και θα καταχωρηθούν σαν "Συναλλαγές χωρίς κατηγορία".
 
-If you want to read more about categories, check out the [official documentation on categories](https://docs.firefly-iii.org/concepts/categories).
+Εάν θέλετε να διαβάσετε περισσότερα για τις κατηγορίες, ανατρέξτε στην [επίσημη τεκμηρίωση για τις κατηγορίες](https://docs.firefly-iii.org/concepts/categories).

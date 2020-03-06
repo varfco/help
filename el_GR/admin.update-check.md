@@ -1,3 +1,3 @@
-Firefly III can automatically check for updates, if you wish it to. There will be a notification on the front page telling you all about it.
+Το Firefly III μπορεί να ελέγχει αυτόματα για ενημερώσεις, αν το επιθυμείτε. Θα υπάρχει μια σχετική ειδοποίηση στην πρώτη σελίδα που θα εξηγεί τα πάντα.
 
-Please note that Firefly III will poll an external server to do so.
+Λάβετε υπόψη ότι το Firefly III θα κάνει κλήσεις σε ένα εξωτερικό διακομιστή για να έχει αυτή τη δυνατότητα.

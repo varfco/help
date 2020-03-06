@@ -1,3 +1,3 @@
-You can mass delete transactions using this form. Unselect any transactions you do not want to delete after all.
+Μπορείτε να διαγράψετε μαζικά συναλλαγές χρησιμοποιώντας αυτή τη φόρμα. Αποεπιλέξτε τις συναλλαγές που δεν θέλετε να διαγράψετε.
 
-You can read more about transactions in [the official documentation](https://docs.firefly-iii.org/concepts/transactions).
+Μπορείτε να διαβάσετε περισσότερα σχετικά με τις συναλλαγές στην [επίσημη τεκμηρίωση](https://docs.firefly-iii.org/concepts/transactions).

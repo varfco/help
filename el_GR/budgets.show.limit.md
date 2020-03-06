@@ -1,3 +1,3 @@
-This view shows you a budget and if applicable, the expenses for the selected period. If the bar on the right turns red, you've overspent a certain percentage of the set amount.
+Αυτή η προβολή σας δείχνει έναν προϋπολογισμό και, κατά περίπτωση, τις δαπάνες για την επιλεγμένη περίοδο. Εάν η μπάρα στα δεξιά γίνει κόκκινη, σημαίνει ότι έχετε υπερβεί ένα ορισμένο ποσοστό του καθορισμένου ποσού.
 
-If you want to read more about budgets, check out the [official documentation on budgets](https://docs.firefly-iii.org/concepts/budgets).
+Αν θέλετε να διαβάσετε περισσότερα σχετικά με τους προϋπολογισμούς, ανατρέξτε στην [επίσημη τεκμηρίωση για τους προϋπολογισμούς](https://docs.firefly-iii.org/concepts/budgets).

@@ -1,9 +1,9 @@
-You can edit the transaction links you have created yourself. Links are described with three properties:
+Μπορείτε να επεξεργαστείτε τη σύνδεση συναλλαγών που έχετε δημιουργήσει εσείς. Οι συνδέσεις περιγράφονται με τρεις ιδιότητες:
 
-* The description. This is obvious.
-* Inward description. This describes how transaction A is influenced by B. Imagine transaction B "flying in" and changing transaction A somehow.
-* Outward description. This describes how transaction B is influencing A. Like the previous example, but in reverse.
+* Η περιγραφή. Αυτό είναι προφανές.
+* Εσωτερική περιγραφή. Αυτό περιγράφει τον τρόπο με τον οποίο επηρεάζεται η συναλλαγή Α από τη Β. Φανταστείτε να "εισέρχεται" η συναλλαγή B και να αλλάζει με κάποιο τρόπο τη συναλλαγή Α.
+* Εξωτερική περιγραφή. Αυτό περιγράφει τον τρόπο με τον οποίο η συναλλαγή Β επηρεάζει την Α. Όπως το προηγούμενο παράδειγμα, αλλά αντίστροφα.
 
-You can edit each transaction link as you see fit, but they must be unique.
+Μπορείτε να επεξεργαστείτε κάθε σύνδεση συναλλαγών θέλετε, αλλά πρέπει να είναι μοναδικές.
 
-If you want to read more about transaction links, check out the [official documentation on transaction links](https://docs.firefly-iii.org/advanced-concepts/links).
+Αν θέλετε να διαβάσετε περισσότερα σχετικά με τις συνδέσεις συναλλαγών, ανατρέξτε στην επίσημη τεκμηρίωση για τις συνδέσεις συναλλαγών</ 0>.</p>

@@ -1,5 +1,5 @@
-Use this page to create a tag. A tag may have a date and a location.
+Χρησιμοποιήστε αυτή τη σελίδα για να δημιουργήσετε μια ετικέτα. Η ετικέτα μπορεί να έχει ημερομηνία και τοποθεσία.
 
-If you want tags to have a location, add a Mapbox API key to your `.env` file.
+Εάν θέλετε να ορίσετε την τοποθεσία στις ετικέτες σας, προσθέστε ένα κλειδί API του Mapbox στο αρχείο `.env` της τοπικής εγκατάστασης.
 
-You can read more about tags in [the official documentation](https://docs.firefly-iii.org/concepts/tags).
+Μπορείτε να διαβάσετε περισσότερα σχετικά με τις ετικέτες στην [ επίσημη τεκμηρίωση](https://docs.firefly-iii.org/concepts/tags).

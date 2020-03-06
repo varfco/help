@@ -1,1 +1,1 @@
-List of all attachments. This view was created so you can get an overview of your attachments. It's not promoted or linked to anywhere else.
+Λίστα όλων των συνημμένων Αυτή η προβολή δημιουργήθηκε έτσι ώστε να μπορείτε να δείτε μια επισκόπηση των συνημμένων σας. Δεν υπάρχει προώθηση ή σύνδεση με άλλη σελίδα.

@@ -1,1 +1,1 @@
-Use this page to delete your account. There is no undelete. It will all be gone.
+Χρησιμοποιήστε αυτή τη σελίδα για να διαγράψετε το λογαριασμό σας. Δεν θα υπάρχει δυνατότητα αναίρεσης. Θα χαθούν τα πάντα.

@@ -1,11 +1,11 @@
-You can edit a bill.
+Μπορείτε να επεξεργαστείτε ένα πάγιο έξοδο.
 
-* The name is descriptive only and is not used internally.
-* Use the amount (min) and (max) to indicate expected limits for the bill. These amounts are used to give you an idea of the amount of bills you have to pay each period.
-* If you enter a number in the "skip" fields, the bill will be automatically skipped every X times; a bill that arrives every 3 months can be entered by filling in "3".
+* Το όνομα είναι μόνο περιγραφικό και δεν χρησιμοποιείται κάπου αλλού.
+* Χρησιμοποιήστε το ποσό (ελάχιστο) και (μέγιστο) για να ορίσετε τα αναμενόμενα όρια για το ποσό πληρωμής. Αυτά τα όρια χρησιμοποιούνται για να σας δίνουν μια ιδέα για το συνολικό ποσό των λογαριασμών που πρέπει να πληρώνετε σε κάθε περίοδο.
+* Εάν εισαγάγετε έναν αριθμό στο πεδίο "παράλειψη", το πάγιο έξοδο θα παραλείπεται αυτόματα κάθε Χ φορές. Πχ, ένας λογαριασμός που φθάνει κάθε 3 μήνες μπορεί να οριστεί συμπληρώνοντας την τιμή "3".
 
 To match each bill to a transaction, you will be guided towards the page that allows you to create a bill. On this page you can enter the details of the kind of transaction you would want to match the bill.
 
-If you edit a bill and change the amount, the rule will not be automatically updated to match.
+Εάν επεξεργαστείτε ένα πάγιο έξοδο και αλλάξετε το ποσό, ο κανόνας δεν θα ενημερωθεί αυτόματα για να ταιριάζει και πάλι.
 
-If you want to read more about bills, check out the [official documentation on bills](https://docs.firefly-iii.org/advanced-concepts/bills).
+Εάν θέλετε να διαβάσετε περισσότερα σχετικά με τα πάγια έξοδα, ανατρέξτε στην [επίσημη τεκμηρίωση για τα πάγια έξοδα](https://docs.firefly-iii.org/advanced-concepts/bills).

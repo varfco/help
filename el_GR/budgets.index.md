@@ -1,15 +1,15 @@
-On this page, you can set budgets. Each budget is valid for the current time period only (look to the top right).
+Σε αυτή τη σελίδα, μπορείτε να ορίσετε τους προϋπολογισμούς. Κάθε προϋπολογισμός ισχύει μόνο για την τρέχουσα χρονική περίοδο (βλέπε πάνω δεξιά).
 
-**Set up budgets in Firefly III**
+**Ορίστε προϋπολογισμούς στο Firefly III**
 
-First, set the amount that is available to you by clicking the pencil icon next to "*Available in ~~~*". By default, this is zero. Click the (i) icon to get an indication of what you could spend next month. In this example, I shall use 1000,-.
+Κατ 'αρχάς, πρέπει να ορίσετε το ποσό που είναι διαθέσιμο κάνοντας κλικ στο εικονίδιο με το μολύβι δίπλα στο "* Διαθέσιμο μεταξύ ~~~ </ 0>". Από προεπιλογή, αυτό είναι μηδέν. Κάντε κλικ στο εικονίδιο (i) για να δείτε μια ένδειξη για το τι θα μπορούσατε να δαπανήσετε τον επόμενο μήνα. Σε αυτό το παράδειγμα, θα χρησιμοποιήσουμε 1000€.</p> 
 
-Then, create some budgets with the "Create a budget" button either in the center of the screen or in the top right menu. All you need for a budget is a name.
+Στη συνέχεια, δημιουργήστε ορισμένους προϋπολογισμούς με το κουμπί "Νέος προϋπολογισμός" είτε στο κέντρο της οθόνης είτε στο επάνω μενού. Το μόνο που χρειάζεστε για έναν προϋπολογισμό είναι το όνομα.
 
-Once you've created some budgets you can set the amount of the budget using the input below the name. If you have already spent money in a budget, this will be shown as well. You can see that the top blue bar will update. It will be blue if you have budgeted all the money available, and turn red / orange if you budget more money than you have.
+Αφού δημιουργήσετε ορισμένους προϋπολογισμούς, μπορείτε να ορίσετε το ποσό του κάθε προϋπολογισμού για αυτό το μήνα χρησιμοποιώντας το πεδίο δίπλα από το όνομα και πατώντας Enter. Εάν έχετε ήδη δαπανήσει χρήματα σε έναν προϋπολογισμό, από συναλλαγές δαπανών που είναι συνδεδεμένες με αυτό τον προϋπολογισμό, αυτό θα φανεί επίσης. Εάν κάνετε μια επαναφόρτωση της σελίδας θα δείτε ότι η επάνω μπλε γραμμή θα ενημερωθεί. Η γραμμή θα παραμένει μπλε όσο οι προϋπολογισμοί στη σελίδα δεν εξαντλούν τα διαθέσιμα χρήματα που ορίσατε στην αρχή και σε αντίθετη περίπτωση η γραμμή θα γίνει κόκκινο / πορτοκαλί για να δείξει ότι ξεπεράσατε τα διαθέσιμα.
 
-Both the amount available and the amount budgeted are for a specific period: if you go back a month or forward a month, both of these amounts are reset. Firefly III will remember what you've set the amounts to of course, but every period has their own amounts.
+Τόσο το διαθέσιμο ποσό όσο και το ποσό των προϋπολογισμών αφορούν μια συγκεκριμένη περίοδο: εάν υποχωρήσετε ένα μήνα ή προχωρήσετε ένα μήνα, και τα δύο αυτά ποσά επαναφέρονται. Το Firefly III θυμάται φυσικά τα ποσά που έχετε ορίσει, αλλά κάθε περίοδος έχει τα δικά της ποσά.
 
-In your preferences, you can change this range to be weekly, or even yearly.
+Στις προτιμήσεις σας, μπορείτε να αλλάξετε αυτό το χρονικό διάστημα για να είναι εβδομαδιαίο ή ίσως ετήσιο.
 
-If you want to read more about budgets, check out the [official documentation on budgets](https://docs.firefly-iii.org/concepts/budgets).
+Αν θέλετε να διαβάσετε περισσότερα σχετικά με τους προϋπολογισμούς, ανατρέξτε στην [επίσημη τεκμηρίωση για τους προϋπολογισμούς](https://docs.firefly-iii.org/concepts/budgets).

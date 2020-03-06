@@ -1,1 +1,1 @@
-You can change all aspects of all users here. Please be careful, it is easy to lock yourself (or others) out of the system.
+Εδώ μπορείτε να αλλάξετε τις δυνατότητες όλων των χρηστών. Προσέξτε, είναι εύκολο να αποκλείσετε τον εαυτό σας (ή άλλους) από το σύστημα.

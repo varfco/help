@@ -1,3 +1,3 @@
-When you delete the bill, transactions associated with the bill will lose this association. The transaction will be saved.
+Όταν διαγράψετε το πάγιο έξοδο, οι συναλλαγές που σχετίζονται με αυτό θα χάσουν αυτή τη συσχέτιση. Η συναλλαγή όμως δε θα χαθεί.
 
-If you want to read more about bills, check out the [official documentation on bills](https://docs.firefly-iii.org/advanced-concepts/bills).
+Εάν θέλετε να διαβάσετε περισσότερα σχετικά με τα πάγια έξοδα, ανατρέξτε στην [επίσημη τεκμηρίωση για τα πάγια έξοδα](https://docs.firefly-iii.org/advanced-concepts/bills).

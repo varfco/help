@@ -1,7 +1,7 @@
-The configuration options show you some advanced settings for Firefly III.
+Οι επιλογές παραμετροποίησης εμφανίζουν ορισμένες προχωρημένες ρυθμίσεις για το Firefly III.
 
-* There are some global settings you can change.
-* You can manage out the translation links that are available.
-* You can configure how Firefly III checks for updates.
-* You can make Firefly III send a test message.
-* The user administration allows you to manage the users in your Firefly III installation, if more people than just yourself use this installation.
+* Υπάρχουν ορισμένες γενικές ρυθμίσεις που μπορείτε να αλλάξετε.
+* Μπορείτε να διαχειριστείτε τους συνδέσμους μετάφρασης που είναι διαθέσιμοι.
+* Μπορείτε να ορίσετε τον τρόπο με τον οποίο το Firefly III ελέγχει για ενημερώσεις.
+* Μπορείτε να στείλετε ένα δοκιμαστικό μήνυμα από το Firefly III.
+* Η διαχείριση χρηστών σας επιτρέπει να διαχειρίζεστε τους χρήστες της εγκατάστασης Firefly III, σε περίπτωση που χρησιμοποιούν και άλλοι πέρα από εσάς αυτή την εγκατάσταση.

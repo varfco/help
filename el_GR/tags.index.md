@@ -1,3 +1,3 @@
-This shows an overview of all your tags. They are grouped by year. The larger a tag is, the more money is linked to it.
+Εδώ θα δείτε μια επισκόπηση από όλες τις ετικέτες σας. Ομαδοποιούνται ανά έτος. Όσο μεγαλύτερη είναι μια ετικέτα σε μέγεθος, σημαίνει ότι συνδέονται περισσότερα χρήματα με αυτή.
 
-You can read more about tags in [the official documentation](https://docs.firefly-iii.org/concepts/tags).
+Μπορείτε να διαβάσετε περισσότερα σχετικά με τις ετικέτες στην [ επίσημη τεκμηρίωση](https://docs.firefly-iii.org/concepts/tags).

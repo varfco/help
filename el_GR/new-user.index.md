@@ -1,9 +1,9 @@
-Welcome to Firefly III!
+Καλωσήρθατε στο Firefly III!
 
-To get started please fill in the required details.
+Για να ξεκινήσετε, συμπληρώστε τα απαραίτητα στοιχεία.
 
-* Your bank name is required to give the new account a proper name.
-* The balance should be the balance the account has right now. You may also leave this at zero, and correct it later.
-* For your savings account, the same thing applies. The name will be derived from your bank name, but you can change it later.
+* Απαιτείται το όνομα της τράπεζας ώστε να έχει μια σωστή περιγραφή ο νέος σας λογαριασμός κεφαλαίου.
+* Το υπόλοιπο θα πρέπει να είναι ίδιο με το υπόλοιπο που έχει σήμερα ο τραπεζικός λογαριασμός. Μπορείτε βέβαια να το αφήσετε στο μηδέν και να το διορθώσετε αργότερα.
+* Για τον αποταμιευτικό λογαριασμό σας (ταμιευτήριο) ισχύει το ίδιο πράγμα. Το όνομα θα προέρχεται από το όνομα της τράπεζας, αλλά μπορείτε να το αλλάξετε αργότερα.
 
-Read more about Firefly III in [the official documentation](https://docs.firefly-iii.org/).
+Διαβάστε περισσότερα σχετικά με το Firefly III στην [επίσημη τεκμηρίωση](https://docs.firefly-iii.org/).

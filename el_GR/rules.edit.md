@@ -1,3 +1,3 @@
-Here you can edit a previously generated rule.
+Εδώ μπορείτε να επεξεργαστείτε έναν κανόνα που δημιουργήθηκε προηγουμένως.
 
-Read more about rules in [the official documentation](https://docs.firefly-iii.org/advanced-concepts/rules).
+Μπορείτε να διαβάσετε περισσότερα σχετικά με τους κανόνες στην [επίσημη τεκμηρίωση](https://docs.firefly-iii.org/advanced-concepts/piggies).

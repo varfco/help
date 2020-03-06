@@ -1,11 +1,11 @@
-New currencies can always be added to Firefly III if yours is not present by default. Please make sure the currency code is compliant with ISO 4217.
+Νέα νομίσματα μπορούν πάντοτε να προστεθούν στο Firefly III αν το δικό σας δεν υπάρχει ήδη στα προετοιμασμένα. Βεβαιωθείτε ότι ο κωδικός του νομίσματος συμμορφώνεται με το πρότυπο ISO 4217.
 
-Currencies tend to have 2 decimal places. You should check out Wikipedia for more information about your preferred currency, if you are unsure. If you want to know what the values are for your currency, check out [this list of currencies](https://github.com/xsolla/currency-format/blob/master/currency-format.json) on Github. New currencies are enabled by default.
+Τα νομίσματα έχουν συνήθως 2 δεκαδικά ψηφία. Θα πρέπει να ελέγξετε τη Wikipedia για περισσότερες πληροφορίες σχετικά με το προτιμώμενο νόμισμά σας, αν δεν είστε βέβαιοι. Αν θέλετε να μάθετε ποιες είναι οι σωστές τιμές για το νόμισμά σας, ανατρέξτε σε αυτή τη [λίστα νομισμάτων](https://github.com/xsolla/currency-format/blob/master/currency-format.json) στο Github. Τα νέα νομίσματα ενεργοποιούνται άμεσα από προεπιλογή.
 
-Please note that each currency needs:
+Λάβετε υπόψη ότι κάθε νόμισμα χρειάζεται:
 
-- A symbol, such as $ or € or something else.
-- A code, such as EUR or USD or something you make up.
-- A name, of course.
+- Ένα σύμβολο, όπως $ ή € ή κάτι άλλο.
+- Ένα κωδικό, όπως EUR ή USD ή κάτι που δημιουργείτε εσείς.
+- Ένα όνομα, φυσικά.
 
-If you want to read more about currencies, check out the [official documentation on currencies](https://docs.firefly-iii.org/concepts/currencies).
+Αν θέλετε να διαβάσετε περισσότερα για τα νομίσματα, ανατρέξτε στην επίσημη τεκμηρίωση [για τα νομίσματα](https://docs.firefly-iii.org/concepts/currencies).

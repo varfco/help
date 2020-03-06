@@ -1,3 +1,3 @@
-This is an overview of all transactions that have not been assigned a budget.
+Αυτή είναι μια επισκόπηση όλων των συναλλαγών για τις οποίες δεν έχει υποδειχθεί προϋπολογισμός.
 
-If you want to read more about budgets, check out the [official documentation on budgets](https://docs.firefly-iii.org/concepts/budgets).
+Αν θέλετε να διαβάσετε περισσότερα σχετικά με τους προϋπολογισμούς, ανατρέξτε στην [επίσημη τεκμηρίωση για τους προϋπολογισμούς](https://docs.firefly-iii.org/concepts/budgets).

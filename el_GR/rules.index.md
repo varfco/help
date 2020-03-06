@@ -1,13 +1,13 @@
-Firefly III supports "rules": Small building blocks of actions that are triggered when a transaction is created or updated.
+Το Firefly III υποστηρίζει "κανόνες": Μικρά δομικά στοιχεία ενεργειών που ενεργοποιούνται κατά τη δημιουργία ή την ενημέρωση μιας συναλλαγής.
 
-If your transaction has certain properties (called "triggers") Firefly III will execute the "actions". Combined, you can make Firefly III respond in a certain way to transactions.
+Αν η συναλλαγή σας έχει ορισμένες ιδιότητες (ονομάζονται "κριτήρια ενεργοποίησης"), το Firefly III θα εκτελέσει τις "ενέργειες". Σε συνδυασμό, μπορείτε να κάνετε το Firefly III να ανταποκριθεί με κάποιο τρόπο σε συναλλαγές.
 
-On this page you see your rule groups, and the rules they contain. If you have no rules or rule groups, Firefly III will create a default rule and rule group, as an example.
+Σε αυτή τη σελίδα βλέπετε τις ομάδες κανόνων σας και τους κανόνες που περιέχουν. Αν δεν έχετε κανόνες ή ομάδες κανόνων, το Firefly III θα δημιουργήσει έναν προκαθορισμένο κανόνα και μια ομάδα κανόνων, ως παράδειγμα.
 
-You can sort the rule triggers, and the rule actions. If you create a rule, the help page will show you what's possible.
+Μπορείτε να ταξινομήσετε τα κριτήρια ενεργοποίησης και τις ενέργειες των κανόνων. Εάν δημιουργήσετε έναν κανόνα, η σελίδα βοήθειας θα σας δείξει τι μπορείτε να κάνετε.
 
-Each rule and each rule group can be executed on your transactions to see if they work and how they work.
+Κάθε κανόνας και κάθε ομάδα κανόνων μπορούν να εφαρμοστούν στις συναλλαγές σας για να δείτε το αν και το πως λειτουργούν.
 
-To see how a rule works, press **New rule**.
+Για να δείτε πώς λειτουργεί ένας κανόνας, πατήστε το κουμπί **Νέος κανόνας**.
 
-Read more about rules in [the official documentation](https://docs.firefly-iii.org/advanced-concepts/rules).
+Μπορείτε να διαβάσετε περισσότερα σχετικά με τους κανόνες στην [επίσημη τεκμηρίωση](https://docs.firefly-iii.org/advanced-concepts/piggies).

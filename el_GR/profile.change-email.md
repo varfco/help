@@ -1,5 +1,5 @@
-Use this form to change your email address.
+Χρησιμοποιήστε αυτή τη φόρμα για να αλλάξετε τη διεύθυνση ηλεκτρονικού ταχυδρομείου σας.
 
-Your old email address will get a note saying you have a new address. You will get a link to cancel the change.
+Η παλιά σας διεύθυνσή ηλεκτρονικού ταχυδρομείου θα λάβει ένα μήνυμα που θα αναφέρει ότι δηλώσατε μια νέα διεύθυνση. Θα περιέχει ένα σύνδεσμο με τη δυνατότητα να ακυρώσετε αυτή την αλλαγή.
 
-Your new email address will get a note saying you have a new address as well, and you need to click this link to confirm the change. Until you do, you cannot login.
+Η νέα σας διεύθυνση ηλεκτρονικού ταχυδρομείου θα λάβει ένα μήνυμα που θα αναφέρει ότι έχετε και μια νέα διεύθυνση και πρέπει να κάνετε κλικ σε αυτόν τον σύνδεσμο για να το επιβεβαιώσετε. Μέχρι να το κάνετε, δε θα μπορείτε να συνδεθείτε με το νέο Email.

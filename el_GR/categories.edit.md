@@ -1,3 +1,3 @@
-You can change the name of a category.
+Μπορείτε να αλλάξετε το όνομα μιας κατηγορίας.
 
-If you want to read more about categories, check out the [official documentation on categories](https://docs.firefly-iii.org/concepts/categories).
+Εάν θέλετε να διαβάσετε περισσότερα για τις κατηγορίες, ανατρέξτε στην [επίσημη τεκμηρίωση για τις κατηγορίες](https://docs.firefly-iii.org/concepts/categories).

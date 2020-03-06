@@ -1,7 +1,7 @@
-This report shows you the influence the selected budget(s) have had on the selected asset accounts.
+Αυτή η αναφορά δείχνει την επίδραση που είχαν οι επιλεγμένοι προϋπολογισμοί στους επιλεγμένους λογαριασμούς κεφαλαίου.
 
-It starts with some charts showing you how the money in the budget(s) has flowed around. Then, a complicated "income and expenses" chart shows you what this looked like over time.
+Αρχίζει με μερικά γραφήματα που δείχνουν το πώς έχουν κυκλοφορήσει τα χρήματα σε κάθε προϋπολογισμό. Στη συνέχεια, ένα πιο περίπλοκο γράφημα "δαπανών και εσόδων" σας δείχνει πως εξελίχθηκαν με την πάροδο του χρόνου.
 
-Finally, some statistics about the reporting period are presented. All the lists are sortable for your convenience.
+Τέλος, παρουσιάζονται ορισμένα στατιστικά στοιχεία για την περίοδο αναφοράς. Όλες οι λίστες μπορούν να ταξινομηθούν σύμφωνα με την επιθυμία σας.
 
-Read more about reports in [the official documentation](https://docs.firefly-iii.org/advanced-concepts/reports).
+Διαβάστε περισσότερα σχετικά με τις αναφορές στην [επίσημη τεκμηρίωση](https://docs.firefly-iii.org/advanced-concepts/reports).

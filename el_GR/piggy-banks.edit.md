@@ -1,5 +1,5 @@
-What happens when you edit a piggy bank should be fairly obvious. If you change the amount to below the amount currently saved, the piggy bank will be updated to reflect this.
+Αυτό που συμβαίνει όταν επεξεργάζεστε ένα κουμπαρά πρέπει να είναι αρκετά προφανές. Εάν αλλάξετε το ποσό στόχου κάτω από το ποσό που έχει δεσμευτεί μέχρι αυτή τη στιγμή, ο κουμπαράς θα ενημερωθεί σύμφωνα με αυτό.
 
-Let's assume you have a piggy bank with a target amount of 500,- and it contains 300,-. If you change the target amount to 200,-, the amount in the piggy bank will also drop to 200,-.
+Ας υποθέσουμε ότι έχετε έναν κουμπαρά με ποσό στόχου στα 500,- και έχει δεσμευμένα 300,-. Εάν εσείς αλλάξετε το ποσό στόχου στα 200,-, το ποσό δέσμευσης στον κουμπαρά θα μειωθεί επίσης στα 200,-.
 
-Read more about piggy banks in [the official documentation](https://docs.firefly-iii.org/advanced-concepts/piggies).
+Μπορείτε να διαβάσετε περισσότερα σχετικά με τους κουμπαράδες στην [επίσημη τεκμηρίωση](https://docs.firefly-iii.org/advanced-concepts/piggies).

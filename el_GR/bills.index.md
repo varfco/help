@@ -1,7 +1,7 @@
-Almost everybody has regular expenses that come back every month, quarter or year. In Firefly III, you can register such expenses as "bills".
+Σχεδόν όλοι έχουν τακτικές δαπάνες που χρεώνονται κάθε μήνα, τρίμηνο ή έτος. Στο Firefly III, μπορείτε να καταχωρίσετε αυτές τις δαπάνες ως "πάγια έξοδα".
 
-When you create bills, Firefly III will report on the expected amount of bills for each period of time. Firefly III uses rules to match transactions to bills. This way you can match your expenses to the bills you have (yet) to pay.
+Όταν δημιουργείτε πάγια έξοδα, το Firefly III θα μπορεί να αναφέρει το αναμενόμενο ποσό των λογαριασμών για κάθε χρονική περίοδο. Το Firefly III χρησιμοποιεί κανόνες για την αντιστοίχιση συναλλαγών με πάγια έξοδα. Με αυτό τον τρόπο θα μπορείτε να συνδέσετε αυτόματα μια δαπάνη με το πάγιο έξοδο όταν το πληρώσετε.
 
-In short, you can create a bill for "rent" or for "insurance" and every month, Firefly III will show you if you paid for it.
+Με λίγα λόγια, μπορείτε να δημιουργήσετε ένα πάγιο έξοδο για "ενοίκιο" ή για "ασφάλιση" και κάθε μήνα, το Firefly III θα σας δείξει τον προγραμματισμό για τις πληρωμές του μήνα καθώς και εάν το πληρώσατε.
 
-If you want to read more about bills, check out the [official documentation on bills](https://docs.firefly-iii.org/advanced-concepts/bills).
+Εάν θέλετε να διαβάσετε περισσότερα σχετικά με τα πάγια έξοδα, ανατρέξτε στην [επίσημη τεκμηρίωση για τα πάγια έξοδα](https://docs.firefly-iii.org/advanced-concepts/bills).

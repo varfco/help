@@ -1,5 +1,5 @@
-This page helps you create a piggy bank. Set the target amount and optionally, the target date to match with what it is you wish to save for.
+Αυτή η σελίδα σάς βοηθά να δημιουργήσετε ένα κουμπαρά. Ορίστε το ποσό στόχου που πρέπει να δεσμεύσετε και προαιρετικά την επιθυμητή ημερομηνία ολοκλήρωσης του στόχου σας έτσι ώστε να προγραμματίσετε αυτό για το οποίο θα εξοικονομήσετε τα χρήματα.
 
-You can use the "notes" field to store extra notes.
+Μπορείτε να χρησιμοποιήσετε το πεδίο "Σημειώσεις" για να αποθηκεύσετε επιπλέον πληροφορίες.
 
-Read more about piggy banks in [the official documentation](https://docs.firefly-iii.org/advanced-concepts/piggies).
+Μπορείτε να διαβάσετε περισσότερα σχετικά με τους κουμπαράδες στην [επίσημη τεκμηρίωση](https://docs.firefly-iii.org/advanced-concepts/piggies).

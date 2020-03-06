@@ -1,9 +1,9 @@
-This is the audit report.
+Αυτή είναι η έκθεση ελέγχου συναλλαγών.
 
-First at the top, you will see all the available columns as checkboxes for this report. Not all of them have been checked, and it is up to you to enable or disable extra columns.
+Ξεκινώντας από την κορυφή, θα δείτε όλες τις διαθέσιμες στήλες ως κουτάκια επιλογής για αυτή την αναφορά. Δεν θα είναι όλα επιλεγμένα και μπορείτε να ενεργοποιήσετε ή να απενεργοποιήσετε τις στήλες που θέλετε.
 
-Below those checkboxes, you will see a set of boxes with information about the selected asset accounts. Each box starts with the balance at the end of the reporting period, and then lists all transactions and how they influenced that balance. Each box concludes with the balance at the start of the reporting period.
+Κάτω από τα κουτάκια επιλογής, θα δείτε ένα σύνολο πλαισίων με πληροφορίες σχετικά με τους επιλεγμένους λογαριασμούς κεφαλαίου. Κάθε πλαίσιο αρχίζει με το υπόλοιπο στο τέλος της περιόδου αναφοράς και στη συνέχεια απαριθμεί όλες τις συναλλαγές και τον τρόπο με τον οποίο επηρέασε το υπόλοιπο. Κάθε πλαίσιο ολοκληρώνεται με το υπόλοιπο κατά την έναρξη της περιόδου αναφοράς.
 
-If no activity was recorded for the reporting period, it will be said so as well.
+Αν δεν έχει καταγραφεί καμία δραστηριότητα για την περίοδο αναφοράς, θα σας δοθεί αυτή η πληροφορία.
 
-Read more about reports in [the official documentation](https://docs.firefly-iii.org/advanced-concepts/reports).
+Διαβάστε περισσότερα σχετικά με τις αναφορές στην [επίσημη τεκμηρίωση](https://docs.firefly-iii.org/advanced-concepts/reports).

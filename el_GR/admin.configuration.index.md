@@ -1,3 +1,3 @@
-This page shows you the configuration options that Firefly III has. These options apply to every user!
+Αυτή η σελίδα εμφανίζει τις επιλογές παραμετροποίησης που διαθέτει το Firefly III. Αυτές οι επιλογές ισχύουν για κάθε χρήστη!
 
-The options are explained, so it should be easy to understand what they do. Please do not enable the "demo website" function. This might break your installation.
+Υπάρχει επεξήγηση για κάθε επιλογή, οπότε θα είναι εύκολο να καταλάβετε τι κάνουν. Μην ενεργοποιήσετε τη λειτουργία "Ιστοσελίδα επίδειξης". Αυτό μπορεί να απορυθμίσει την εγκατάστασή σας.

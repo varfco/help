@@ -1,31 +1,31 @@
-Firefly III offers a number types of reports. Each report can be bookmarked for easy access. Each report has various options you must set.
+Το Firefly III προσφέρει ορισμένους τύπους αναφορών. Κάθε αναφορά μπορεί να γίνει σελιδοδείκτης για εύκολη μεταγενέστερη πρόσβαση. Κάθε αναφορά έχει διάφορες επιλογές που πρέπει πρώτα να ορίσετε.
 
-For ALL reports, you must indicate which asset accounts will be included in the report. If you do not include certain asset accounts, transfers from and to those ignored accounts will count as expenses and income.
+Για ΟΛΕΣ τις αναφορές, πρέπει να αναφέρετε ποιοι από τους λογαριασμούς κεφαλαίου θα συμπεριληφθούν στην αναφορά. Αν δεν συμπεριλάβετε συγκεκριμένους λογαριασμούς κεφαλαίου, οι μεταφορές από και προς αυτούς τους αγνοούμενους λογαριασμούς θα θεωρούνται ως δαπάνες και έσοδα εντός της αναφοράς.
 
-You must select a date range for each report. There are no limits to the date range you select. You can also use **magic words**, read more about them in [the official documentation](https://docs.firefly-iii.org/advanced-concepts/reports).
+Πρέπει να επιλέξετε και το χρονικό διάστημα σε κάθε αναφορά. Δεν υπάρχουν όρια στο διάστημα που θα επιλέξετε. Μπορείτε επίσης να χρησιμοποιήσετε **magic words**, διαβάστε περισσότερα γι 'αυτές στην [επίσημη τεκμηρίωση](https://docs.firefly-iii.org/advanced-concepts/reports).
 
-#### Default financial report
+#### Προεπιλεγμένη οικονομική αναφορά
 
-This report will give you a global overview of your finances and it is most used to see (both for the past as wel as for the present) your current financial overview. This report has no extra options.
+Αυτή η αναφορά θα σας δώσει μια συνολική εικόνα των οικονομικών σας και είναι πιο συνηθισμένη για να βλέπετε την τρέχουσα οικονομική σας κατάσταση (τόσο για το παρελθόν όσο και για το παρόν). Αυτή η αναφορά δεν έχει επιπλέον επιλογές.
 
-#### Transaction history overview (audit)
+#### Επισκόπηση ιστορικού συναλλαγών (έλεγχος)
 
-This report will tell you how your accounts have gotten to their current point. It shows ALL transactions, and ALL available metadata. This can help you track down errors in your finances. Imagine this report as the "Account overview" but on steroids. This report has no extra options.
+Αυτή η αναφορά θα σας πει την εξέλιξη των λογαριασμών σας μέχρι σήμερα. Εμφανίζει ΟΛΕΣ τις συναλλαγές και όλα τα διαθέσιμα μεταδεδομένα. Αυτό μπορεί να σας βοηθήσει να εντοπίσετε λάθη στα οικονομικά σας. Φανταστείτε αυτή την αναφορά ως μια πιο ενισχυμένη "Επισκόπηση λογαριασμού". Αυτή η αναφορά δεν έχει επιπλέον επιλογές.
 
 #### Αναφορά προϋπολογισμού
 
-This report will tell you what you have spent in the selected budgets, on the selected asset accounts. This means you must select both the relevant asset accounts as well as the relevant budgets.
+Αυτή η αναφορά θα σας πει τι έχετε δαπανήσει στους επιλεγμένους προϋπολογισμούς, στους επιλεγμένους λογαριασμούς κεφαλαίου. Αυτό σημαίνει ότι πρέπει να επιλέξετε τόσο τους αντίστοιχους λογαριασμούς κεφαλαίου όσο και τους σχετικούς προϋπολογισμούς.
 
 #### Αναφορά κατηγορίας
 
-This report will tell you what you have spent and earned in the selected categories, on the selected asset accounts. This means you must select both the relevant asset accounts as well as the relevant categories.
+Αυτή η αναφορά θα σας πει τι έχετε δαπανήσει και κερδίσει στις επιλεγμένες κατηγορίες, στους επιλεγμένους λογαριασμούς κεφαλαίου. Αυτό σημαίνει ότι πρέπει να επιλέξετε τόσο τους αντίστοιχους λογαριασμούς κεφαλαίου όσο και τις σχετικές κατηγορίες.
 
 #### Αναφορά ετικέτας
 
-This report will tell you what you have spent and earned in the selected tags, on the selected asset accounts. This means you must select both the relevant asset accounts as well as the relevant tags.
+Αυτή η αναφορά θα σας πει τι έχετε δαπανήσει και κερδίσει σύμφωνα με τις επιλεγμένες ετικέτες, στους επιλεγμένους λογαριασμούς κεφαλαίου. Αυτό σημαίνει ότι πρέπει πρώτα να επιλέξετε τόσο τους λογαριασμούς κεφαλαίου όσο και τις σχετικές ετικέτες.
 
-#### Expense/revenue account report
+#### Έκθεση λογαριασμών δαπανών/εσόδων
 
-This report is available for accounts that are both sources of income, and places where you spent money. If you work at a super market like Walmart, this could be the case. This report allows you to combine such accounts and see what the balance is.
+Αυτή η αναφορά είναι διαθέσιμη για λογαριασμούς που είναι ταυτόχρονα πηγές εισοδήματος και μέρη όπου δαπανάτε χρήματα. Αυτό θα μπορούσε να συμβαίνει εάν εργάζεστε σε ένα σούπερ μάρκετ όπου πληρώνεστε με μισθό και αγοράζετε προϊόντα για το νοικοκυριό. Αυτή η αναφορά σάς επιτρέπει να συνδυάσετε αυτούς τους λογαριασμούς και να δείτε το ισοζύγιο.
 
-Read more about reports in [the official documentation](https://docs.firefly-iii.org/advanced-concepts/reports).
+Διαβάστε περισσότερα σχετικά με τις αναφορές στην [επίσημη τεκμηρίωση](https://docs.firefly-iii.org/advanced-concepts/reports).

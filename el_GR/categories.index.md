@@ -1,3 +1,3 @@
-This shows you a list of all the categories in your system and when it has last been used. You can create new categories both manually or when entering a new transaction. There is also a special button for transactions without a category.
+Αυτό σας δείχνει μια λίστα με όλες τις κατηγορίες στο σύστημά σας και πότε χρησιμοποιήθηκε για τελευταία φορά. Μπορείτε να δημιουργήσετε νέες κατηγορίες τόσο χειροκίνητα όσο και αυτόματα κατά την εισαγωγή μιας νέας συναλλαγής. Υπάρχει επίσης ένα ειδικό κουμπί για συναλλαγές χωρίς κατηγορία.
 
-If you want to read more about categories, check out the [official documentation on categories](https://docs.firefly-iii.org/concepts/categories).
+Εάν θέλετε να διαβάσετε περισσότερα για τις κατηγορίες, ανατρέξτε στην [επίσημη τεκμηρίωση για τις κατηγορίες](https://docs.firefly-iii.org/concepts/categories).

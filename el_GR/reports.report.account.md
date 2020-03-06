@@ -1,3 +1,3 @@
-This report shows you how certain types of accounts are doing.
+Αυτή η αναφορά σάς δείχνει πώς εξελίσσονται ορισμένοι τύποι λογαριασμών.
 
-Read more about reports in [the official documentation](https://docs.firefly-iii.org/advanced-concepts/reports).
+Διαβάστε περισσότερα σχετικά με τις αναφορές στην [επίσημη τεκμηρίωση](https://docs.firefly-iii.org/advanced-concepts/reports).
