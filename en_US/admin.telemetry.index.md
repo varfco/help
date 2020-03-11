@@ -1,5 +1,3 @@
-# Collected telemetry information
-
 What information wil Firefly III collect?
 
 **Version 5.3.0 and earlier**
