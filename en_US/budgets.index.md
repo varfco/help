@@ -2,7 +2,7 @@ On this page, you can set budgets. Each budget is valid for the current time per
 
 **Set up budgets in Firefly III**
 
-First, set the amount that is available to you by clicking the pencil icon next to "*Available in ~~~*". By default, this is zero. Click the (i) icon to get an indication of what you could spend next month. In this example, I shall use 1000,-.
+First, set the amount that is available to you by clicking the pencil icon next to "*Available in ~~~*". By default, this is zero.
 
 Then, create some budgets with the "Create a budget" button either in the center of the screen or in the top right menu. All you need for a budget is a name.
 
