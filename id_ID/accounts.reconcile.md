@@ -11,4 +11,4 @@ Bila anda telah selesai memilih transaksi, jumlah dibawah ''Pilihan rekonsiliasi
 
 Bagaimanapun, tekan ''Simpan rekonsiliasi'' untuk menyimpan hasil. Transaksi akan di tandai dengan tanda ''dibersihkan'' dan anda bisa secara opsional membuat suatu transaksi yang akan memperbaiki saldo dari akun Firefly III anda (rekonsiliasi).
 
-If you want to read more about reconciliations, check out the [official documentation on reconciliations](https://firefly-iii.readthedocs.io/en/latest/advanced/reconcile.html).
+If you want to read more about reconciliations, check out the [official documentation on reconciliations](https://docs.firefly-iii.org/advanced-concepts/reconcile).

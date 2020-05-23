@@ -11,4 +11,4 @@ Cuando termine de escoger transacciones, el monto sobre "Opciones de reconciliac
 
 En todo caso, presione "Guardar reconciliación" para guardar el resultado. Las transacciones serán marcadas como "autorizadas" y puede crear adicionalmente una transacción que pueda corregir el saldo de su cuenta de activos de Firefly III (una reconciliación).
 
-Si desea leer más sobre reconciliaciones, revise la [documentación oficial sobre reconciliaciones](https://firefly-iii.readthedocs.io/en/latest/advanced/reconcile.html).
+Si desea leer más sobre reconciliaciones, revise la [documentación oficial sobre reconciliaciones](https://docs.firefly-iii.org/advanced-concepts/reconcile).

@@ -11,4 +11,4 @@ Als je daar mee klaar bent zou het bedrag bij "afstemmingsopties" nul moeten zij
 
 Wat het ook wordt, kies "Afstemming opslaan" om het resultaat op te slaan. De transacties worden gemarkeerd als "afgestemd" en eventueel kan je een extra transactie maken die het saldo van je Firefly III betaalrekening corrigeert (een afstemmingstransactie).
 
-Als je meer wilt lezen over het afstemmen van je rekening, check dan de [officiële documentatie](https://firefly-iii.readthedocs.io/en/latest/advanced/reconcile.html).
+Als je meer wilt lezen over het afstemmen van je rekening, check dan de [officiële documentatie](https://docs.firefly-iii.org/advanced-concepts/reconcile).
