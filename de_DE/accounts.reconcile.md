@@ -11,4 +11,4 @@ Wenn du alle Transaktionen ausgewählt hast, sollte die Summe unter „Kontenabg
 
 Klicke auf "Kontenabgleich speichern" um das Ergebnis zu speichern. Die Transaktionen werden als "abgeglichen" markiert und du kannst optional eine Transaktion zur Korrektur der Salden in deinem Firefly III Bestandskonto erzeugen.
 
-Wenn du mehr über Kontenabgleiche erfahren willst, lese die [offizielle Dokumentation über Kontenabgleiche](https://docs.firefly-iii.org/advanced-concepts/reconcile).
+If you want to read more about reconciliations, check out the [official documentation on reconciliations](https://docs.firefly-iii.org/advanced-concepts/reconcile).

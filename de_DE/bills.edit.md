@@ -2,7 +2,7 @@ Sie können Rechnungen bearbeiten.
 
 * Der Name dient nur der Beschreibung und wird nicht intern genutzt.
 * Benutzen Sie Mindestbetrag und Höchstbetrag um die erwarteten Kosten der Rechnung darzustellen. Diese Werte werden genutzt um Ihnen einen Überblick über die offenen Rechnungen zu geben, die Sie in jeder Periode zahlen müssen.
-* Wenn Sie eine Nummer in das Feld "Überspringen" eintragen, überspringt die Rechnung automatisch die in diesem Feld hinterlegte Anzahl an Wiederholungen. Z.B. Eine Rechnung kommt alle drei Monate: Wiederholungen auf monatlich setzen und Überspringen auf "2" setzen.
+* If you enter a number in the "skip" fields, the bill will be automatically skipped every X times; a bill that arrives every 3 months can be entered by filling in "2".
 
 Um jede Rechnung einer Transaktion zuzuordnen, werden Sie auf die Seite geleitet, die es Ihnen erlaubt eine Rechnung anzulegen. Auf dieser Seite können Sie die Details der Transaktion angeben, die zum Ausgleichen der Rechnung genutzt werden soll.
 

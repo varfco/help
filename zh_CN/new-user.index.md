@@ -1,4 +1,4 @@
-Welcome to Firefly III!
+欢迎使用 Firefly III！
 
 To get started please fill in the required details.
 

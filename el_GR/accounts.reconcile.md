@@ -11,4 +11,4 @@
 
 Όπως και να έχει, πατήστε το κουμπί "Αποθήκευση τακτοποίησης" για να αποθηκεύσετε το αποτέλεσμα. Οι συναλλαγές θα επισημαίνονται ως "ελεγμένες" και μπορείτε προαιρετικά να δημιουργήσετε μια συναλλαγή που θα διορθώσει το υπόλοιπο του λογαριασμού κεφαλαίου στο Firefly III (συναλλαγή τακτοποίησης).
 
-Εάν θέλετε να διαβάσετε περισσότερα σχετικά με τις τακτοποιήσεις, ανατρέξτε στην επίσημη τεκμηρίωση [σχετικά με τις τακτοποιήσεις](https://docs.firefly-iii.org/advanced-concepts/reconcile).
+If you want to read more about reconciliations, check out the [official documentation on reconciliations](https://docs.firefly-iii.org/advanced-concepts/reconcile).

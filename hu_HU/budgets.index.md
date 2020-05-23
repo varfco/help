@@ -2,7 +2,7 @@ Ezen az oldalon költségkereteket lehet beállítani. Minden költségkeret az 
 
 **Költségkeretek beállítása a Firefly III-ban**
 
-First, set the amount that is available to you by clicking the pencil icon next to "*Available in ~~~*". Alapértelmezés szerint ez az érték nulla. Click the (i) icon to get an indication of what you could spend next month. In this example, I shall use 1000,-.
+First, set the amount that is available to you by clicking the pencil icon next to "*Available in ~~~*". By default, this is zero.
 
 Then, create some budgets with the "Create a budget" button either in the center of the screen or in the top right menu. All you need for a budget is a name.
 

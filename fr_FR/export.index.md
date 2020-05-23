@@ -1,5 +1,5 @@
-This page allows you to export transactions. You will get a CSV file with *all* your transactions in it.
+Cette page vous permet d'exporter des transactions. Vous obtiendrez un fichier CSV contenant *toutes* vos transactions.
 
-If you want more fine-grained control over the export, or if you want to export other files as well, please use the command line options.
+Si vous voulez un contrôle plus précis sur l'exportation, ou si vous voulez également exporter d'autres fichiers, veuillez utiliser les options de la ligne de commande.
 
-If you want to read more about exporting data, check out the [official documentation on exporting data](https://docs.firefly-iii.org/exporting-data/export).
+Si vous souhaitez en savoir plus sur l'exportation de données, consultez [la documentation officielle sur l'exportation de données](https://docs.firefly-iii.org/exporting-data/export).

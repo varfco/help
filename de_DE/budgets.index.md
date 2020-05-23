@@ -2,7 +2,7 @@ Sie können auf dieser Seite Kostenrahmen setzen. Jeder Kostenrahmen ist für ei
 
 **Kostenrahmen erstellen in Firefly III**
 
-Als erstes setzen Sie den Betrag der verfügbar ist indem Sie auf den Stift neben "*Verfügbar in ~~~*" klicken. Standardmäßig ist dies null. Mit einem Klick auf das (i) Icon erhalten Sie einen Hinweis darüber, wieviel Sie im nächsten Monat ausgeben können. In diesem Beispiel verwende ich 1000,-.
+First, set the amount that is available to you by clicking the pencil icon next to "*Available in ~~~*". By default, this is zero.
 
 Als nächstes erstellen Sie einen Kostenrahmen mit einem Klick auf den Button "Neuer Kostenrahmen". Für einen Kostenrahmen benötigen Sie nur einen Namen.
 

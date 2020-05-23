@@ -1,3 +1,3 @@
 Αυτή η προβολή δείχνει μια συναλλαγή τακτοποίησης. Διορθώνει το υπόλοιπο, είτε αφαιρώντας χρήματα από τον σχετικό λογαριασμό κεφαλαίου είτε προσθέτοντας χρήματα σε αυτόν.
 
-Εάν θέλετε να διαβάσετε περισσότερα σχετικά με τις τακτοποιήσεις, ανατρέξτε στην επίσημη τεκμηρίωση [σχετικά με τις τακτοποιήσεις](https://docs.firefly-iii.org/advanced-concepts/reconcile).
+If you want to read more about reconciliations, check out the [official documentation on reconciliations](https://docs.firefly-iii.org/advanced-concepts/reconcile).

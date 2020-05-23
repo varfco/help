@@ -2,7 +2,7 @@ En esta página, puede establecer presupuestos. Cada presupuesto es válido úni
 
 **Estableciendo presupuestos en Firefly III**
 
-Primero, establezca la cantidad disponible para usted haciendo clic en el ícono del lápiz junto a "*Disponible en ~~~*". Por defecto, esto es cero. Haga clic en el ícono (i) para obtener una indicación de lo que puede gastar el próximo mes. En este ejemplo, usaré 1000,-.
+First, set the amount that is available to you by clicking the pencil icon next to "*Available in ~~~*". By default, this is zero.
 
 Luego, cree algunos presupuestos con el botón de "Crear un presupuesto" en el centro de la pantalla o en el menú superior derecho. Todo lo que necesita para un presupuesto es un nombre.
 

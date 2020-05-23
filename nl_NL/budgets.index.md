@@ -2,7 +2,7 @@ Op deze pagina kan je budgetten instellen. Elk budget is alleen geldig voor de h
 
 **Stel budgetten in Firefly III**
 
-Stel eerst het bedrag in dat voor jou beschikbaar is door op het potloodpictogram naast "*Beschikbaar in ~~~*" te klikken. Standaard is dit 0. Klik op het (i) pictogram om een indicatie te krijgen van wat je volgende maand kunt uitgeven. In dit voorbeeld gebruik ik 1000,-.
+First, set the amount that is available to you by clicking the pencil icon next to "*Available in ~~~*". By default, this is zero.
 
 Maak dan een paar budgetten aan met de "Maak een budget" knop in het midden van het scherm of in het rechter bovenste menu. Het enige wat je nodig hebt is een naam.
 

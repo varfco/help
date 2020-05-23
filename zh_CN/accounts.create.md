@@ -6,7 +6,7 @@
 
 为您赚钱/收入的地方创建一个收入账户
 
-**Asset accounts**
+**资产帐户**
 
 If you're creating an asset account, you should fill in the "opening balance" and the associated date. Very few people start using Firefly III and have a 0.00 balance. Instead, they already have some money in their account. Get out your administration, read the current balance of the account you're adding, and fill it in.
 

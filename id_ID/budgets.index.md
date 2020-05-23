@@ -2,7 +2,7 @@ Pada halaman ini, anda bisa menetapkan anggaran. setiap anggaran hanya berlaku u
 
 **Tetapkan anggaran di Firefly III**
 
-Pertama-tama, tetapkan jumlah yang tersedia untuk anda dengan menekan gambar pensil disamping ''*Available in ~~~*''. By default, this is zero. Tekan simbol (i) untuk mendapatkan indikasi dari apa yang bisa anda belanjakan bulan depan. Pada contoh ini, Saya akan menggunakan 1000,-.
+First, set the amount that is available to you by clicking the pencil icon next to "*Available in ~~~*". By default, this is zero.
 
 Kemudian, buatlah beberapa anggaran dengan tombol ''Creat a budget" bisa di tengah layar atau dimenu bagian atas. Yang anda butuhkan untuk sebuah anggaran adalah sebuah nama.
 

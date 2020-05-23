@@ -11,4 +11,4 @@ Po zakończeniu wybierania transakcji, kwota w obszarze "Opcje rozrachunku" powi
 
 Tak czy inaczej, naciśnij "Zapisz rozrachunek" w celu zachowania wyniku. Transakcje zostaną oznaczone jako "wyczyszczone" i opcjonalnie możesz utworzyć transakcję, która poprawi saldo konta aktywów Firefly III (rozrachunek).
 
-Jeśli chcesz dowiedzieć się więcej na temat rozrachunków, sprawdź [oficjalną dokumentację o rozrachunkach](https://docs.firefly-iii.org/advanced-concepts/reconcile).
+If you want to read more about reconciliations, check out the [official documentation on reconciliations](https://docs.firefly-iii.org/advanced-concepts/reconcile).
