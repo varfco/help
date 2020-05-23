@@ -11,4 +11,4 @@ Quando terminar de selecionar as transações, o montante em "Opções de reconc
 
 De qualquer forma, clique em "Registrar reconciliação" para registrar o resultado. The transactions will be marked as "cleared" and you can optionally create a transaction that will correct the balance of your Firefly III asset account (a reconciliation).
 
-If you want to read more about reconciliations, check out the [official documentation on reconciliations](https://firefly-iii.readthedocs.io/en/latest/advanced/reconcile.html).
+If you want to read more about reconciliations, check out the [official documentation on reconciliations](https://docs.firefly-iii.org/advanced-concepts/reconcile).

@@ -11,4 +11,4 @@ Faaliyetleri seçmeyi bitirdiğinizde, "Mutabakat seçeneklerinin" altındaki mi
 
 Her iki şekilde de, sonucu saklamak için "Mutabakatı sakla" tuşuna basın. Faaliyetler "temizlemiş" olarak işaretlenecektir ve isterseniz Firefly III varlık hesabınızın(mutabakat) bakiyesini düzeltecek bir faaliyet oluşturabilirsiniz.
 
-If you want to read more about reconciliations, check out the [official documentation on reconciliations](https://firefly-iii.readthedocs.io/en/latest/advanced/reconcile.html).
+If you want to read more about reconciliations, check out the [official documentation on reconciliations](https://docs.firefly-iii.org/advanced-concepts/reconcile).

@@ -11,4 +11,4 @@ A tranzakciók kiválasztásának befejezése után az "Egyeztetési beállítá
 
 Either way, press "Store reconciliation" to store the result. The transactions will be marked as "cleared" and you can optionally create a transaction that will correct the balance of your Firefly III asset account (a reconciliation).
 
-Az egyeztetésekről további információ [a hivatalos dokumentációban](https://firefly-iii.readthedocs.io/en/latest/advanced/reconcile.html) található.
+Az egyeztetésekről további információ [a hivatalos dokumentációban](https://docs.firefly-iii.org/advanced-concepts/reconcile) található.
