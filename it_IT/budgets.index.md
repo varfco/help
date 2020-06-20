@@ -2,7 +2,7 @@ In questa pagina puoi impostare i budget. Ogni budget è valido solo per il peri
 
 **Impostare i budget in Firefly III**
 
-First, set the amount that is available to you by clicking the pencil icon next to "*Available in ~~~*". By default, this is zero.
+Per prima cosa, imposta l'importo disponibile cliccando sull'icona della matita accanto a "*Disponibile in ~~~*". Per impostazione predefinita, questo è zero.
 
 Quindi, crea alcuni budget con il pulsante "Crea un budget" al centro dello schermo o nel menu in alto a destra. Tutto ciò che serve per un budget è un nome.
 

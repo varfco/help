@@ -1,1 +1,0 @@
-Delete your 2FA code.

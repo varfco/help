@@ -1,1 +1,1 @@
-Firefly III can collect telemetry. Learn more about this feature in the [documentation](https://docs.firefly-iii.org/support/telemetry)
+Firefly III peut collecter des informations par télémétrie. Renseignez-vous sur cette fonctionnalité dans la [documentation](https://docs.firefly-iii.org/support/telemetry)

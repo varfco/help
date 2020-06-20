@@ -1,1 +1,0 @@
-Attachments have some fields that you can edit here, to make them appear a little more friendly in your transaction overview.

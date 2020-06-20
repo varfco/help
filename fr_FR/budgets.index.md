@@ -2,7 +2,7 @@ Sur cette page, vous pouvez définir des budgets. Chaque budget est valable uniq
 
 **Définir des budgets dans Firefly III**
 
-First, set the amount that is available to you by clicking the pencil icon next to "*Available in ~~~*". By default, this is zero.
+Tout d'abord, définissez le montant dont vous disposez en cliquant sur le crayon à côté de "* Disponible entre le ~~~ * "Par défaut, le montant est nul.
 
 Ensuite, créez des budgets avec le bouton "Créer un budget", soit depuis le centre de l'écran soit depuis le menu en haut à droite. Le seul information dont vous ayez besoin pour créer un budget est un nom.
 

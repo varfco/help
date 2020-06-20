@@ -11,4 +11,4 @@ Une fois les transactions sélectionnées, le montant affiché dans les "Options
 
 Dans tous les cas, cliquez sur "Commencer le rapprochement" pour enregistrer le résultat. Les transactions seront marquées comme "pointées" et vous aurez la possibilité de créer une nouvelle transaction pour corriger le solde de votre compte d'actif Firefly III.
 
-If you want to read more about reconciliations, check out the [official documentation on reconciliations](https://docs.firefly-iii.org/advanced-concepts/reconcile).
+Si vous voulez plus d'informations sur les rapprochements, consultez [la documentation officielle sur les rapprochements](https://docs.firefly-iii.org/advanced-concepts/reconcile).

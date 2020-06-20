@@ -1,1 +1,0 @@
-Show all transactions for an account. This view is not limited by month or date settings.

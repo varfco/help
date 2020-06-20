@@ -1,1 +1,0 @@
-This page allows you to delete an attachment. Just remember that you cannot undo this. The encrypted file will be removed from the disk.
