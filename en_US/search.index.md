@@ -13,6 +13,7 @@ To narrow down your search for specific transactions, you may use the following 
 * Use `bill:insurance` to search for transactions tied to a specific bill.
 * Use `type:withdrawal` to search for specific types. Supported: transfer, deposit, withdrawal.
 * Use `on:2017-02-19`, `before:2016-12-10` or `after:2015-08-30` to limit the date range of the transactions returned.
+* Use `internal_reference:abc` or `external_id:def`.
 
 What you *cannot* do with modifiers is the following:
 
