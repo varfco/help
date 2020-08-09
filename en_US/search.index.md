@@ -17,8 +17,7 @@ To narrow down your search for specific transactions, you may use the following 
 
 What you *cannot* do with modifiers is the following:
 
-* `source:my employer`: you cannot use spaces.
-* `destination:"albert heijn"`: using quotes will not help.
+* `source:my employer`: you cannot use spaces. You must use `source:"my employer"` with double quotes. This also applies to the other fields of course.
 * `amount:€12,35`: don't use currency denominators, and use the dot as the decimal separator.
 * `on:today` or `before:30/5/17`: the only supported format is `YYYY-MM-DD`. 
 
