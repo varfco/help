@@ -1,5 +1,5 @@
 Use esta página para criar uma marca. Uma marca pode ter uma data e um local.
 
-If you want tags to have a location, add a Mapbox API key to your `.env` file.
+Se você quiser que suas etiquetas tenham uma localização, então adicione uma chave API do Mapbox para seu arquivo `.env`.
 
-You can read more about tags in [the official documentation](https://docs.firefly-iii.org/concepts/tags).
+Você pode ler mais sobre as etiquetas na documentação oficial.<0></p>

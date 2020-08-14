@@ -2,4 +2,4 @@ Wenn Sie ein Konto löschen, werden alle damit verbundenen Transaktionen ebenfal
 
 Sie können die Transaktionen auf ein neues Konto verschieben, wenn Sie diese behalten möchten.
 
-If you want to read more about accounts, check out the [official documentation on accounts](https://docs.firefly-iii.org/concepts/accounts).
+Wenn Sie mehr über Konten lesen möchten, können Sie dies in der [offiziellen Dokumentation zu Konten](https://docs.firefly-iii.org/concepts/accounts) machen.

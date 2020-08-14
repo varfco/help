@@ -13,4 +13,4 @@
 
 Такой подход поможет вам упорядочить свои сбережения.
 
-Read more about piggy banks in [the official documentation](https://docs.firefly-iii.org/advanced-concepts/piggies).
+Подробнее о копилках читайте в [официальной документации](https://docs.firefly-iii.org/advanced-concepts/piggies).

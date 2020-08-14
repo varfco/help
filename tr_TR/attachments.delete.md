@@ -1,1 +1,0 @@
-Bu sayfa size bir eki silmenize izin verir. Bu işlemi geri alamayacağınızı unutmayın. Şifrelenmiş dosya diskten kaldırılacaktır.

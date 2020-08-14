@@ -1,1 +1,0 @@
-Bu formu parolanızı değiştirmek için kullanın. Şifrenizi de doğrulamanızı öneriyoruz.

@@ -1,9 +1,9 @@
 Используйте эту форму для создания новых счетов к оплате.
 
 * Название счёта является чисто описательным и не используется при поиске и других внутренних операциях.
-* Используйте сумму (мин) и (макс), чтобы указать ожидаемые ограничения для счета на оплату. Эти суммы используются, чтобы дать вам представление об общей сумме всех счетов, которые вы должны платить за каждый период.
-* If you enter a number in the "skip" fields, the bill will be automatically skipped every X times; a bill that arrives every 3 months can be entered by filling in "2".
+* Используйте сумму (мин) и (макс), чтобы указать ожидаемые ограничения для счёта на оплату. Эти суммы используются, чтобы дать вам представление об общей сумме всех счетов, которые вы должны оплатить за каждый период.
+* Если вы вводите число в поле "Пропустить", счёт будет автоматически пропускаться каждые X временных отрезков. Например, счёт выставляется вам раз в 3 месяца, укажите в этом поле цифру "2".
 
-To match each bill to a transaction, you will be guided towards the page that allows you to create a rule. On this page you can enter the details of the kind of transaction you would want to match the rule.
+Чтобы связать каждый счет с транзакцией, вы будете перенаправлены на страницу, где вы можете создать правило. На этой странице вы можете ввести данные о типе транзакции, которую вы хотите связать с правилом.
 
-If you want to read more about bills, check out the [official documentation on bills](https://docs.firefly-iii.org/advanced-concepts/bills).
+Если вы хотите узнать больше о счетах на оплату, ознакомьтесь с [официальной документацией по счетам](https://docs.firefly-iii.org/advanced-concepts/bills).

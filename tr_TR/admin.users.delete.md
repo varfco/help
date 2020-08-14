@@ -1,1 +1,0 @@
-Bu form size kullanıcıları silmenize izin verir. Lütfen kendinizi silmeyin.

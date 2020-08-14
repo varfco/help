@@ -1,1 +1,0 @@
-Laman untuk pengguna individual menampilkan konten yang sama seperti tampilan daftar, bersamaan dengan beberapa statistik lucu tentang hal-hal yang telah dibuat pengguna.

@@ -13,10 +13,10 @@ Um die Suche auf bestimmte Transaktionen einzugrenzen, stehen folgende Suchparam
 * Use `bill:insurance` to search for transactions tied to a specific bill.
 * Use `type:withdrawal` to search for specific types. Supported: transfer, deposit, withdrawal.
 * Use `on:2017-02-19`, `before:2016-12-10` or `after:2015-08-30` to limit the date range of the transactions returned.
+* Use `internal_reference:abc` or `external_id:def`.
 
 Was Sie *nicht* mit Suchparametern machen können ist folgendes:
 
-* `source:Mein Arbeitgeber`: Es können keine Leerzeichen verwendet werden.
-* `destination:"Aldi Süd"`: Anführungszeichen helfen auch nicht.
-* `amount:€12,35`: Es können keine Währungszeichen benutzt werden, außerdem muss ein Punkt als Dezimaltrennzeichen verwendet werden.
-* `on:today` oder `before:30/5/17`: Das einzig unterstützte Datumsformat ist `JJJJ-MM-TT`.
+* `source:my employer`: you cannot use spaces. You must use `source:"my employer"` with double quotes. This also applies to the other fields of course.
+* `amount:€12,35`: don't use currency denominators, and use the dot as the decimal separator.
+* `on:today` or `before:30/5/17`: the only supported format is `YYYY-MM-DD`.

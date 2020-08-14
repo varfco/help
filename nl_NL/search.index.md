@@ -13,10 +13,10 @@ Om uw zoekopdracht voor specifieke transacties te verkleinen, kunt u de volgende
 * Use `bill:insurance` to search for transactions tied to a specific bill.
 * Use `type:withdrawal` to search for specific types. Supported: transfer, deposit, withdrawal.
 * Use `on:2017-02-19`, `before:2016-12-10` or `after:2015-08-30` to limit the date range of the transactions returned.
+* Use `internal_reference:abc` or `external_id:def`.
 
 Wat je *niet* kan doen met modifiers is het volgende:
 
-* `source:mijn werkgever`: Je kan geen spaties gebruiken.
-* `destination:"albert heijn"`: het gebruik van quotes helpt niet.
-* `amount:€12,35`: gebruik geen valuta, en gebruik de punt als het decimale scheidingsteken.
-* `on:today` of `before:30/5/17`: het enige ondersteunde formaat is `YYYY-MM-DD`.
+* `source:my employer`: you cannot use spaces. You must use `source:"my employer"` with double quotes. This also applies to the other fields of course.
+* `amount:€12,35`: don't use currency denominators, and use the dot as the decimal separator.
+* `on:today` or `before:30/5/17`: the only supported format is `YYYY-MM-DD`.

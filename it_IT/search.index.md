@@ -13,10 +13,10 @@ Per restringere la tua ricerca a specifiche transazioni puoi utilizzare i seguen
 * Usa `bill:assicurazione` per cercare le transazioni collegata ad una specifica bolletta.
 * Usa `type:withdrawal` per cercare le transazioni di uno specifico tipo. Tipi supportati: transfer (trasferimento), deposit (deposito), withdrawal (prelievo).
 * Usa `on:2017-02-19` (il), `before:2016-12-10` (prima del) o `after:2015-08-30` (dopo il) per limitare la ricerca alle transazioni avvenute in certo intervallo di date.
+* Use `internal_reference:abc` or `external_id:def`.
 
 Quello che *non* puoi fare con i modificatori comprende:
 
-* `source:datore di lavoro`: non puoi usare gli spazi.
-* `destination:"centro commerciale"`: utilizzare le virgolette non aiuta.
-* `amount:€12,35`: non utilizzare i caratteri della valuta e non utilizzare il punto come separatore dei decimali.
-* `on:today` (oggi) o `before:30/5/17`: l'unico formato supportato per le date è `AAAA-MM-GG`.
+* `source:my employer`: you cannot use spaces. You must use `source:"my employer"` with double quotes. This also applies to the other fields of course.
+* `amount:€12,35`: don't use currency denominators, and use the dot as the decimal separator.
+* `on:today` or `before:30/5/17`: the only supported format is `YYYY-MM-DD`.

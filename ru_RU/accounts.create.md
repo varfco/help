@@ -8,27 +8,27 @@
 
 **Основные счета**
 
-Если вы создаете основной счет, вы должны указать «начальный баланс» и соответствующую дату. Очень немногие люди начинают использовать Firefly III, имея нулевой баланс. Обычно они уже имеют некоторую сумму денег на своем счете. Get out your administration, read the current balance of the account you're adding, and fill it in.
+Если вы создаёте основной счёт, вы должны указать «начальный баланс» и соответствующую дату. Очень немногие люди начинают использовать Firefly III, имея нулевой баланс. Обычно они уже имеют некоторую сумму денег на своём счёте. Узнайте текущий баланс счёта, который вы добавляете, и укажите его здесь.
 
 Что касается доступных ролей:
 
-- Use "default asset account" for your own accounts.
-- Use "shared asset account" for household accounts.
-- Use "savings account" for accounts on which you save money.
-- Use "credit card" for credit cards. You can add some details later.
+- Используйте "счёт по умолчанию" для своих собственных счетов.
+- Используйте "общий основной счёт" для общих счетов вашей семьи.
+- Используйте "сберегательный счёт" для счетов, на которых вы храните свои сбережения.
+- Используйте "кредитная карта" для кредитных карт. Вы можете добавить дополнительные данные позже.
 
-**Liabilities**
+**Долги**
 
-Firefly III supports liabilities. You can add debts, loans and other liabilities as a means to track these. For each of them, you can enter the amount that you owe and the interest you pay over it.
+Firefly III поддерживает долги. Вы можете добавить долги, кредиты и другие обязательства в качестве средства отслеживания этих обязательств. Для каждого из них вы можете указать сумму, которую вы должны, и проценты, которые вы платите сверх неё.
 
-*Liabilities and amounts*
+*Долги и суммы*
 
 Let's say for the example you owe 1000,-. The best way to track the amount is by storing a new Debt in Firefly III in the amount of "-1000". This way, your net worth is influenced and you can move money into the liability to pay it off. Once it reaches zero, you can mark the account as inactive and be proud of paying it.
 
 The other way around would be that somebody owes you 1000,-. In such a case, it's **also** a good idea to store the debt as a negative amount. After all, you don't have the money right now and when that person pays you, it will positively influence your net worth.
 
-*Virtual balance*
+*Виртуальный баланс*
 
 Let's say you want to have a minimum balance of $100,- at all times. Enter "-100" and Firefly III will treat a balance of $100,- as zero. If you are creating a credit card account, enter the limit of your credit card (for example $1000,-). Firefly III will correctly display how far your limit is stretched.
 
-If you want to read more about accounts, check out the [official documentation on accounts](https://docs.firefly-iii.org/concepts/accounts).
+Если вы хотите узнать больше о счетах, ознакомьтесь с [официальной документацией по счетам](https://docs.firefly-iii.org/concepts/accounts).

@@ -13,10 +13,10 @@ A következő "módosítók" használhatóak a keresés bizonyos tranzakciókra 
 * Use `bill:insurance` to search for transactions tied to a specific bill.
 * Use `type:withdrawal` to search for specific types. Supported: transfer, deposit, withdrawal.
 * Use `on:2017-02-19`, `before:2016-12-10` or `after:2015-08-30` to limit the date range of the transactions returned.
+* Use `internal_reference:abc` or `external_id:def`.
 
 A következőket *nem lehet* megtenni a módosítókkal:
 
-* `source:my employer`: nem lehet szóközöket használni.
-* `destination:"albert heijn"`: az idézőjelek használata nem segít.
-* `amount:€12,35`: a pénznem szimbóluma nem használható és pontot (.) kell használni a tizedesjegyek elválasztásához.
-* `on:today` vagy `before:30/5/17`: az egyetlen támogatott formátum a `YYYY-MM-DD`.
+* `source:my employer`: you cannot use spaces. You must use `source:"my employer"` with double quotes. This also applies to the other fields of course.
+* `amount:€12,35`: don't use currency denominators, and use the dot as the decimal separator.
+* `on:today` or `before:30/5/17`: the only supported format is `YYYY-MM-DD`.

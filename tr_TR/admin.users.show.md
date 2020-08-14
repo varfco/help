@@ -1,1 +1,0 @@
-Bu sayfa ile kullanıcıların oluşturduğu eğlenceli istatistikleri görüntülersiniz. Özellikler Liste görünümü ile erişebileceğiniz içerikle aynıdır.

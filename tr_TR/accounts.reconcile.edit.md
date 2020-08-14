@@ -1,1 +1,0 @@
-Uzlaşmadan sonra, doğrulanan miktarı düzenlemek isteyebilirsiniz. Belki de bir kategori ya da bir etiket eklemek istiyor olabilirsiniz. Bunu bu sayfa üzerinde yapabilirsiniz.

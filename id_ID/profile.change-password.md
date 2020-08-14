@@ -1,1 +1,0 @@
-Gunakan from ini untuk melakukan perubahan password. Kami menyarankan untuk melakukan verifikasi juga.

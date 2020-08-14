@@ -1,5 +1,5 @@
-При удалении счета, любые связанные с ним операции будут удалены. If you're deleting an asset account and you've transferred money between the current asset account and other asset accounts, you might see changed balances all around. Remember to correct this, if necessary.
+При удалении счёта, все связанные с ним операции также будут удалены. Если вы удаляете счёт актива и переводите деньги между текущим счётом другими счётом актива, вы можете увидеть все изменяющиеся балансы вокруг. Не забудьте скорректировать их, если это необходимо.
 
-Вы можете перенести транзакции на новый счет, если хотите сохранить их.
+Вы можете перенести транзакции на новый счёт, если хотите сохранить их.
 
-If you want to read more about accounts, check out the [official documentation on accounts](https://docs.firefly-iii.org/concepts/accounts).
+Если вы хотите узнать больше о счетах, ознакомьтесь с [официальной документацией по счетам](https://docs.firefly-iii.org/concepts/accounts).

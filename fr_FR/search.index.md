@@ -13,10 +13,10 @@ Pour affiner votre recherche de transactions spécifiques, vous pouvez utiliser 
 * Utilisez `bill:assurance` pour rechercher des transactions liées à une facture spécifique.
 * Utilisez `type:withdrawal` pour rechercher un type de transaction spécifique. Valeurs supportées : transfer, deposit, withdrawal.
 * Utilisez `on:2017-02-19`, `before:2016-12-10` ou `after:2015-08-30` pour limiter la plage de date des transactions retournées.
+* Use `internal_reference:abc` or `external_id:def`.
 
 Ce que vous *ne pouvez pas* faire avec des modificateurs :
 
-* `source: mon employeur` : Vous ne pouvez pas utiliser d'espaces.
-* `destination: "albert heijn"` : Utiliser des guillemets n'aidera pas.
-* `amount:12,35€`: N'incluez pas les symboles de devise et utilisez le point comme séparateur décimal.
-* `on:today` ou `before:30/5/17`: le seul format pris en charge est `AAAA-MM-JJ`.
+* `source:my employer`: you cannot use spaces. You must use `source:"my employer"` with double quotes. This also applies to the other fields of course.
+* `amount:€12,35`: don't use currency denominators, and use the dot as the decimal separator.
+* `on:today` or `before:30/5/17`: the only supported format is `YYYY-MM-DD`.

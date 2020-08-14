@@ -1,1 +1,0 @@
-Faaliyetlerinize genel bakışınızı daha kullanışlı yapmak için burada ekleri düzenleyebileceğiniz bazı alanlar vardır.

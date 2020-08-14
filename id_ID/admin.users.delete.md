@@ -1,1 +1,0 @@
-Formulir ini akan mengizinkan anda untuk menghapus pengguna. Tolong jangan menghapus diri sendiri.

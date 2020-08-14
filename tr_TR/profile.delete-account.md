@@ -1,1 +1,0 @@
-Bu sayfayı hesabınızı silmek için kullanın. Hiçbir silme işlemi yok. Hepsi gitmiş olacak.

@@ -13,10 +13,10 @@ Para restringir su búsqueda de transacciones especificas, usted puede usar los 
 * Use `factura:seguro` para buscar transacciones enlazadas a una factura especifica.
 * Use `tipo:retiro` para buscar tipos específicos. Soportados: transferencia, deposito, retiro.
 * Use `on:2017-02-19`, `before:2016-12-10` o `after:2015-08-30` para limitar el rango de fecha de las transacciones devueltas.
+* Use `internal_reference:abc` or `external_id:def`.
 
 Lo que usted * no puede * hacer con modificadores es lo siguiente:
 
-* `source:mi empleador`: usted no puede usar espacios.
-* `destination:"albert heijn"`: no ayudara el uso de comillas.
-* `amount:€12,35`: no use denominaciones de moneras, y use el punto como el separador decimal.
-* `on:today` o `before:30/5/17`: el único formato soportado es `YYYY-MM-DD`.
+* `source:my employer`: you cannot use spaces. You must use `source:"my employer"` with double quotes. This also applies to the other fields of course.
+* `amount:€12,35`: don't use currency denominators, and use the dot as the decimal separator.
+* `on:today` or `before:30/5/17`: the only supported format is `YYYY-MM-DD`.

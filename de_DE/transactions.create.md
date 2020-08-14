@@ -2,4 +2,4 @@ Wenn Sie eine Transaktion anlegen können Sie mehrere Felder belegen. Falls Ihne
 
 Wenn Sie Bargeld abheben or einzahlen können Sie den Debitor bzw. Kreditor frei lassen.
 
-You can read more about transactions in [the official documentation](https://docs.firefly-iii.org/concepts/transactions).
+Lesen Sie mehr über Transaktionen in der [offiziellen Dokumentation](https://firefly-iii.readthedocs.io/en/latest/concepts/transactions.html).
