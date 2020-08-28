@@ -2,9 +2,9 @@ Firefly III bietet einige Berichte an. Jeder Bericht kann für einen schnellen Z
 
 Für alle Berichte muss angegeben werden, welche Bestandskonten im Bericht aufgenommen werden. Falls bestimmte Bestandskonten nicht ausgewählt sind, werden Transaktionen auf und von diesem Konto als Ausgaben bzw. Einnahmen gewertet.
 
-You must select a date range for each report. There are no limits to the date range you select. You can also use **magic words**, read more about them in [the official documentation](https://docs.firefly-iii.org/advanced-concepts/reports).
+Sie müssen für jeden Bericht einen Zeitraum auswählen. Es gibt keine Grenzen für den ausgewählten Zeitraum. Sie können ebenso sogenannte **magic words** verwenden. Über diese erfahren Sie mehr in der [offiziellen Dokumentation](https://docs.firefly-iii.org/advanced-concepts/reports).
 
-#### Standardfinanzbericht
+#### Standard-Finanzbericht
 
 Dieser Bericht zeigt eine allgemeine Übersicht über ihre aktuellen oder in der Vergangenheit liegenden Finanzen. Es gibt keine zusätzlichen Optionen.
 
@@ -24,8 +24,8 @@ Dieser Bericht zeigt die Einnahmen und Ausgaben in den ausgewählten Kategorien,
 
 Dieser Bericht zeigt die Einnahmen und Ausgaben für die ausgewählten Schlagwörter, gruppiert nach den ausgewählten Konten. Dementsprechend müssen sowohl Schlagwörter, als auch Konten ausgewählt werden, die in diesem Bericht mit aufgenommen werden.
 
-#### Aufwands-/Erlöskontenbericht
+#### Ausgaben-/Einnahmenabrechnung
 
 Dieser Bericht ist verfügbar für Konten, die sowohl Einnahmen, als auch Ausgaben enthalten. Das kann zum Beispiel der Fall sein, wenn man bei einem Supermarkt wie Rewe arbeitet. Dieser Bericht kann eine Übersicht über diese Konten zeigen.
 
-Read more about reports in [the official documentation](https://docs.firefly-iii.org/advanced-concepts/reports).
+Lesen Sie mehr über Berichte in der [offiziellen Dokumentation](https://docs.firefly-iii.org/advanced-concepts/reports).

@@ -1,1 +1,1 @@
-Auf dieser Seite ist es möglich den gespeicherten Anhang unwiderruflich zu löschen. Die verschlüsselte Datei wird somit gelöscht.
+Auf dieser Seite ist es möglich, den gespeicherten Anhang unwiderruflich zu löschen. Die verschlüsselte Datei wird somit vom Server entfernt.

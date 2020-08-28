@@ -4,4 +4,4 @@ Der Bericht beginnt mit einigen Diagrammen, welche darstellen, wie Ihr Geld in d
 
 Am Ende sind einige Statistiken der ausgewählten Periode zu sehen. Alle Listen sind sortierbar.
 
-Read more about reports in [the official documentation](https://docs.firefly-iii.org/advanced-concepts/reports).
+Lesen Sie mehr über Berichte in der [offiziellen Dokumentation](https://docs.firefly-iii.org/advanced-concepts/reports).

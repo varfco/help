@@ -1,1 +1,1 @@
-Alle Transaktionen anzeigen. Diese Ansicht ist nicht auf Monate oder Datumseinstellungen limitiert.
+Zeigt alle Transaktionen eines Kontos an. Diese Ansicht ist nicht durch Monate oder Datumseinstellungen limitiert.

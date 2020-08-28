@@ -1,1 +1,1 @@
-Die Seite für einzelne Benutzer zeigt den gleichen Inhalt wie die Listenansicht, zusammen mit einige amüsanten Statistiken über die Dinge, die der Benutzer erstellt hat.
+Die Seite (für jeden Benutzer individuell) zeigt den gleichen Inhalt wie die Listenansicht, zusammen mit einige amüsanten Statistiken über die Dinge, die der Benutzer erstellt hat.

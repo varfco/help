@@ -1,0 +1,1 @@
+Tato stránka zobrazuje preference, které můžete nastavit. Použijte záložky pro navigaci mezi nimi.

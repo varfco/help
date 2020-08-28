@@ -8,4 +8,4 @@ Währungen benötigen folgende Werte:
 - Einen Code, wie zum Beispiel USD oder EUR.
 - Einen Namen.
 
-If you want to read more about currencies, check out the [official documentation on currencies](https://docs.firefly-iii.org/concepts/currencies).
+Wenn Sie mehr über Währungen erfahren wollen, lesen Sie die [offizielle Dokumentation über Währungen](https://docs.firefly-iii.org/concepts/currencies).

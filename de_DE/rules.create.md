@@ -8,4 +8,4 @@ In beiden Fällen reagiert Firefly III, indem es die Aktionen ausführt. Sie kö
 
 Regeln können außerdem für importierte Transaktionen gelten.
 
-Read more about rules in [the official documentation](https://docs.firefly-iii.org/advanced-concepts/rules).
+Lesen Sie mehr über Regeln in der [offiziellen Dokumentation](https://docs.firefly-iii.org/advanced-concepts/rules).

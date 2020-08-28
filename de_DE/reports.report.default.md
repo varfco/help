@@ -16,8 +16,8 @@ Der Bericht beginnt mit einem Diagramm, welches die Salden Ihrer Bestandskonten 
 
 Danach kommt ein Diagramm, welches Ihr Vermögen, also die Summe aller Ihrer Bestandskonten, über die Zeit darstellt.
 
-Darunter folgt eine Liste Ihrer Kostenrahmen inklusive der Ausgaben pro Monat. Click the title and below the list, and a chart will appear. Klicken Sie den Pfeil-Button und Sie werden auf die Kostenrahmen Seite umgeleitet.
+Darunter folgt eine Liste Ihrer Kostenrahmen inklusive der Ausgaben pro Monat. Klicken Sie auf den Titel, um ein Diagramm anzeigen zu lassen. Klicken Sie den Pfeil-Button und Sie werden auf die Kostenrahmen Seite umgeleitet.
 
 Das gleiche gilt für die Liste der Kategorien dadrunter. Es gibt zwei Bereiche (und zwei Diagramme) für die Kategorien: für Einnahmen und für Ausgaben.
 
-Read more about reports in [the official documentation](https://docs.firefly-iii.org/advanced-concepts/reports).
+Lesen Sie mehr über Berichte in der [offiziellen Dokumentation](https://docs.firefly-iii.org/advanced-concepts/reports).

@@ -13,4 +13,4 @@ Angenommen Sie haben 900,- in Ihrem Sparkonto. Diesen Betrag können Sie nach ei
 
 Dies kann Ihnen helfen, Ihre Sparziele zu organisieren.
 
-Read more about piggy banks in [the official documentation](https://docs.firefly-iii.org/advanced-concepts/piggies).
+Lesen Sie mehr über Sparschweine in der [offiziellen Dokumentation](https://docs.firefly-iii.org/advanced-concepts/piggies).

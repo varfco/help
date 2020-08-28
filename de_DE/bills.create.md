@@ -1,9 +1,9 @@
-Benutzen Sie dieses Formular um eine neue Rechnung zu erfassen.
+Benutzen Sie dieses Formular, um eine neue Rechnung zu erstellen.
 
 * Der Name dient nur der Beschreibung und wird nicht intern genutzt.
-* Benutzen Sie Mindestbetrag und Höchstbetrag um die erwarteten Kosten der Rechnung darzustellen. Diese Werte werden genutzt um Ihnen einen Überblick über die offenen Rechnungen zu geben, die Sie in jeder Periode zahlen müssen.
-* If you enter a number in the "skip" fields, the bill will be automatically skipped every X times; a bill that arrives every 3 months can be entered by filling in "2".
+* Benutzen Sie Mindestbetrag und Höchstbetrag um die erwarteten Kosten der Rechnung darzustellen. Diese Werte werden genutzt, um Ihnen einen Überblick über die offenen Rechnungen zu geben, die Sie in jeder Periode zahlen müssen.
+* Falls Sie eine Zahl im "Überspringen"-Feld eintragen, wird diese Rechnung automatisch jedes X-te mal übersprungen; eine Rechnung, welche alle 3 Monate fällig wird, kann durch die Eintragung einer "2" im Feld erstellt werden.
 
-To match each bill to a transaction, you will be guided towards the page that allows you to create a rule. On this page you can enter the details of the kind of transaction you would want to match the rule.
+Um jede Rechnung einer Transaktion zuzuordnen, werden Sie auf die Seite geleitet, die es Ihnen erlaubt eine Regel anzulegen. Auf dieser Seite können Sie die Details der Transaktion angeben, die zum Erstellen der Regel genutzt werden sollen.
 
-If you want to read more about bills, check out the [official documentation on bills](https://docs.firefly-iii.org/advanced-concepts/bills).
+Wenn Sie mehr über Rechnungen erfahren wollen, lesen Sie die [offizielle Dokumentation über Rechnungen](https://docs.firefly-iii.org/advanced-concepts/bills).

@@ -1,3 +1,3 @@
-Wenn Sie einen Kostenrahmen löschen, werden die dazugehörigen Transaktionen nicht gelöscht. Die mit dem Kostenrahmen zusammenhängende Historie geht allerdings verloren.
+Wenn Sie ein Budget löschen, werden die dazugehörigen Transaktionen nicht gelöscht. Die mit dem Budget zusammenhängende Historie geht allerdings verloren.
 
-Wenn du mehr über Budgets lesen möchtest, schau dir die [offizielle Dokumentation zu Budgets an](https://docs.firefly-iii.org/concepts/budgets) an.
+Wenn Sie mehr über Budgets erfahren wollen, lesen Sie die [offizielle Dokumentation über Budgets ](https://docs.firefly-iii.org/concepts/budgets).

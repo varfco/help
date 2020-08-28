@@ -1,14 +1,14 @@
-Hier kannst du ein Bestandskonto abgleichen.
+Hier können Sie ein Bestandskonto abgleichen.
 
-Wähle zuerst eine Zeitspanne und gebe dann den Anfangs– und Endsaldo an, so dass er mit deinem Kontoauszug übereinstimmt. Es wird angenommen, dass diese korrekt sind, aber das werden wir als nächstes herausfinden. Klicke auf „Abgleich starten”.
+Wählen Sie zuerst eine Zeitspanne aus und geben Sie dann den Anfangs– und Endsaldo an, sodass dieser mit Ihrem Kontoauszug übereinstimmt. Im besten Fall stimmen diese mit unseren Salden in Firefly III überein, aber das werden wir als nächstes herausfinden. Klicken Sie nun auf „Abgleich starten”.
 
-Firefly III listet jetzt alle Transaktionen dieser Zeitspanne, zusätzlich einiger anderer, auf. Wähle alle Transaktionen aus die auf deinem Kontoauszug sind.
+Firefly III listet jetzt alle Transaktionen dieser Zeitspanne, zusätzlich einiger anderer, auf. Wählen Sie alle Transaktionen aus, die Sich auf Ihrem Kontoauszug finden lassen.
 
-Wenn du alle Transaktionen ausgewählt hast, sollte die Summe unter „Kontenabgleich Optionen" null sein. Es kann aber auch eine abweichende Summe sein.
+Wenn Sie alle Transaktionen ausgewählt haben, sollte die Summe unter „Kontenabgleich Optionen" null sein. Es kann aber auch eine abweichende Summe sein.
 
-* Ist der Betrag negativ, dann hat dein Bestandskonto in Firefly III einen niedrigeren Saldo als es laut deiner Bank haben sollte.
-* Ist der Betrag positiv, dann hat dein Bestandskonto in Firefly III einen höheren Saldo als es laut deiner Bank haben sollte.
+* Ist der Betrag negativ, dann hat Ihr Bestandskonto in Firefly III einen niedrigeren Saldo als der Ihrer Bank.
+* Ist der Betrag positiv, dann hat Ihr Bestandskonto in Firefly III einen höheren Saldo als der Ihrer Bank.
 
-Klicke auf "Kontenabgleich speichern" um das Ergebnis zu speichern. Die Transaktionen werden als "abgeglichen" markiert und du kannst optional eine Transaktion zur Korrektur der Salden in deinem Firefly III Bestandskonto erzeugen.
+Klicken Sie auf "Kontenabgleich speichern" um das Ergebnis zu speichern. Die Transaktionen werden als "abgeglichen" markiert und Sie können optional eine Transaktion zur Korrektur der Salden in Ihrem Firefly III Bestandskonto erzeugen.
 
-If you want to read more about reconciliations, check out the [official documentation on reconciliations](https://docs.firefly-iii.org/advanced-concepts/reconcile).
+Fall Sie mehr über Kontenabgleiche erfahren wollen, lesen Sie in der [offiziellen Dokumentation](https://docs.firefly-iii.org/advanced-concepts/reconcile) nach.

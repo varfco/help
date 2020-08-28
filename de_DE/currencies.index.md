@@ -12,4 +12,4 @@ Beachten Sie, dass jede Währung folgende Werte benötigt:
 
 Der Euro kann nicht deaktiviert oder entfernt werden.
 
-If you want to read more about currencies, check out the [official documentation on currencies](https://docs.firefly-iii.org/concepts/currencies).
+Wenn Sie mehr über Währungen erfahren wollen, lesen Sie die [offizielle Dokumentation über Währungen](https://docs.firefly-iii.org/concepts/currencies).

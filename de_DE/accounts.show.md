@@ -2,18 +2,18 @@ Diese Seite zeigt Ihnen die aktuellen Salden und die letzten Transaktionen für 
 
 **Bestandskonten**
 
-Bestandskonten zeigen die eingehenden und ausgehenden Transaktionen, wie es erwartet wird.
+Bestandskonten zeigen die eingehenden und ausgehenden Transaktionen, wie Sie es erwarten würden.
 
-**Kreditoren (Ausgabekonten)**
+**Kreditoren (Ausgabenkonten)**
 
-Aufwandskonten geben Einnahmen an, obwohl Sie nur Geld ausgegeben haben. Das liegt daran, dass aus der Sicht des Aufwandskontos Geld eingenommen wurde. Geld was Sie z.B. in einem Supermarkt ausgeben, sind Einnahmen für den Supermarkt.
+Ausgabenkonten zeigen Beträge als Einnahmen an, obwohl Sie bei diesen Geld ausgegeben. Das liegt daran, dass aus der Sicht des Aufwandskontos Geld eingenommen wurde. Geld, was Sie beispielsweise in einem Supermarkt ausgeben, sind Einnahmen für den Supermarkt.
 
 **Schuldner**
 
-Genau wie bei den Kreditoren, werden hier Ihre Einnahmen als Ausgaben aus der Sicht des Schuldners dargestellt. Transaktionen, die für Sie Einnahmen sind, sind für die andere Seite Ausgaben.
+Ähnlich zu den Kreditoren werden hier Beträge als Ausgaben aus der Sicht des Schuldners dargestellt. Transaktionen, die für Sie Einnahmen sind, sind für diese Ausgaben.
 
 **Verbindlichkeiten**
 
-Dieser Überblick zeigt einen Überblick über Ihre Verbindlichkeiten.
+Diese Übersicht gibt Ihnen Einsicht über Ihre Verbindlichkeiten.
 
-If you want to read more about accounts, check out the [official documentation on accounts](https://docs.firefly-iii.org/concepts/accounts).
+Falls Sie mehr über Konten erfahren möchten, prüfen Sie die [offizielle Dokumentation über Konten](https://docs.firefly-iii.org/concepts/accounts).
