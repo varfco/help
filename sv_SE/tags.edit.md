@@ -1,5 +1,5 @@
 Editera en tagg för att ändra taggen, datumet eller platsen.
 
-If you want tags to have a location, add a Mapbox API key to your `.env` file.
+Om du vill att taggar ska ha en plats, lägg till en Mapbox API-nyckel till din `.env` -fil.
 
-You can read more about tags in [the official documentation](https://docs.firefly-iii.org/concepts/tags).
+Du kan läsa mer om taggar i [den officiella dokumentationen](https://docs.firefly-iii.org/concepts/tags).

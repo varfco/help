@@ -1,0 +1,1 @@
+Visa alla transaktioner för ett konto. Den här vyn är inte begränsad av månads- eller datuminställningar.

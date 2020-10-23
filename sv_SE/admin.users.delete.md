@@ -1,0 +1,1 @@
+Detta formulär låter dig ta bort användare. Ta inte bort dig själv.

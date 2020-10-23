@@ -1,0 +1,1 @@
+Bilagor har några fält som du kan redigera här, för att få dem att synas lite mer vänliga i din transaktionsöversikt.

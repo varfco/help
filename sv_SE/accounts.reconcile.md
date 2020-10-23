@@ -1,14 +1,14 @@
 Du kan använda den här vyn för att förlika ett tillgångskonto.
 
-Först, välj ett datumintervall och sätt initial samt startbalans som det visas på ditt bankutdrag. It is assumed that these are correct of course, but this we shall find out now. Then, click "start reconciling".
+Ange först ett datumintervall och ange öppnings- och startsaldot som det visar på ditt kontoutdrag. Det antas att dessa naturligtvis är korrekta, men det kommer vi att få reda på nu. Klicka sedan på "börja förena sig".
 
-Firefly III will show you the transactions from this range, plus some extra transactions just for good measure. Select all transactions that appear on your bank statements.
+Firefly III kommer att visa dig transaktionerna från detta sortiment, plus några extra transaktioner bara för god åtgärd. Välj alla transaktioner som visas på dina kontoutdrag.
 
-When you are done selecting transactions, the amount under "Reconciliation options" should be zero. It could be that it is different.
+När du är klar med att välja transaktioner bör beloppet under "Avstämningsalternativ" vara noll. Det kan vara så att det är annorlunda.
 
-* When the amount is below zero, your Firefly III asset account has less money in it than your bank says it should have.
-* When the amount is more than zero, your Firefly III asset account has more money in it than your banks says it should have.
+* När beloppet är under noll, har ditt Firefly III tillgångskonto mindre pengar i det än din bank säger att det bör vara.
+* När beloppet är mer än noll, har ditt Firefly III tillgångskonto mer pengar i det än dina banker säger att det bör vara.
 
-Either way, press "Store reconciliation" to store the result. The transactions will be marked as "cleared" and you can optionally create a transaction that will correct the balance of your Firefly III asset account (a reconciliation).
+Hursomhelst, tryck på "Spara sammanjämkning" för att lagra resultatet. Transaktionerna kommer att markeras som "rensade" och du kan eventuellt skapa en transaktion som korrigerar saldot på ditt Firefly III tillgångskonto (en avstämning).
 
-If you want to read more about reconciliations, check out the [official documentation on reconciliations](https://docs.firefly-iii.org/advanced-concepts/reconcile).
+Om du vill läsa mer om försoningar, kolla in [officiella dokumentation om försoningar](https://docs.firefly-iii.org/advanced-concepts/reconcile).

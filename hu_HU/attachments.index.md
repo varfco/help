@@ -1,1 +1,1 @@
-Az összes melléklet listája. This view was created so you can get an overview of your attachments. It's not promoted or linked to anywhere else.
+Az összes melléklet listája. Azért lett létrehozva, hogy áttekintést nyújtson a mellékletekről. Erre a lapra nincs hivatkozás máshol.
