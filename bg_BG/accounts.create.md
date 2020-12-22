@@ -1,25 +1,25 @@
-**Crediteuren**
+**Expense accounts**
 
-Maak alleen crediteuren aan voor plaatsen waar je geld uitgeeft.
+Only create expense accounts for places where you spend money.
 
-**Debiteuren**
+**Revenue accounts**
 
-Maak alleen debiteuren aan voor plaatsen waar je geld van krijgt.
+Only create revenue accounts for places where you get money from.
 
-**Betaalrekeningen**
+**Asset accounts**
 
-Als je een betaalrekening maakt, vul dan het startsaldo in en de datum van het startsaldo. Er zijn maar weinig mensen die met Firefly III beginnen en een saldo van 0,00 hebben. Vaak hebben ze al geld op hun rekening staan. Pak je administratie er bij, lees het huidige saldo af van de rekening die je toevoegt en vul dit in.
+If you're creating an asset account, you should fill in the "opening balance" and the associated date. Very few people start using Firefly III and have a 0.00 balance. Instead, they already have some money in their account. Get out your administration, read the current balance of the account you're adding, and fill it in.
 
-De rollen die je kan kiezen:
+As for the roles that are available:
 
-- Gebruik "standaard activa rekening" voor je eigen accounts.
-- Gebruik de "gedeelde betaalrekeningen" voor gedeelde rekeningen.
-- Gebruik "spaarrekeningen" voor rekeningen waar je geld op spaart.
-- Gebruik "creditcard" voor creditcards. Je kan later nog wat details toevoegen.
+- Use "default asset account" for your own accounts.
+- Use "shared asset account" for household accounts.
+- Use "savings account" for accounts on which you save money.
+- Use "credit card" for credit cards. You can add some details later.
 
-**Passiva**
+**Liabilities**
 
-Firefly III ondersteunt passiva. Je kan schulden, leningen en overige verplichtingen bijhouden als "passiva". Voor elk van hen, geef je het bedrag op dat je verschuldigd bent en de rente die je er over betaalt.
+Firefly III supports liabilities. You can add debts, loans and other liabilities as a means to track these. For each of them, you can enter the amount that you owe and the interest you pay over it.
 
 *Liabilities and amounts*
 
