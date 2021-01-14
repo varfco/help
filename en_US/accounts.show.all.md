@@ -1,1 +1,1 @@
-Show all transactions for an account. This view is not limited by month or date settings.
+If you want to read more about accounts, check out the [official documentation on accounts](https://docs.firefly-iii.org/concepts/accounts).
