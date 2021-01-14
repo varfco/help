@@ -1,1 +1,0 @@
-Use esta pagina para eliminar su cuenta. no hay recuperación. todo se ira.

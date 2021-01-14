@@ -1,1 +1,0 @@
-Hier kann der eigene Account gelöscht werden. Es werden alle Daten unwiderruflich gelöscht.

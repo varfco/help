@@ -1,1 +1,0 @@
-Strona dla użytkowników indywidualnych pokazuje tę samą zawartość co widok listy, wraz z zabawnymi statystykami dotyczącymi rzeczy, stworzonych przez użytkownika.

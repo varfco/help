@@ -1,1 +1,0 @@
-Sidan för enskilda användare visar samma innehåll som listvyn gör, tillsammans med lite underhållande statistik om de saker som användaren har skapat.

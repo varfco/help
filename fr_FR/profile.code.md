@@ -1,1 +1,0 @@
-Définissez votre code 2FA.

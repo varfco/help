@@ -1,1 +1,0 @@
-Az egyes felhasználók oldala ugyanazt a tartalmat jeleníti meg, mint a lista nézet, valamint néhány szórakoztató statisztikát a felhasználó által létrehozott dolgokról.

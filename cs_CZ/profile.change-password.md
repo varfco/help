@@ -1,1 +1,0 @@
-Pro změnu svého hesla použijte tento formulář. Je doporučeno své heslo také ověřit.

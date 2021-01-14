@@ -1,1 +1,0 @@
-Esta pagina le muestra a usted las preferencias que puede establecer. usa las pestañas para navegar entre ellas.

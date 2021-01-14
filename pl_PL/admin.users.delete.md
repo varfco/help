@@ -1,1 +1,0 @@
-Ten formularz pozwala na usuwanie użytkowników. Proszę, nie usuń samego siebie.

@@ -1,1 +1,0 @@
-Vous pouvez changer toutes les caractéristiques de tous les utilisateurs ici. S'il vous plaît soyez prudent, il est facile de vous verrouiller vous-même (ou d'autres) hors du système.

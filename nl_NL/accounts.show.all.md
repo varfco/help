@@ -1,1 +1,0 @@
-Toon alle transacties voor een account. Deze weergave wordt niet beperkt door maand of datum instellingen.

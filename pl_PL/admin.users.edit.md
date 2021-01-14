@@ -1,1 +1,0 @@
-Można zmienić wszystkie aspekty wszystkich użytkowników w tym miejscu. Proszę uważaj, łatwo zablokować siebie (lub innych).

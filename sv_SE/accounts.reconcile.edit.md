@@ -1,1 +1,0 @@
-Det kan vara så att, efter en förlikning, du önskar ändra summan som rättats. Eller kanske vill du lägga till en tag eller en kategori. Du kan göra det på den här sidan.

@@ -1,1 +1,0 @@
-Puede ser, que luego de una reconciliación, quiera editar el monto que fue corregido. O puede ser que desee añadir una etiqueta o categoría. Puede hacerlo en esta página.

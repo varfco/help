@@ -1,1 +1,0 @@
-Lista över alla bilagor. Denna vy har skapats så att du kan få en överblick över dina bilagor. Den visas inte eller länkas någon annanstans.

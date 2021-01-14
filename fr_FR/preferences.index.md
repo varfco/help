@@ -1,1 +1,0 @@
-Cette page vous montre les préférences que vous pouvez définir. Utilisez les onglets pour naviguer entre elles.

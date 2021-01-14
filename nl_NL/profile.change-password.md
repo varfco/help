@@ -1,1 +1,0 @@
-Gebruik dit formulier om je wachtwoord te wijzigen. Gebruik vooral de "verifieer wachtwoord" functie.

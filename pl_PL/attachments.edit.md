@@ -1,1 +1,0 @@
-Załączniki mają pola, które możesz tutaj edytować, aby wyglądały bardziej przyjaźnie na podglądzie transkacji.

@@ -1,1 +1,0 @@
-Je kan hier alle aspecten van alle gebruikers wijzigen. Wees voorzichtig, het is gemakkelijk om jezelf (of anderen) uit het systeem buiten te sluiten.

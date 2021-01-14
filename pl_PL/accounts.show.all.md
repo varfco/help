@@ -1,1 +1,0 @@
-Pokaż wszystkie transakcje dla konta. Ten widok nie jest ograniczony przez ustawienia miesiąca lub daty.

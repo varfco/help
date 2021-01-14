@@ -1,3 +1,0 @@
-Cette page vous présente un aperçu de tous les utilisateurs de votre installation. Habituellement, il n'y a qu'un seul utilisateur (vous).
-
-Chacun des champs devrait être suffisamment clair. Le "code de blocage" ne sera jamais renseigné pour votre propre compte mais uniquement pour les autres. Ces codes se renseignent quand un utilisateur est supprimé (par vous) ou quand un utilisateur a changé son adresse email.

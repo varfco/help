@@ -1,1 +1,0 @@
-Falls Sie nach der Anpassung eines Bestandskontos den Wert, der korrigiert wurde, anpassen wollen, können Sie dies auf dieser Seite tun. Sie können auch die Korrekturbuchung Schlagwörtern oder Kategorien zuordnen.

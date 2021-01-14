@@ -1,1 +1,0 @@
-Este formulario le permite eliminar usuarios. Por favor, no se elimine a usted mismo.

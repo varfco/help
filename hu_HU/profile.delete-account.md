@@ -1,1 +1,0 @@
-Ezen az oldalon lehet törölni a fiókot. Nincs visszavonás. Minden el fog tűnni.

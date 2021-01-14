@@ -1,3 +1,0 @@
-Dies zeigt eine Liste aller Kategorien in Ihrem System und wann diese zuletzt verwendet wurden. Sie können neue Kategories manuell oder beim Erfassen einer neuen Transaktion erstellen. Es gibt auch einen speziellen Button für Transaktionen ohne Kategorie.
-
-Wenn Sie mehr über Kategorien erfahren wollen, lesen Sie die [offizielle Dokumentation über Kategorien](https://docs.firefly-iii.org/concepts/categories).

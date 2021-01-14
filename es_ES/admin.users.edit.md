@@ -1,1 +1,0 @@
-Usted puede cambiar todos los aspectos para todos los usuarios de acá. Por favor tenga cuidado, es fácil bloquearse a usted (u otros) fuera del sistema.

@@ -1,1 +1,0 @@
-Deze pagina toont de voorkeuren die je kan instellen. Gebruik de tabbladen om te navigeren.

@@ -1,3 +1,0 @@
-Verknüpfungen, die Sie angelegt haben, können gelöscht werden. Falls Sie die Verbindungen zwischen den Transaktionen nicht verlieren wollen, können Sie die Transaktionen zu einer anderen Transaktionsverknüpfung migrieren.
-
-Falls Sie mehr über Transaktionsverknüpfungen erfahren wollen, lesen Sie die [offizielle Dokumentation über Transaktionsverknüpfungen ](https://docs.firefly-iii.org/advanced-concepts/links).

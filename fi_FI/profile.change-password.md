@@ -1,1 +1,0 @@
-Käytä tätä lomaketta vaihtaaksesi salasanasi. Ehdotan että myös varmistat salasanasi.

@@ -1,1 +1,0 @@
-Use este formulário para alterar sua senha. Eu sugiro que você verifique sua senha também.

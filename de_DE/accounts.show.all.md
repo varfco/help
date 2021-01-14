@@ -1,1 +1,0 @@
-Zeigt alle Transaktionen eines Kontos an. Diese Ansicht ist nicht durch Monate oder Datumseinstellungen limitiert.

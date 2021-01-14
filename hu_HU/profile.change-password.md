@@ -1,1 +1,0 @@
-Ezen az űrlapon lehet jelszót módosítani. Javasolt a jelszóbiztonság ellenőrzésének bekapcsolása.

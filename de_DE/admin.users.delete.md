@@ -1,1 +1,0 @@
-Hier können Sie Benutzer löschen. Bitte löschen Sie nicht sich selbst.

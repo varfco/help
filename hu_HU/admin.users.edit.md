@@ -1,1 +1,0 @@
-Itt lehet a felhasználók összes beállítását módosítani. Óvatosan kell eljárni, könnyen kizárhatod a felhasználókat vagy akár magadat is a rendszerből.

@@ -1,1 +1,0 @@
-Ezen az oldalon lehet mellékletet törölni. A törlés nem vonható vissza. A titkosított fájl törölve lesz a lemezről.

@@ -1,1 +1,0 @@
-Dit formulier stelt je in staat om gebruikers te verwijderen. Verwijder jezelf niet.

@@ -1,1 +1,0 @@
-Liste aller Anhänge. Hier können Sie sich einen Überblick über alle bestehenden Anhänge verschaffen. Dies wird nicht an einer anderen Stelle angezeigt.

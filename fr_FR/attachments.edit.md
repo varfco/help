@@ -1,1 +1,0 @@
-Les pièces jointes possèdent des champs que vous pouvez éditer ici, ceci les rendra plus facile à identifier dans les vues d'ensemble de vos transactions.

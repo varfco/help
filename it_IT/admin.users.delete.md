@@ -1,1 +1,0 @@
-Questo modulo ti permette di cancellare gli utenti. Per favore, non eliminare te stesso.

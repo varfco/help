@@ -1,1 +1,0 @@
-La página para usuarios individuales muestra el mismo contenido al igual que la vista de lista, en conjunto con estadísticas entretenidas sobre lo que ha creado el usuario.

@@ -1,1 +1,0 @@
-Ta strona pozwala na usuwanie załącznika. Pamiętaj tylko, że nie da się tego odwrócić. Zaszyfrowany plik zostanie usunięty z dysku.

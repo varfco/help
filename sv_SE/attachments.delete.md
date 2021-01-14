@@ -1,1 +1,0 @@
-Denna sida låter dig ta bort en bilaga. Kom bara ihåg att du inte kan ångra detta. Den krypterade filen kommer att tas bort från disken.
